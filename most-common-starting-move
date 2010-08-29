@@ -20,6 +20,8 @@ for my $game (@{LoadFile("games")}) {
     $first_moves{$col.$row}++
 }
 
-for (sort { $first_moves{$b} <=> $first_moves{$a} } keys %first_moves) {
-    say $_, ": ", $first_moves{$_}
+for my $key ( sort {$first_moves{$b} <=> $first_moves{$a}}
+              keys %first_moves ) {
+
+    say $key, ": ", $first_moves{$key}
 }
