@@ -1,0 +1,29 @@
+#! /usr/bin/env perl -w
+use 5.010;
+use strict;
+use YAML qw<LoadFile>;
+
+my %first_moves;
+
+for my $game (@{LoadFile("games")}) {
+    my $moves = $game->{moves};
+    my @moves = split ';', $moves;
+
+    my $col = substr($moves[0], 2, 1);
+    my $row = ord(substr($moves[0], 3)) - ord("a") + 1;
+
+    if ($row > 7) {
+        $row = 14 - $row;
+        $col = chr(ord("n") - (ord($col) - ord("a") + 1))
+    }
+
+    my $swap = $moves[1] =~ /swap/ ? '-swap' : '';
+
+    $first_moves{$col.$row.$swap}++
+}
+
+for my $key ( sort {$first_moves{$b} <=> $first_moves{$a}}
+              keys %first_moves ) {
+
+    say $key, ": ", $first_moves{$key}
+}
