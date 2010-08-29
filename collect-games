@@ -18,10 +18,12 @@ my $player_finder = scraper {
     };
 };
 
-my $players = $player_finder->scrape(URI->new(q[http://www.littlegolem.net/jsp/info/player_list.jsp?gtvar=hex_DEFAULT]));
+my $url
+    = q[http://www.littlegolem.net/jsp/info/player_list.jsp?gtvar=hex_DEFAULT];
+my $players = $player_finder->scrape( URI->new($url) );
 
-my @best_players = map { $_->{'name'} } @{$players->{'players'}};
-my @player_ids = map { $_->{'player_id'} } @{$players->{'players'}};
+my @best_players = map { $_->{'name'} }      @{$players->{'players'}};
+my @player_ids   = map { $_->{'player_id'} } @{$players->{'players'}};
 
 my $ua = LWP::UserAgent->new;
 
@@ -31,7 +33,10 @@ my @games;
 for my $player_id (@player_ids) {
     warn $player_id;
     sleep 5;
-    my $response = $ua->get('http://www.littlegolem.net/jsp/info/player_game_list_txt.jsp?plid=' . $player_id . '&gtid=hex');
+    my $response
+        = $ua->get(
+          'http://www.littlegolem.net/jsp/info/player_game_list_txt.jsp?plid='
+            . $player_id . '&gtid=hex' );
 
     die $response->status_line unless $response->is_success;
 
