@@ -1,0 +1,2365 @@
+---
+- moves: 'W[me];B[swap];W[kj];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[ie];W[de];B[ii];W[ei];B[dl];W[hj];B[ef];W[cg];B[ch];W[ld];B[fg];W[ff];B[eg];W[lg];B[kh];W[lh];B[ki];W[li];B[lc];W[kd];B[jc];W[kc];B[jb];W[lb];B[lf];W[hf];B[he];W[kg];B[kf];W[jf];B[jg];W[gh];B[hi];W[hh];B[gj];W[dk];B[fi];W[fh];B[ej];W[dj];B[bm];W[ek];B[fl];W[gk];B[fk];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mh];B[swap];W[kj];B[ed];W[cd];B[bb];W[bd];B[gg];W[ld];B[jg];W[bj];B[bk];W[ig];B[hi];W[ei];B[fh];W[eh];B[ff];W[gf];B[fe];W[ih];B[hd];W[je];B[ii];W[jh];B[ki];W[li];B[lc];W[jd];B[jk];W[jj];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[mf];B[swap];W[jj];B[ie];W[fh];B[ed];W[cd];B[kk];W[fe];B[il];W[hk];B[ij];W[ik];B[gm];W[fl];B[gk];W[gl];B[ff];W[dg];B[dj];W[ek];B[fi];W[hh];B[gh];W[hg];B[gg];W[bk];B[bl];W[ck];B[cl];W[dk];B[dm];W[em];B[fk];W[ld];B[jf];W[hf];B[hj];W[ji];B[dc];W[jg];B[lc];W[hi];B[gc];W[hd];B[gb];W[jd];B[he];W[bh];B[ge];W[de];B[gd];W[cc];B[cf];W[ee];B[bj];W[resign]'
+  player_black: Art Duval
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mh];B[gg];W[de];B[fj];W[ld];B[jk];W[kk];B[kj];W[dj];B[dc];W[bc];B[di];W[cj];B[dh];W[ei];B[fg];W[eg];B[eh];W[bi];B[cg];W[bf];B[bh];W[dg];B[ch];W[ig];B[gh];W[gi];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[ei];B[ek];W[gj];B[jb];W[ef];B[eg];W[gf];B[gi];W[di];B[fd];W[de];B[df];W[ch];B[ec];W[gd];B[hc];W[ld];B[if];W[he];B[fh];W[gc];B[dg];W[bg];B[fi];W[cl];B[ee];W[jh];B[jg];W[lf];B[ki];W[hi];B[ih];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mh];B[swap];W[ie];B[ed];W[cd];B[cb];W[bc];B[bb];W[dd];B[fb];W[db];B[ei];W[kj];B[kk];W[jk];B[jh];W[de];B[gh];W[bj];B[cj];W[ih];B[ii];W[di];B[eh];W[fi];B[fg];W[dj];B[el];W[ej];B[jb];W[bg];B[dh];W[ai];B[bl];W[ci];B[cm];W[gk];B[fj];W[hi];B[hj];W[gj];B[gi];W[hg];B[fe];W[gg];B[fh];W[jc];B[kb];W[hc];B[gb];W[ia];B[resign]'
+  player_black: Maciej Celuch
+  player_white: koontz
+  winner: B
+- moves: 'W[mf];B[swap];W[kj];B[ie];W[fh];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[ii];W[ef];B[dj];W[ld];B[kd];W[hi];B[hl];W[ej];B[dk];W[el];B[fg];W[dg];B[dh];W[eh];B[eg];W[kf];B[ke];W[le];B[lc];W[gf];B[gg];W[hf];B[ig];W[hg];B[gh];W[hh];B[fk];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[jk];W[fh];B[fj];W[dg];B[de];W[gi];B[jb];W[ic];B[he];W[jc];B[ef];W[ke];B[ei];W[gk];B[fi];W[hi];B[ig];W[jg];B[jd];W[gh];B[hf];W[eg];B[df];W[lc];B[ld];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ac];B[ei];W[fh];B[jk];W[lk];B[kl];W[ll];B[lj];W[dg];B[fi];W[ii];B[hf];W[hg];B[eh];W[jg];B[jf];W[ci];B[df];W[bj];B[fe];W[ge];B[ff];W[gf];B[hj];W[gi];B[gh];W[kh];B[hh];W[ig];B[ij];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ac];B[ij];W[ji];B[ei];W[ii];B[ie];W[ch];B[de];W[fe];B[hh];W[ld];B[kd];W[hf];B[ff];W[he];B[dl];W[fj];B[jk];W[bl];B[gh];W[ig];B[gj];W[hj];B[kf];W[kh];B[kg];W[ih];B[if];W[hg];B[gl];W[gk];B[em];W[fl];B[fm];W[el];B[dm];W[bj];B[ck];W[bk];B[fd];W[jc];B[ef];W[fg];B[eg];W[bi];B[di];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ac];B[ij];W[ji];B[ei];W[ii];B[jd];W[ch];B[de];W[ff];B[hg];W[bj];B[bk];W[cj];B[dk];W[ck];B[dl];W[bl];B[ef];W[eg];B[gd];W[hd];B[ge];W[ie];B[hc];W[ic];B[he];W[id];B[gg];W[jf];B[jk];W[fh];B[hh];W[jg];B[fi];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mh];B[swap];W[kj];B[ei];W[bj];B[de];W[cd];B[ig];W[ld];B[ji];W[bf];B[ec];W[ed];B[cg];W[df];B[cf];W[di];B[dj];W[al];B[eg];W[gg];B[gh];W[ii];B[cl];W[bl];B[fe];W[hg];B[hh];W[eh];B[jb];W[kb];B[kd];W[he];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Pawcio
+  winner: B
+- moves: 'W[mh];B[ie];W[de];B[dc];W[bc];B[bd];W[ec];B[fh];W[ld];B[jk];W[kk];B[lg];W[hh];B[gk];W[dj];B[df];W[kf];B[kd];W[lc];B[ke];W[le];B[jg];W[ji];B[jh];W[kh];B[kg];W[hg];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Daniel Sepczuk
+  winner: B
+- moves: 'W[mk];B[ei];W[cd];B[dc];W[dd];B[ie];W[ld];B[kd];W[fh];B[cc];W[bd];B[cb];W[ec];B[fa];W[gb];B[fc];W[fb];B[eg];W[fi];B[gf];W[mb];B[lb];W[ma];B[lc];W[mc];B[ke];W[le];B[hh];W[kg];B[jj];W[kh];B[ik];W[ch];B[ej];W[resign]'
+  player_black: Alexandre
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mh];B[ie];W[fh];B[dj];W[jd];B[je];W[de];B[fi];W[bj];B[ch];W[bg];B[bi];W[di];B[gf];W[ld];B[kg];W[lg];B[lf];W[ig];B[jg];W[hf];B[he];W[eg];B[cj];W[hh];B[gk];W[ii];B[ij];W[ji];B[jk];W[ej];B[fj];W[ei];B[dl];W[fk];B[em];W[fl];B[fm];W[gl];B[gm];W[il];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Art Duval
+  winner: B
+- moves: 'W[mf];B[swap];W[kj];B[ie];W[fh];B[dc];W[ge];B[dj];W[ej];B[el];W[dk];B[bl];W[dl];B[gd];W[fe];B[fg];W[hf];B[hd];W[kc];B[jf];W[fd];B[he];W[gf];B[fi];W[if];B[je];W[lc];B[gh];W[ig];B[jk];W[hi];B[fj];W[hl];B[ih];W[hh];B[resign]'
+  player_black: koontz
+  player_white: Maciej Celuch
+  winner: B
+- moves: 'W[mh];B[swap];W[ei];B[ed];W[kj];B[kk];W[jk];B[ie];W[ld];B[kd];W[cd];B[cb];W[dd];B[fb];W[db];B[dg];W[mb];B[lc];W[mc];B[lb];W[ma]'
+  player_black: Maciej Celuch
+  player_white: wojtex
+  winner: B
+- moves: 'W[md];B[swap];W[gg];B[dc];W[ih];B[jk];W[dh];B[hi];W[ej];B[fj];W[dj];B[jb];W[hc];B[gb];W[kb];B[jc];W[kc];B[jd];W[fd];B[ia];W[ec];B[fa];W[eb];B[ea];W[db];B[da];W[cb];B[ca];W[kd];B[je];W[ab];B[bb];W[ac];B[bc];W[ad];B[bd];W[ae];B[be];W[af];B[bg];W[bf];B[cf];W[ce];B[ef];W[de];B[ge];W[resign]'
+  player_black: Frode Lillevold
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ae];B[swap];W[ie];B[jk];W[kj];B[ei];W[jj];B[jd];W[hd];B[gc];W[kf];B[kk];W[gj];B[ib];W[hb];B[hc];W[ch];B[id];W[fc];B[fb];W[dd];B[df];W[be];B[fe];W[cf];B[cg];W[ah];B[ee];W[ce];B[bh];W[ai];B[bi];W[aj];B[bj];W[ak];B[bl];W[bk];B[dk];W[ck];B[cl];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mh];B[ij];W[ei];B[ck];W[kj];B[fe];W[ed];B[dc];W[df];B[eg];W[ff];B[ef];W[ch];B[di];W[eh];B[gc];W[gd];B[fd];W[fb];B[dh];W[ie];B[jc];W[kg];B[ib];W[kc];B[je];W[jd];B[hf];W[if];B[kh];W[hg];B[dl];W[dk];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[mh];B[swap];W[ei];B[ie];W[jd];B[dj];W[kj];B[kk];W[jk];B[jl];W[lj];B[lk];W[il];B[im];W[hl];B[jg];W[de];B[dc];W[cd];B[cc];W[bd];B[cb];W[gg];B[gc];W[ig];B[je];W[he];B[id];W[ec];B[fk];W[ej];B[ef];W[cg];B[dh];W[eg];B[dg];W[gd];B[hb];W[ge];B[ic];W[ee];B[dl];W[el];B[ek];W[hi];B[ij];W[gk];B[gj];W[ih];B[resign]'
+  player_black: Maciej Celuch
+  player_white: koontz
+  winner: B
+- moves: 'W[ll];B[ie];W[ei];B[ed];W[cd];B[dj];W[fg];B[ej];W[hh];B[ff];W[he];B[hf];W[gf];B[gi];W[hg];B[gg];W[fi];B[fj];W[jf];B[ii];W[hi];B[gk];W[fk];B[gj];W[hj];B[hk];W[ij];B[ik];W[jj];B[jk];W[kj];B[kk];W[mj];B[gh];W[cj];B[di];W[ci];B[dh];W[ch];B[dg];W[cg];B[bf];W[resign]'
+  player_black: Marius Halsor
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mh];B[swap];W[ei];B[dl];W[kj];B[fe];W[cd];B[jc];W[jd];B[ig];W[jh];B[gf];W[dg];B[df];W[hg];B[lb];W[id];B[gj];W[cl];B[ic];W[hd];B[hc];W[gd];B[gc];W[fd];B[fc];W[ed];B[ec];W[ce];B[bc];W[kc];B[fg];W[je];B[hi];W[hh];B[gl];W[dk];B[gh];W[ij];B[ik];W[gk];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Art Duval
+  winner: B
+- moves: 'W[mh];B[swap];W[ei];B[dj];W[kj];B[ie];W[jb];B[ed];W[ge];B[ej];W[gh];B[gf];W[ff];B[hi];W[ii];B[ig];W[gi];B[fh];W[je];B[jd];W[resign]'
+  player_black: wojtex
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[kb];B[swap];W[ie];B[ij];W[kj];B[kl];W[jj];B[hl];W[jl];B[jh];W[fi];B[fh];W[lg];B[ii];W[lh];B[kf];W[jg];B[jd];W[de];B[dc];W[bc];B[gh];W[kg];B[if];W[je];B[jf];W[ld];B[me];W[di];B[dh];W[eh];B[dj];W[cj];B[ed];W[eg];B[ck];W[ei];B[fj];W[gi];B[gc];W[gf];B[kb];W[id];B[resign]'
+  player_black: Maciej Celuch
+  player_white: iLyN
+  winner: B
+- moves: 'W[mh];B[swap];W[ei];B[ie];W[ef];B[dj];W[kj];B[kk];W[jk];B[eg];W[hf];B[he];W[kc];B[jh];W[dg];B[gi];W[ih];B[dh];W[gf];B[hg];W[jf];B[jg];W[ig];B[if];W[ck];B[dc];W[dd];B[ge];W[ff];B[ej];W[le];B[ii];W[hi];B[gk];W[hj];B[ic];W[lb];B[hl];W[lj];B[ik];W[gl];B[hk];W[ij];B[jj];W[ki];B[ji];W[mf];B[lh];W[lf];B[kh];W[mh];B[mg];W[fi];B[fj];W[cj];B[di];W[bi];B[ch];W[bh];B[cg];W[bg];B[ce];W[af];B[bd];W[cd];B[be];W[cf];B[de];W[df];B[fd];W[fk];B[gj];W[gh];B[hh];W[ee];B[ed];W[gd];B[fe];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mh];B[jk];W[fh];B[ie];W[de];B[dj];W[kk];B[kj];W[lj];B[jl];W[kl];B[li];W[mi];B[lh];W[ej];B[fk];W[dk];B[ei];W[fi];B[ff];W[gf];B[fg];W[gg];B[ge];W[he];B[hd];W[id];B[jb];W[ic];B[ia];W[ib];B[ja];W[gc];B[gb];W[cd];B[dc];W[fc];B[fb];W[eb];B[ec];W[cc];B[ce];W[dd];B[ed];W[ef];B[df];W[ee];B[cb];W[bc];B[fd];W[eh];B[eg];W[ch];B[dg];W[bg];B[bh];W[cg];B[dh];W[ci];B[di];W[bk];B[cf];W[af];B[resign]'
+  player_black: koontz
+  player_white: Maciej Celuch
+  winner: B
+- moves: 'W[mh];B[ie];W[ei];B[ed];W[cd];B[cb];W[bc];B[bb];W[dd];B[fb];W[db];B[df];W[jd];B[jk];W[kk];B[kj];W[je];B[if];W[jf];B[ig];W[lg];B[jg];W[kf];B[kg];W[lf];B[jl];W[he];B[fk];W[kh];B[ji];W[jh];B[id];W[de];B[jc];W[bg];B[ch];W[lb];B[ee];W[dg];B[cg];W[gd];B[ge];W[hi];B[gj];W[ek];B[fi];W[bj];B[ai];W[fg];B[ck];W[di];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Daniel Sepczuk
+  winner: B
+- moves: 'W[mf];B[swap];W[kj];B[ed];W[ie];B[gg];W[jg];B[kl];W[lk];B[jh];W[lh];B[ki];W[li];B[kg];W[mf];B[kk];W[ik];B[jj];W[jk];B[le];W[kf];B[lf];W[ei];B[hf];W[ge];B[fh];W[hh];B[fk];W[dh];B[fi];W[ef];B[dk];W[gj];B[hl];W[hk];B[im];W[gl];B[ig];W[cj];B[hc];W[ic];B[jd];W[id];B[ck];W[ih];B[el];W[gm];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[af];B[swap];W[ie];B[jb];W[cd];B[cc];W[dc];B[ei];W[ji];B[jk];W[dj];B[ee];W[gd];B[gf];W[hg];B[gj];W[hi];B[hj];W[ik];B[jj];W[ih];B[jh];W[ij];B[ii];W[fi];B[hc];W[fc];B[hd];W[ge];B[ej];W[fj];B[he];W[eg];B[df];W[ef];B[ek];W[fk];B[fh];W[resign]'
+  player_black: wojtex
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[kb];B[swap];W[hh];B[ie];W[ei];B[ff];W[ld];B[kd];W[de];B[fg];W[lc];B[kf];W[ef];B[dh];W[jf];B[gc];W[ke];B[lb];W[kc];B[kb];W[jc];B[jb];W[ic];B[ib];W[hc];B[ig];W[hf];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[ac];B[ie];W[gg];B[dj];W[ck];B[df];W[ef];B[gi];W[gh];B[gf];W[dh];B[fd];W[he];B[hf];W[ch];B[de];W[ge];B[id];W[hc];B[ff];W[fe];B[eg];W[dg];B[dl];W[di];B[bm];W[ek];B[el];W[fk];B[fi];W[eh];B[dk];W[kg];B[ig];W[ld];B[ih];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mh];B[swap];W[ei];B[dl];W[kj];B[kk];W[gk];B[ie];W[de];B[gj];W[dk];B[cl];W[ck];B[bl];W[fk];B[dh];W[fi];B[ff];W[gf];B[hd];W[ge];B[gl];W[hk];B[gd];W[fe];B[fd];W[ef];B[em];W[hl];B[gm];W[jl];B[jk];W[il];B[gh];W[jj];B[ig];W[lf];B[kf];W[le];B[ke];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[af];B[swap];W[cd];B[cc];W[dc];B[ie];W[ld];B[jc];W[kc];B[kb];W[lb];B[jh];W[fh];B[fg];W[jd];B[jg];W[eh];B[eg];W[gg];B[id];W[jf];B[hg];W[hf];B[if];W[ge];B[gd];W[fe];B[fd];W[gb];B[hc];W[ee];B[ea];W[be];B[de];W[df];B[resign]'
+  player_black: Maciej Celuch
+  player_white: wojtex
+  winner: B
+- moves: 'W[ac];B[ie];W[fh];B[dj];W[hg];B[gf];W[je];B[jd];W[lc];B[jc];W[lb];B[if];W[ei];B[eg];W[kf];B[jf];W[ke];B[ld];W[kd];B[jg];W[kg];B[jh];W[kh];B[jj];W[kk];B[li];W[ji];B[hk];W[ij];B[ik];W[ej];B[gh];W[hh];B[dl];W[ii];B[fk];W[gk];B[hj];W[gj];B[hi];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mf];B[swap];W[ei];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[de];W[bf];B[cg];W[df];B[cf];W[jd];B[eh];W[ah];B[bi];W[ch];B[di];W[hf];B[fj];W[dk];B[gg];W[ih];B[jf];W[if];B[hh];W[ig];B[hl];W[hi];B[gi];W[fk];B[gj];W[hk];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Art Duval
+  winner: B
+- moves: 'W[me];B[swap];W[ji];B[jk];W[lk];B[kl];W[ll];B[ed];W[cd];B[ie];W[kf];B[jj];W[lh];B[lj];W[ei];B[cb];W[db];B[ce];W[ij];B[hl];W[ge];B[gl];W[bj];B[dj];W[fl];B[gk];W[el];B[fg];W[ig];B[fj];W[gj];B[fk];W[resign]'
+  player_black: pOmek:B
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mh];B[ij];W[ei];B[ff];W[hf];B[gi];W[ee];B[fg];W[dh];B[dg];W[gh];B[hg];W[hh];B[gd];W[ge];B[fe];W[if];B[ig];W[gg];B[fi];W[hi];B[gk];W[hk];B[gl];W[hj];B[hl];W[ik];B[il];W[jk];B[jl];W[lk];B[resign]'
+  player_black: Maciej Celuch
+  player_white: iLyN
+  winner: B
+- moves: 'W[mh];B[ie];W[cd];B[dd];W[ce];B[dc];W[cc];B[db];W[cb];B[jk];W[kk];B[kj];W[lj];B[jl];W[kl];B[li];W[mi];B[lh];W[ei];B[dl];W[dk];B[cl];W[ld];B[lb];W[fk];B[gl];W[fl];B[fi];W[ck];B[bl];W[ek];B[de];W[fg];B[ff];W[dg];B[df];W[fh];B[cg];W[he];B[gd];W[ic];B[gf];W[hf];B[id];W[hd];B[gg];W[ig];B[gh];W[hj];B[gj];W[ij];B[ih];W[mg];B[kg];W[lf];B[kf];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[kb];B[fh];W[ih];B[ji];W[bj];B[ed];W[kj];B[hj];W[ij];B[ii];W[kg];B[lh];W[cd];B[dj];W[al];B[cb];W[bc];B[bb];W[dd];B[fb];W[db];B[cl];W[bl];B[ci];W[gj];B[ie];W[bi];B[ch];W[hf];B[he];W[gf];B[hi];W[gh];B[hg];W[if];B[gg];W[hh];B[ke];W[ig];B[ge];W[cf];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Daniel Sepczuk
+  winner: B
+- moves: 'W[am];B[swap];W[de];B[ij];W[kj];B[kl];W[lk];B[dc];W[ji];B[ih];W[kg];B[jf];W[ig];B[if];W[ff];B[fg];W[dh];B[di];W[eh];B[ed];W[ee];B[fd];W[hd];B[fh];W[ei];B[ge];W[hf];B[hg];W[gf];B[eg];W[cg];B[he];W[ie];B[id];W[kc];B[jd];W[kd];B[le];W[je];B[kb];W[jc];B[ja];W[ib];B[ia];W[hb];B[ha];W[gb];B[ga];W[eb];B[ej];W[dj];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ai];B[hi];W[ji];B[jk];W[lk];B[lj];W[kj];B[kk];W[ii];B[ed];W[cd];B[cb];W[dd];B[cj];W[ih];B[ie];W[de];B[gf];W[he];B[hg];W[hf];B[if];W[fh];B[ic];W[eg];B[dk];W[gi];B[fi];W[gh];B[ef];W[dg];B[df];W[bg];B[cg];W[bj];B[dl];W[bk];B[bl];W[ck];B[cl];W[fj];B[fk];W[hj];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[mb];B[swap];W[ji];B[ie];W[ef];B[ed];W[gg];B[jk];W[lk];B[kl];W[kj];B[ll];W[kk];B[jl];W[hj];B[gl];W[fk];B[dl];W[he];B[em];W[hl];B[hk];W[ik];B[ij];W[jj];B[ii];W[resign]'
+  player_black: Frode Lillevold
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[kb];B[hh];W[ii];B[jj];W[jg];B[ie];W[jd];B[jf];W[ig];B[ed];W[if];B[je];W[ee];B[ef];W[ge];B[gj];W[hk];B[gf];W[cg];B[df];W[bf];B[bg];W[resign]'
+  player_black: Maciej Celuch
+  player_white: iLyN
+  winner: W
+- moves: 'W[kb];B[fh];W[ji];B[jk];W[lk];B[lj];W[ik];B[ig];W[de];B[fg];W[bj];B[ci];W[eg];B[di];W[ie];B[hf];W[bi];B[ck];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mf];B[swap];W[hf];B[fe];W[ed];B[ie];W[df];B[de];W[ee];B[ei];W[ji];B[jk];W[dj];B[eg];W[he];B[id];W[ff];B[ef];W[hd];B[fj];W[ik];B[fh];W[ig];B[gl];W[lh];B[ih];W[kg];B[jg];W[ld];B[kf];W[me];B[lg];W[ci];B[ch];W[hj];B[gj];W[lf];B[kh];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ad];B[swap];W[ih];B[ij];W[kj];B[kl];W[lk];B[ll];W[ei];B[ie];W[jd];B[jk];W[ff];B[fg];W[gh];B[di];W[eg];B[eh];W[gf];B[gg];W[if];B[hg];W[jf];B[hi];W[hh];B[fi];W[hj];B[fk];W[ii];B[gl];W[fl];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ad];B[hi];W[ji];B[jk];W[lk];B[lj];W[kj];B[ef];W[cf];B[gg];W[ih];B[ij];W[kk];B[if];W[eg];B[ei];W[hg];B[hf];W[fh];B[de];W[be];B[df];W[cg];B[eh];W[fg];B[jj];W[fj];B[fi];W[gh];B[ki];W[gi];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[ij];W[kj];B[ie];W[fh];B[dl];W[gi];B[fk];W[ek];B[el];W[dk];B[cl];W[ck];B[bl];W[hj];B[jk];W[hk];B[fg];W[dh];B[cj];W[ei];B[dg];W[jj];B[hf];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[kb];B[swap];W[de];B[gg];W[fh];B[gh];W[ji];B[dj];W[ld];B[kd];W[ie];B[jk];W[lk];B[gk];W[gj];B[ih];W[ei];B[ek];W[lh];B[hj];W[kf];B[lb];W[fj];B[fk];W[jg];B[jf];W[ig];B[if];W[hf];B[jh];W[lg];B[lf];W[kg];B[jj];W[ij];B[hl];W[gl];B[hk];W[il];B[ik];W[mi];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Jonatan Rydh
+  winner: B
+- moves: 'W[ac];B[ij];W[kj];B[ef];W[gf];B[jb];W[de];B[kl];W[jl];B[jk];W[hf];B[ei];W[hi];B[ge];W[kb];B[jc];W[jd];B[ig];W[resign]'
+  player_black: Art Duval
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ad];B[swap];W[ji];B[jk];W[ei];B[jb];W[ld];B[kd];W[jd];B[kb];W[gd];B[fh];W[lb];B[kc];W[ic];B[hg];W[eh];B[fg];W[eg];B[fe];W[df];B[ed];W[cf];B[ce];W[fd];B[ee];W[gf];B[ff];W[ig];B[hh];W[kj];B[ki];W[ih];B[if];W[ke];B[jf];W[kf];B[jh];W[ii];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Daniel Sepczuk
+  winner: B
+- moves: 'W[ad];B[swap];W[ih];B[ij];W[kj];B[kl];W[lk];B[ll];W[dg];B[jb];W[jc];B[ei];W[jl];B[ge];W[kd];B[ki];W[eh];B[ig];W[jf];B[hh];W[cj];B[fd];W[hf];B[fg];W[ee];B[fh];W[fe];B[gd];W[cd];B[ce];W[ed];B[dh];W[bi];B[ch];W[resign]'
+  player_black: iLyN
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ad];B[swap];W[fd];B[fh];W[ji];B[jk];W[lk];B[jb];W[hf];B[kl];W[ll];B[lj];W[ik];B[ig];W[dh];B[gb];W[ib];B[hd];W[ie];B[jc];W[kd];B[lb];W[ee];B[di];W[eh];B[ei];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[kb];B[gg];W[ji];B[jk];W[ef];B[di];W[ig];B[ie];W[jd];B[if];W[hg];B[gf];W[he];B[hf];W[ei];B[eg];W[ke];B[jf];W[kf];B[jg];W[kg];B[jh];W[kh];B[ij];W[ii];B[fk];W[gh];B[fi];W[ek];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[mf];B[swap];W[hf];B[fe];W[ed];B[ie];W[df];B[de];W[ee];B[ei];W[ji];B[jk];W[lk];B[ig];W[hh];B[hg];W[fh];B[gi];W[gh];B[hj];W[fi];B[ek];W[ej];B[eg];W[cj];B[dh];W[ff];B[id];W[ge];B[dk];W[bl];B[dj];W[ik];B[jj];W[lh];B[lj];W[ij];B[ii];W[gj];B[fl];W[gk];B[hl];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ad];B[swap];W[ih];B[ji];W[hf];B[hj];W[ei];B[dl];W[dk];B[cl];W[ek];B[el];W[gk];B[hl];W[fm];B[hc];W[ic];B[gj];W[fk];B[hd];W[jf];B[jd];W[id];B[gg];W[cf];B[gf];W[ie];B[ib];W[ge];B[he];W[dg];B[ec];W[fc];B[fb];W[bf];B[ed];W[resign]'
+  player_black: iLyN
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[kb];B[swap];W[hi];B[ij];W[fh];B[hf];W[de];B[di];W[ig];B[he];W[eg];B[fg];W[eh];B[ef];W[cf];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Jonatan Rydh
+  winner: B
+- moves: 'W[ac];B[hf];W[hi];B[ij];W[jg];B[gk];W[kj];B[ki];W[ch];B[dj];W[ej];B[ei];W[bk];B[ci];W[aj];B[dk];W[fk];B[gh];W[ke];B[fl];W[ek];B[fi];W[gj];B[je];W[resign]'
+  player_black: iLyN
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ae];B[ih];W[ji];B[hf];W[ch];B[ci];W[dh];B[ei];W[kg];B[kh];W[jh];B[dc];W[bc];B[bd];W[ad];B[bf];W[gg];B[gd];W[id];B[jb];W[kb];B[jc];W[hg];B[je];W[ge];B[gc];W[resign]'
+  player_black: pOmek:B
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[kb];B[hi];W[ij];B[dd];W[fh];B[gg];W[jh];B[he];W[ie];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[md];B[swap];W[ef];B[hi];W[ij];B[jk];W[jh];B[ie];W[ei];B[ed];W[he];B[cl];W[dl];B[id];W[ff];B[ej];W[dj];B[dk];W[cj];B[bl];W[fi];B[gk];W[hl];B[gi];W[ld];B[je];W[hh];B[hg];W[resign]'
+  player_black: Maciej Celuch
+  player_white: iLyN
+  winner: W
+- moves: 'W[af];B[swap];W[de];B[fh];W[ih];B[ji];W[ei];B[df];W[ie];B[jb];W[fd];B[ig];W[eh];B[fe];W[jf];B[gi];W[hj];B[jg];W[fg];B[ge];W[lf];B[le];W[he];B[hc];W[ld];B[if];W[gg];B[kc];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ad];B[swap];W[ih];B[ij];W[kj];B[kl];W[jl];B[jk];W[kk];B[ki];W[hj];B[hi];W[hh];B[ie];W[ge];B[gc];W[ef];B[hb];W[jd];B[hd];W[je];B[kb];W[jb];B[jc];W[ed];B[gg];W[hf];B[hg];W[if];B[ig];W[ke];B[lc];W[de];B[gf];W[dh];B[ej];W[ei];B[fl];W[dj];B[cl];W[dl];B[dk];W[fi];B[fk];W[fj];B[resign]'
+  player_black: Maciej Celuch
+  player_white: iLyN
+  winner: B
+- moves: 'W[ac];B[hi];W[ji];B[jk];W[lk];B[kl];W[ll];B[lj];W[di];B[ee];W[gg];B[hd];W[gd];B[ge];W[fe];B[eg];W[if];B[ie];W[je];B[jd];W[ff];B[fg];W[gf];B[fi];W[ii];B[hj];W[ik];B[hg];W[ci];B[dj];W[bk];B[dk];W[bl];B[fh];W[dg];B[ch];W[dh];B[bj];W[cj];B[fc];W[hf];B[hb];W[ed];B[fd];W[mb];B[lc];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mg];B[swap];W[hi];B[gg];W[fe];B[dj];W[jf];B[ed];W[if];B[ig];W[jg];B[fl];W[ij];B[il];W[jj];B[kk];W[hl];B[hm];W[gl];B[fm];W[ek];B[cl];W[dm];B[fi];W[gj];B[jb];W[ic];B[ie];W[hf];B[ge];W[jc];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Adam
+  winner: B
+- moves: 'W[ac];B[gg];W[eh];B[ff];W[ch];B[ei];W[fh];B[fj];W[fi];B[ej];W[hi];B[gk];W[ij];B[ii];W[hj];B[cg];W[ef];B[fe];W[bi];B[ee];W[df];B[de];W[bf];B[ah];W[cf];B[eg];W[ig];B[ie];W[dg];B[di];W[jg];B[hh];W[resign]'
+  player_black: wojtex
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[kb];B[swap];W[gg];B[ed];W[hi];B[hf];W[jd];B[ij];W[ig];B[ic];W[ff];B[ge];W[kd];B[je];W[ie];B[if];W[fe];B[ek];W[fi];B[hh];W[cl];B[gi];W[dj];B[gf];W[fg];B[resign]'
+  player_black: Maciej Celuch
+  player_white: iLyN
+  winner: B
+- moves: 'W[af];B[ed];W[hf];B[gh];W[dh];B[dj];W[ei];B[ge];W[fg];B[id];W[hd];B[he];W[jd];B[ie];W[fe];B[gc];W[gd];B[ib];W[hb];B[hc];W[fc];B[fd];W[bg];B[fj];W[ej];B[dl];W[cl];B[dk];W[ci];B[bk];W[ek];B[el];W[fk];B[fl];W[gk];B[gl];W[ik];B[hk];W[jh];B[cb];W[jb];B[ic];W[dd];B[dc];W[ec];B[ce];W[de];B[jk];W[ki];B[eg];W[eh];B[df];W[dg];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[gg];W[ji];B[ih];W[ch];B[dj];W[ck];B[cj];W[ei];B[ej];W[fi];B[gi];W[fj];B[eh];W[fg];B[fh];W[di];B[df];W[resign]'
+  player_black: Adam
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mh];B[ij];W[fh];B[ed];W[cd];B[cb];W[dd];B[ei];W[fi];B[fg];W[ch];B[hf];W[de];B[ej];W[eh];B[fk];W[dj];B[di];W[ek];B[fj];W[bj];B[bk];W[cj];B[cl];W[dk];B[dm];W[el];B[em];W[fl];B[fm];W[hk];B[hl];W[gl];B[gm];W[ik];B[cg];W[dg];B[df];W[ef];B[ee];W[fe];B[gd];W[fd];B[gb];W[ic];B[hb];W[he];B[il];W[jk];B[jl];W[lk];B[kk];W[mi];B[lj];W[mj];B[ki];W[lg];B[kg];W[kh];B[hj];W[ji];B[jj];W[ih];B[kb];W[lb];B[hh];W[ja];B[je];W[ig];B[ld];W[resign]'
+  player_black: Maciej Celuch
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[fh];W[ii];B[jj];W[kk];B[hk];W[gj];B[fl];W[ek];B[cl];W[kh];B[li];W[dm];B[hi];W[hj];B[jh];W[di];B[ej];W[ji];B[fj];W[fk];B[ih];W[ig];B[kg];W[ck];B[bl];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[kb];B[swap];W[de];B[dc];W[bc];B[hi];W[ei];B[eg];W[ig];B[ie];W[gf];B[fh];W[eh];B[bd];W[cd];B[cc];W[jf];B[gj];W[jh];B[hg];W[fi];B[gh];W[fg];B[ge];W[jd];B[ic];W[id];B[he];W[resign]'
+  player_black: Maciej Celuch
+  player_white: iLyN
+  winner: W
+- moves: 'W[ad];B[swap];W[ji];B[jk];W[ie];B[ii];W[fh];B[gg];W[ff];B[fg];W[dh];B[di];W[gh];B[ej];W[fj];B[gi];W[fi];B[gk];W[ek];B[hg];W[ch];B[eh];W[bj];B[bi];W[ci];B[fl];W[ck];B[jb];W[fc];B[fd];W[ed];B[resign]'
+  player_black: iLyN
+  player_white: Maciej Celuch
+  winner: B
+- moves: 'W[kb];B[ii];W[jj];B[kk];W[fh];B[ed];W[cd];B[cb];W[dd];B[fb];W[fc];B[ea];W[ec];B[fg];W[gg];B[gf];W[hf];B[id];W[ch];B[cj];W[he];B[hc];W[gc];B[gd];W[jd];B[ie];W[je];B[if];W[jf];B[ih];W[ig];B[hh];W[eh];B[hg];W[dg];B[eg];W[di];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Adam
+  winner: B
+- moves: 'W[kb];B[ie];W[ee];B[dd];W[ii];B[jj];W[ei];B[fc];W[ec];B[ed];W[he];B[hf];W[gf];B[fh];W[gg];B[gh];W[hg];B[hi];W[ih];B[hk];W[ik];B[ic];W[hc];B[dh];W[eg];B[hl];W[ij];B[il];W[jk];B[jl];W[fj];B[resign]'
+  player_black: Maciej Celuch
+  player_white: koontz
+  winner: B
+- moves: 'W[ac];B[ii];W[jj];B[kk];W[gg];B[df];W[ef];B[fh];W[gi];B[jb];W[hg];B[hh];W[gh];B[gd];W[ee];B[dl];W[hi];B[ff];W[ge];B[fe];W[ld];B[kd];W[jd];B[id];W[mb];B[ie];W[je];B[if];W[eg];B[fg];W[jf];B[gl];W[ik];B[hj];W[jg];B[kh];W[el];B[kc];W[kb];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: B
+- moves: 'W[md];B[swap];W[jj];B[ie];W[dd];B[eg];W[ke];B[jh];W[gg];B[gf];W[fg];B[ff];W[hf];B[he];W[je];B[if];W[jg];B[kf];W[jf];B[jd];W[lc];B[ld];W[kd];B[kb];W[ma];B[ih];W[ig];B[hh];W[hg];B[fi];W[resign]'
+  player_black: koontz
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ac];B[ii];W[jj];B[ei];W[gh];B[fj];W[hi];B[fk];W[kh];B[id];W[jd];B[ic];W[kd];B[lc];W[kb];B[jg];W[kf];B[kg];W[ih];B[if];W[eh];B[gg];W[ci];B[ef];W[ff];B[eg];W[fg];B[gd];W[fe];B[fc];W[fd];B[gc];W[dd];B[ed];W[df];B[de];W[bf];B[cf];W[bg];B[ch];W[dh];B[cg];W[ai];B[bi];W[aj];B[bj];W[ak];B[bl];W[bk];B[ck];W[cj];B[fh];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[md];B[swap];W[jj];B[ig];W[ef];B[eh];W[fh];B[ed];W[jf];B[jd];W[he];B[hf];W[gf];B[ic];W[gd];B[fi];W[gh];B[gi];W[if];B[ib];W[de];B[jg];W[ei];B[gc];W[dd];B[ej];W[resign]'
+  player_black: Frode Lillevold
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mk];B[ee];W[cd];B[ih];W[gg];B[fj];W[di];B[dj];W[ji];B[ie];W[hh];B[gf];W[jf];B[kd];W[hf];B[he];W[fe];B[ef];W[bg];B[fg];W[eg];B[ff];W[bj];B[bh];W[cg];B[bl];W[ci];B[resign]'
+  player_black: psychoanal
+  player_white: Maciej Celuch
+  winner: B
+- moves: 'W[mb];B[swap];W[ji];B[ed];W[cd];B[cb];W[db];B[dc];W[cc];B[ce];W[hf];B[jh];W[ih];B[ii];W[fi];B[gh];W[kf];B[gj];W[lg];B[lf];W[kg];B[kj];W[ek];B[hi];W[fh];B[gg];W[fg];B[gf];W[ff];B[ge];W[fe];B[gc];W[gd];B[hc];W[hd];B[jb];W[ld];B[la];W[ma];B[lc];W[kb];B[jc];W[kc];B[jd];W[kd];B[he];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[mg];B[swap];W[ei];B[dc];W[bc];B[bd];W[ge];B[hf];W[fg];B[fh];W[eh];B[ej];W[dj];B[cl];W[cj];B[bl];W[dk];B[dl];W[fk];B[ek];W[gi];B[fi];W[gg];B[em];W[jk];B[gj];W[hi];B[il];W[kj];B[hg];W[ig];B[jf];W[kg];B[je];W[gh];B[resign]'
+  player_black: Maciej Celuch
+  player_white: koontz
+  winner: B
+- moves: 'W[ag];B[ee];W[hf];B[ij];W[ei];B[fh];W[kj];B[kl];W[eh];B[fg];W[jl];B[ge];W[bh];B[eg];W[cg];B[dc];W[cc];B[cd];W[de];B[eb];W[be];B[cj];W[ci];B[dk];W[fj];B[fi];W[ej];B[bd];W[ec];B[fb];W[fc];B[gb];W[gc];B[hb];W[hc];B[ib];W[jc];B[lb];W[ka];B[ic];W[id];B[hd];W[gi];B[gk];W[el];B[hg];W[jf];B[ih];W[kg];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ai];B[swap];W[cd];B[cb];W[jd];B[ij];W[kj];B[kl];W[jj];B[if];W[bc];B[dg];W[hf];B[fi];W[ke];B[jg];W[ig];B[hi];W[ei];B[fh];W[eh];B[dk];W[ej];B[ek];W[fj];B[fk];W[gj];B[gl];W[resign]'
+  player_black: Maciej Celuch
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[fh];W[ji];B[jk];W[lk];B[jj];W[lh];B[kh];W[mi];B[ki];W[eg];B[dj];W[hi];B[ie];W[gg];B[gh];W[ig];B[ih];W[hh];B[if];W[hg];B[gf];W[jf];B[kd];W[dh];B[fk];W[fg];B[resign]'
+  player_black: Adam
+  player_white: Maciej Celuch
+  winner: B
+- moves: 'W[md];B[swap];W[ji];B[jk];W[lk];B[jj];W[lh];B[lj];W[ei];B[ed];W[cd];B[cb];W[dd];B[eh];W[fh];B[fg];W[di];B[hf];W[jf];B[ig];W[ch];B[df];W[bg];B[bh];W[cg];B[ce];W[de];B[cf];W[if];B[hg];W[gf];B[gg];W[dh];B[he];W[ef];B[ee];W[fe];B[gd];W[fd];B[gb];W[gc];B[hb];W[hc];B[ib];W[jc];B[ic];W[id];B[hd];W[kg];B[jg];W[kf];B[jh];W[kh];B[hj];W[ij];B[hl];W[hk];B[gl];W[gk];B[fl];W[bc];B[fb];W[af];B[ea];W[al];B[fk];W[gj];B[ej];W[gi];B[ck];W[resign]'
+  player_black: Maciej Celuch
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[bb];B[ij];W[kj];B[kl];W[jj];B[ig];W[gg];B[ef];W[dh];B[hd];W[fe];B[gc];W[de];B[ed];W[hc];B[gd];W[cd];B[cg];W[ee];B[gf];W[ff];B[eh];W[fg];B[fi];W[hh];B[hg];W[gh];B[hi];W[gi];B[fk];W[gj];B[gl];W[lg];B[hl];W[lk];B[ll];W[il];B[ji];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[am];B[ed];W[hd];B[ij];W[ii];B[hf];W[cd];B[cb];W[dd];B[eg];W[je];B[ig];W[jg];B[jh];W[kg];B[ih];W[lh];B[he];W[id];B[jf];W[le];B[kh];W[lg];B[kj];W[lk];B[mi];W[ki];B[ik];W[ji];B[fk];W[gj];B[hi];W[dg];B[dh];W[bi];B[cj];W[ck];B[hj];W[ff];B[fg];W[ak];B[ch];W[bh];B[cg];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[bb];B[ij];W[kj];B[kl];W[ml];B[ef];W[ie];B[ki];W[fh];B[gg];W[hh];B[gk];W[fg];B[ej];W[fk];B[gi];W[dj];B[fe];W[gf];B[ei];W[dh];B[di];W[bj];B[ci];W[bi];B[ch];W[ah];B[bh];W[ai];B[bf];W[bg];B[df];W[cf];B[dd];W[jj];B[ii];W[resign]'
+  player_black: Art Duval
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[md];B[swap];W[jj];B[hf];W[de];B[eg];W[kf];B[ke];W[jf];B[je];W[gf];B[gg];W[fg];B[fh];W[eh];B[ei];W[cj];B[di];W[ci];B[dh];W[ch];B[df];W[ef];B[dg];W[bg];B[cf];W[af];B[bf];W[ag];B[be];W[ae];B[bd];W[ad];B[bb];W[bc];B[cb];W[cc];B[db];W[dc];B[eb];W[ec];B[fb];W[gc];B[fc];W[ee];B[fd];W[ge];B[ib];W[hd];B[ha];W[jc];B[resign]'
+  player_black: Maciej Celuch
+  player_white: koontz
+  winner: B
+- moves: 'W[kb];B[ij];W[kf];B[ee];W[fh];B[hf];W[gf];B[gg];W[fg];B[hd];W[fe];B[gc];W[hc];B[gd];W[fd];B[fb];W[fc];B[gb];W[dd];B[ec];W[cc];B[ed];W[he];B[id];W[jd];B[ie];W[hj];B[gh];W[resign]'
+  player_black: Maciej Celuch
+  player_white: psychoanal
+  winner: W
+- moves: 'W[kb];B[swap];W[hi];B[ij];W[kj];B[ie];W[ef];B[dc];W[bc];B[jk];W[kk];B[jl];W[lk];B[ig];W[fh];B[dl];W[dk];B[ek];W[cl];B[ej];W[gi];B[gh];W[fi];B[gj];W[jj];B[ik];W[jh];B[di];W[kg];B[lh];W[ji];B[fg];W[kd];B[hd];W[id];B[gg];W[dg];B[gc];W[jf];B[kc];W[jd];B[jb];W[hc];B[ic];W[ge];B[gd];W[dd];B[fe];W[ff];B[de];W[resign]'
+  player_black: koontz
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ll];B[ji];W[ei];B[ef];W[hf];B[hd];W[de];B[he];W[ge];B[fd];W[gd];B[gc];W[hc];B[gf];W[if];B[gg];W[ke];B[hh];W[kh];B[jh];W[ih];B[ig];W[eg];B[ff];W[cg];B[cf];W[df];B[dh];W[resign]'
+  player_black: Marius Halsor
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[ig];W[ei];B[eg];W[fg];B[eh];W[gg];B[fh];W[hh];B[ge];W[ff];B[fe];W[he];B[hf];W[gf];B[ic];W[hd];B[hc];W[gd];B[gc];W[de];B[ed];W[cg];B[dd];W[be];B[bd];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[md];B[jj];W[ef];B[fh];W[hi];B[dc];W[gg];B[jd];W[jg];B[ge];W[gd];B[ic];W[cg];B[fe];W[lc];B[lb];W[kc];B[ld];W[fd];B[ie];W[jf];B[fi];W[lf];B[kb];W[hd];B[jb];W[fg];B[eg];W[ee];B[el];W[hk];B[hj];W[ii];B[gi];W[hh];B[resign]'
+  player_black: Frode Lillevold
+  player_white: Maciej Celuch
+  winner: B
+- moves: 'W[mg];B[swap];W[ei];B[ef];W[de];B[eh];W[fh];B[gg];W[fg];B[ge];W[cg];B[cf];W[df];B[ch];W[dg];B[eg];W[di];B[dh];W[ie];B[fl];W[jj];B[ij];W[ji];B[ik];W[jk];B[jd];W[he];B[hh];W[gh];B[hg];W[gf];B[ic];W[hd];B[hc];W[gd];B[fb];W[cd];B[fd];W[gc];B[ha];W[fc];B[dc];W[ed];B[cc];W[hb];B[ia];W[ib];B[ja];W[jb];B[ka];W[lb];B[kb];W[kc];B[jc];W[kd];B[je];W[ke];B[jf];W[kf];B[jh];W[lg];B[kl];W[lj];B[im];W[il];B[hm];W[hi];B[ii];W[resign]'
+  player_black: koontz
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[al];B[swap];W[fd];B[gg];W[ji];B[jk];W[kj];B[kk];W[lj];B[kl];W[ei];B[dc];W[bc];B[eg];W[dh];B[dg];W[ch];B[cg];W[kf];B[jd];W[ie];B[ih];W[hg];B[gh];W[hh];B[hf];W[if];B[gi];W[hj];B[hi];W[jg];B[jh];W[lg];B[kh];W[mh];B[jj];W[ki];B[ij];W[ii];B[fk];W[fj];B[gj];W[gl];B[lf];W[bh];B[eh];W[kg];B[hd];W[lb];B[kb];W[resign]'
+  player_black: Maciej Celuch
+  player_white: koontz
+  winner: W
+- moves: 'W[ac];B[ij];W[kj];B[ie];W[di];B[df];W[ch];B[dh];W[fg];B[ei];W[gh];B[gg];W[eh];B[hd];W[ef];B[ee];W[fe];B[fd];W[gd];B[hc];W[gc];B[dj];W[fh];B[gi];W[fi];B[ek];W[fj];B[fk];W[hj];B[jk];W[kk];B[jl];W[jj];B[ik];W[gl];B[gj];W[ih];B[ii];W[hi];B[hh];W[if];B[ig];W[kf];B[jg];W[kg];B[jh];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[kb];B[ij];W[fh];B[dc];W[kj];B[gg];W[kf];B[kd];W[he];B[ff];W[fg];B[gi];W[if];B[ej];W[ji];B[jk];W[ii];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Adam
+  winner: B
+- moves: 'W[kb];B[ed];W[gg];B[ij];W[kj];B[ie];W[ee];B[fd];W[jd];B[hh];W[kf];B[jf];W[if];B[je];W[ld];B[ki];W[gi];B[hf];W[ge];B[gf];W[ff];B[gc];W[de];B[dd];W[ce];B[bd];W[id];B[gk];W[fg];B[fi];W[ei];B[dk];W[ck];B[dj];W[cj];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[kb];B[ij];W[fh];B[fe];W[kj];B[ie];W[he];B[gg];W[hf];B[gi];W[fj];B[fi];W[kf];B[ih];W[hi];B[ig];W[hg];B[gk];W[el];B[gh];W[le];B[ki];W[kh];B[ii];W[resign]'
+  player_black: Maciej Celuch
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[ij];W[ii];B[hf];W[ff];B[ei];W[gg];B[ge];W[he];B[gf];W[fg];B[ej];W[ig];B[gd];W[jg];B[kd];W[ke];B[jc];W[ic];B[je];W[ee];B[ef];W[ld];B[lc];W[dh];B[gi];W[dk];B[cj];W[hh];B[hj];W[ki];B[jk];W[kk];B[kj];W[mi];B[li];W[mh];B[lh];W[mg];B[lg];W[mf];B[kf];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[kb];B[ed];W[cd];B[ij];W[kj];B[ie];W[hf];B[ei];W[cg];B[jk];W[kk];B[jl];W[lk];B[fj];W[ji];B[kd];W[hh];B[he];W[gf];B[ge];W[ff];B[fe];W[ee];B[ef];W[dh];B[fh];W[ig];B[if];W[gh];B[gl];W[eg];B[ih];W[hi];B[ii];W[gk];B[fl];W[dk];B[ck];W[cj];B[dc];W[de];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[kb];B[swap];W[hi];B[hg];W[de];B[fc];W[fd];B[hf];W[gg];B[gf];W[fg];B[hc];W[jc];B[fi];W[ei];B[dk];W[di];B[dl];W[fk];B[resign]'
+  player_black: Maciej Celuch
+  player_white: David J Bush
+  winner: B
+- moves: 'W[mj];B[swap];W[gg];B[ef];W[ih];B[fj];W[jj];B[ie];W[he];B[hh];W[di];B[dj];W[de];B[dk];W[ig];B[hg];W[kd];B[jc];W[lb];B[lc];W[id];B[je];W[ke];B[kc];W[jd];B[kf];W[hf];B[ii];W[bj];B[fh];W[hi];B[gk];W[fk];B[gb];W[eg];B[ff];W[fg];B[resign]'
+  player_black: Frode Lillevold
+  player_white: Maciej Celuch
+  winner: B
+- moves: 'W[ac];B[ei];W[hi];B[hg];W[fe];B[hh];W[dh];B[cj];W[dj];B[di];W[ih];B[jf];W[gh];B[gg];W[fh];B[fg];W[eh];B[ef];W[ff];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[mc];B[ij];W[fj];B[ef];W[gf];B[gg];W[hg];B[gh];W[hh];B[hf];W[if];B[gi];W[hi];B[gj];W[hj];B[hk];W[gk];B[jd];W[ie];B[ic];W[resign]'
+  player_black: David J Bush
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ll];B[ih];W[gg];B[ed];W[gd];B[fi];W[ei];B[fh];W[eh];B[fg];W[eg];B[fj];W[ch];B[fe];W[ff];B[ge];W[gf];B[id];W[he];B[hd];W[jd];B[ie];W[je];B[hg];W[if];B[hf];W[resign]'
+  player_black: Marius Halsor
+  player_white: Maciej Celuch
+  winner: W
+- moves: 'W[ac];B[ij];W[fh];B[df];W[fe];B[gg];W[eg];B[fi];W[gh];B[gj];W[gi];B[fg];W[eh];B[ff];W[ef];B[dk];W[fj];B[el];W[dl];B[ek];W[ck];B[dj];W[cj];B[di];W[ch];B[ci];W[bi];B[bj];W[fk];B[fl];W[gk];B[gl];W[hk];B[hl];W[ik];B[il];W[kk];B[jk];W[li];B[kj];W[lj];B[ki];W[lh];B[lb];W[kh];B[hi];W[ji];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Tim Shih
+  winner: B
+- moves: 'W[ll];B[ed];W[gg];B[ih];W[fg];B[gf];W[cd];B[hd];W[fd];B[ef];W[jd];B[if];W[hf];B[fj];W[ej];B[resign]'
+  player_black: Marius Halsor
+  player_white: Maciej Celuch
+  winner: B
+- moves: 'W[ac];B[fg];W[fe];B[hi];W[fh];B[ie];W[hf];B[ej];W[gi];B[gh];W[ig];B[ff];W[eh];B[dg];W[kf];B[gj];W[ji];B[jk];W[kj];B[kl];W[ii];B[ij];W[hj];B[gl];W[gk];B[fl];W[fk];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[ac];B[ih];W[gg];B[ef];W[kj];B[gi];W[fi];B[gh];W[fh];B[ge];W[he];B[gf];W[hf];B[ic];W[hd];B[hc];W[gd];B[gc];W[kd];B[jd];W[jc];B[id];W[ld];B[gb];W[kc];B[jj];W[je];B[if];W[ie];B[ek];W[fj];B[fk];W[gj];B[resign]'
+  player_black: Tim Shih
+  player_white: Maciej Celuch
+  winner: B
+- moves: 'W[ac];B[ij];W[ei];B[eg];W[gh];B[gg];W[if];B[hg];W[ig];B[hh];W[ii];B[fh];W[ji];B[ie];W[hf];B[he];W[gf];B[fe];W[ge];B[hc];W[gd];B[gc];W[fd];B[fc];W[ed];B[ec];W[dd];B[dc];W[cd];B[cb];W[db];B[cc];W[bd];B[ba];W[jc];B[resign]'
+  player_black: Maciej Celuch
+  player_white: Jonatan Rydh
+  winner: B
+- moves: 'W[mb];B[ld];W[kj];B[dj];W[fg];B[gi];W[fi];B[ek];W[dk]'
+  player_black: Maciej Celuch
+  player_white: psychoanal
+  winner: B
+- moves: 'W[ac];B[df];W[kj];B[jj];W[gg];B[gi];W[dj];B[fh];W[eh];B[fg];W[gh];B[fi];W[ih];B[he];W[if];B[jd];W[ge];B[gf];W[eg];B[ff];W[ef];B[fd];W[fe];B[hc];W[id];B[jb];W[jc];B[kb];W[kc];B[lb];W[ib];B[ic];W[gc];B[gd];W[ee];B[ec];W[ed];B[fc];W[resign]'
+  player_black: Maciej Celuch
+  player_white: Marius Halsor
+  winner: W
+- moves: 'W[mg];B[swap];W[ei];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[dg];W[ie];B[jd];W[de];B[dj];W[kj];B[kl];W[jl];B[fh];W[hg];B[hh];W[gh];B[gi];W[fi]'
+  player_black: Daniel Sepczuk
+  player_white: HappyHippo
+  winner: B
+- moves: 'W[ac];B[fh];W[ji];B[jk];W[lk];B[jj];W[ch];B[de];W[lh];B[lj];W[ij];B[hl];W[gg];B[gk];W[fj];B[el];W[dk];B[bl];W[cl];B[ej];W[ek];B[ie];W[ld];B[kd];W[resign]'
+  player_black: pOmek:B
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[ah];B[swap];W[fh];B[ij];W[kj];B[kl];W[jl];B[ki];W[cd];B[dc];W[cc];B[ff];W[ie];B[jb];W[jd];B[jc];W[kc];B[la];W[lc];B[ma];W[gd];B[dj];W[gh];B[db];W[fe];B[dd];W[hd];B[fk];W[ek];B[ia];W[ib];B[ja];W[fb];B[resign]'
+  player_black: HappyHippo
+  player_white: Daniel Sepczuk
+  winner: B
+- moves: 'W[ac];B[fh];W[ji];B[jk];W[lk];B[jj];W[ch];B[de];W[bf];B[cg];W[bi];B[ed];W[ah];B[be];W[ce];B[dc];W[cd];B[cb];W[db];B[cc];W[ec];B[dd];W[lh];B[lj];W[ij];B[hl];W[gk];B[hj];W[hk];B[kh];W[ki];B[ie];W[kd];B[jc];W[id];B[jd];W[lb];B[ke];W[je];B[ig];W[jf];B[lc];W[kc];B[jg];W[eg];B[ff];W[ee];B[gf];W[gd];B[dg];W[resign]'
+  player_black: pOmek:B
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[swap];W[ei];B[dc];W[cd];B[dd];W[cc];B[db];W[bc];B[ce];W[ie];B[dl];W[kj];B[jg];W[dk];B[bm];W[bl];B[am];W[cl];B[cm];W[fk];B[gl];W[fl];B[gh];W[gi];B[fg];W[gg];B[fh];W[ig];B[hh];W[ih];B[hi];W[ji];B[jh];W[ii];B[jb];W[ic];B[ib];W[jc];B[hc];W[kb];B[if];W[df];B[dh];W[bg];B[af];W[ci];B[gf];W[eg];B[eh];W[dg];B[ch];W[ai];B[bi];W[aj];B[bk];W[bj];B[dj];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Art Duval
+  winner: W
+- moves: 'W[md];B[swap];W[kj];B[jk];W[jj];B[kk];W[lj];B[kl];W[hk];B[hf];W[dd];B[cc];W[be];B[eb];W[fc];B[ga];W[hb];B[gc];W[gb];B[ed];W[ec];B[ce];W[if];B[ie];W[je];B[jd];W[lc];B[jc];W[lb];B[kd];W[ld];B[ke];W[le];B[kf];W[lf];B[kh];W[kg];B[ih];W[jh];B[ij];W[ik];B[ji];W[ii];B[hj];W[hi];B[gj];W[gi];B[fj];W[ej];B[fi];W[ei];B[dl];W[cl];B[dk];W[ck];B[dj];W[resign]'
+  player_black: Frode Lillevold
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[fe];W[ed];B[fj];W[dj];B[fg];W[kf];B[jc];W[kc];B[jd];W[kd];B[ke];W[je];B[jf];W[if];B[ig];W[hg];B[fi];W[hh];B[hi];W[ih];B[ij];W[lg];B[kl];W[ii];B[hj];W[eh];B[gg];W[df];B[jk];W[cj];B[dg];W[cg];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Jonatan Rydh
+  winner: B
+- moves: 'W[mg];B[swap];W[ei];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[dg];W[ii];B[dl];W[hf];B[jk];W[fk];B[jb];W[jd];B[la];W[kb];B[ka];W[lb];B[ma];W[hc];B[gb];W[ia];B[em];W[hk];B[il];W[dk];B[cl];W[ck];B[bl];W[fm];B[hd];W[ic];B[id];W[jc];B[ie];W[je];B[if];W[jf];B[ih];W[ig];B[hh];W[hg];B[fl];W[gl];B[gj];W[gk];B[fj];W[ek];B[fh];W[eh];B[gf];W[fg];B[gg];W[ef];B[ff];W[eg];B[ee];W[fe];B[gd];W[df];B[de];W[bf];B[cf];W[bg];B[cg];W[bh];B[ci];W[aj];B[bk];W[dh];B[ch];W[cj];B[bj];W[he];B[ge];W[fd];B[gc];W[fc];B[ec];W[gh];B[fi];W[gi];B[hi];W[kg];B[ij];W[hj];B[jh];W[kh];B[ji];W[resign]'
+  player_black: koontz
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[ae];B[swap];W[ii];B[jj];W[kh];B[hk];W[gj];B[fl];W[dj];B[ff];W[ie];B[jb];W[jc];B[kb];W[kc];B[lb];W[hc];B[id];W[ge];B[gf];W[lg];B[he];W[ic];B[hg];W[jf];B[ih];W[kf];B[hi];W[hj];B[resign]'
+  player_black: David J Bush
+  player_white: Daniel Sepczuk
+  winner: B
+- moves: 'W[mh];B[ie];W[de];B[dc];W[bc];B[bd];W[ec];B[jk];W[kj];B[fh];W[ld];B[kd];W[lc];B[kc];W[lb];B[ke];W[dj];B[fg];W[le];B[kg];W[lh];B[mf];W[hf];B[hi];W[gh];B[fi];W[ih];B[ij];W[gi];B[fk];W[fj];B[ek];W[gj];B[ff];W[jh];B[jj];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Jonatan Rydh
+  winner: W
+- moves: 'W[af];B[swap];W[ie];B[fh];W[dj];B[ij];W[kj];B[kl];W[jj];B[hl];W[jl];B[ig];W[ch];B[jb];W[cd];B[cc];W[gc];B[ee];W[fe];B[ei];W[dh];B[gb];W[bd];B[bc];W[lf];B[jh];W[lg];B[ii];W[lh];B[je];W[gh];B[gg];W[fd];B[ia];W[ib];B[ja];W[hb];B[ha];W[lb];B[kc];W[lc];B[le];W[jc];B[kb];W[ke];B[kf];W[jf];B[if];W[resign]'
+  player_black: Pawcio
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[ll];B[ed];W[ie];B[jh];W[fh];B[jb];W[jc];B[fj];W[eh];B[dk];W[hi];B[ij];W[gk];B[gh];W[ig];B[if];W[hg];B[hf];W[dg];B[gg];W[ck];B[bl];W[cl];B[fe];W[ce];B[dc];W[gf];B[fg];W[cc];B[cd];W[ae];B[be];W[bh];B[eb];W[ff];B[eg];W[ef];B[ci];W[ke];B[jf];W[resign]'
+  player_black: Marius Halsor
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[swap];W[ei];B[dc];W[cd];B[cc];W[ie];B[ej];W[kj];B[jg];W[fi];B[gl];W[fj];B[gf];W[hg];B[gh];W[hh];B[gi];W[hi];B[fg];W[fe];B[id];W[jd];B[jc];W[he];B[hd];W[kc];B[lb];W[di];B[gj];W[hj];B[fk];W[hl];B[jk];W[ij];B[gm];W[kl];B[jl];W[li];B[kb];W[gc];B[ge];W[eg];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Art Duval
+  winner: B
+- moves: 'W[md];B[swap];W[gg];B[ed];W[kj];B[jk];W[jj];B[kk];W[lj];B[kl];W[hk];B[hf];W[gf];B[hd];W[id];B[he];W[je];B[ig];W[hg];B[if];W[gc];B[fe];W[kf];B[kg];W[jg];B[ii];W[ih];B[gj];W[hi];B[hj];W[resign]'
+  player_black: Frode Lillevold
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[ij];W[fh];B[ed];W[cd];B[cb];W[db];B[ei];W[fi];B[ej];W[fj];B[gk];W[ek];B[hd];W[jd];B[hf];W[gf];B[ie];W[gd];B[dc];W[ge];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[fh];W[ji];B[jk];W[lk];B[hc];W[ch];B[ef];W[bj];B[df];W[ce];B[bg];W[jd];B[jb];W[kb];B[jc];W[kc];B[if];W[ff];B[dl];W[cl];B[bk];W[cj];B[ck];W[dj];B[dk];W[ej];B[hg];W[eg];B[fk];W[gi];B[ij];W[hj];B[gl];W[hk];B[hl];W[ik];B[il];W[kj];B[jj];W[ki];B[ii];W[kg];B[jh];W[lg];B[ke];W[ih];B[jg];W[kf];B[jf];W[resign]'
+  player_black: koontz
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[ac];B[fh];W[ji];B[jk];W[lk];B[jj];W[ei];B[df];W[if];B[ie];W[hf];B[he];W[ef];B[fd];W[ch];B[ij];W[ih];B[ck];W[fi];B[eh];W[kd];B[je];W[ke];B[jf];W[kf];B[jg];W[lg];B[ii];W[jh];B[lf];W[kg];B[kc];W[jd];B[jc];W[id];B[ic];W[hd];B[hc];W[gd];B[gc];W[ee];B[dd];W[bd];B[dc];W[ce];B[bg];W[de];B[fe];W[ff];B[ge];W[gf];B[gh];W[hh];B[gi];W[bj];B[di];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[swap];W[ei];B[dc];W[dd];B[ec];W[cd];B[ed];W[cc];B[de];W[hd];B[gg];W[eh];B[dl];W[dk];B[bm];W[cl];B[cm];W[bl];B[am];W[fk];B[gl];W[em];B[gi];W[ff];B[ej];W[ek];B[dj];W[cj];B[di];W[ci];B[dh];W[ch];B[dg];W[cg];B[db];W[df];B[fe];W[fd];B[ee];W[ef];B[ge];W[gf];B[he];W[ie];B[hf];W[kg];B[jf];W[ke];B[lc];W[lf];B[jd];W[id];B[je];W[if];B[hh];W[ig];B[ih];W[jg];B[kh];W[jh];B[ij];W[mg];B[li];W[resign]'
+  player_black: Art Duval
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[ai];B[swap];W[jd];B[fh];W[ei];B[ed];W[ji];B[jk];W[lk];B[jj];W[lh];B[lj];W[gj];B[jf];W[cd];B[cb];W[db];B[ce];W[le];B[hh];W[ih];B[hi];W[hg];B[fi];W[ii];B[hj];W[ij];B[kc];W[kd];B[jb];W[jc];B[ld];W[ig];B[kb];W[ic];B[gc];W[fd];B[fc];W[ib];B[hl];W[hk];B[fm];W[gl];B[gm];W[fl];B[em];W[bi];B[dl];W[bl];B[ej];W[eh];B[fg];W[dk];B[ek];W[resign]'
+  player_black: Pawcio
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[jg];W[fh];B[ed];W[cd];B[cb];W[db];B[hi];W[gh];B[ge];W[he];B[gf];W[hf];B[hg];W[gg];B[ic];W[hd];B[hc];W[gd];B[gc];W[fd];B[fc];W[de];B[ee];W[df];B[eg];W[di];B[ch];W[jc];B[id];W[je];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: koontz
+  winner: B
+- moves: 'W[mh];B[swap];W[ei];B[ef];W[de];B[fd];W[fe];B[ff];W[hf];B[gg];W[cg];B[dh];W[cj];B[bi];W[hg];B[fi];W[gh];B[fh];W[ii];B[gl];W[kk];B[ij];W[gk];B[fl];W[hk];B[jl];W[hl];B[gm];W[il];B[im];W[jk];B[kl];W[lk];B[ll];W[fk];B[fj];W[el];B[jd];W[ge];B[he];W[gf];B[hd];W[ke];B[gc];W[ec];B[hi];W[jg];B[kf];W[ih];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: David J Bush
+  winner: B
+- moves: 'W[mh];B[swap];W[ei];B[ef];W[de];B[dc];W[bc];B[fd];W[cg];B[dh];W[cj];B[bi];W[ie];B[hg];W[kj];B[jf];W[gf];B[jb];W[eg];B[gb];W[ff];B[ic];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[kb];B[swap];W[ji];B[ie];W[de];B[gg];W[dh];B[df];W[ef];B[di];W[eh];B[fj];W[fi];B[ei];W[fh];B[fk];W[ih];B[gi];W[ej];B[dl];W[ci];B[cl];W[el];B[ek];W[hg];B[ig];W[hh];B[ed];W[ge];B[hc];W[ee];B[gb];W[dd];B[dc];W[fb];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[mh];B[swap];W[ei];B[dc];W[kj];B[jg];W[hf];B[dl];W[fk];B[gl];W[em];B[gi];W[fi];B[jb];W[ef];B[fj];W[dk];B[hc];W[ec];B[ee];W[gd];B[gb];W[gc];B[hb];W[db];B[fc];W[ed];B[fd];W[cf];B[be];W[de];B[dh];W[ke];B[if];W[le];B[jd];W[ic];B[ib];W[jc];B[kb];W[resign]'
+  player_black: Art Duval
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[ij];W[fh];B[ed];W[cd];B[cb];W[db];B[dj];W[kf];B[jd];W[ei];B[ge];W[ef];B[fg];W[dh];B[di];W[eh];B[ee];W[cg];B[ce];W[ic];B[gc];W[he];B[gg];W[if];B[ig];W[lg];B[lj];W[jj];B[ik];W[jk];B[il];W[jl];B[ki];W[ji];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: koontz
+  winner: B
+- moves: 'W[ad];B[swap];W[ji];B[jk];W[lk];B[jj];W[lh];B[lj];W[hj];B[ie];W[fe];B[fh];W[dh];B[di];W[eh];B[ei];W[bj];B[ej];W[ck];B[dl];W[cl];B[ci];W[bi];B[ch];W[bh];B[cg];W[bg];B[cf];W[bf];B[ce];W[be];B[cd];W[bd];B[cb];W[cc];B[eb];W[hf];B[hg];W[resign]'
+  player_black: iLyN
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[ij];W[fh];B[ei];W[fi];B[ed];W[cd];B[cb];W[db];B[gf];W[eg];B[eh];W[fg];B[fe];W[fd];B[dc];W[ge];B[gd];W[ee];B[ef];W[df];B[dg];W[hg];B[ie];W[he];B[ic];W[kc];B[jd];W[jc];B[id];W[le];B[ld];W[kd];B[jb];W[lb];B[if];W[jf];B[ig];W[jg];B[ih];W[jh];B[ik];W[ki];B[kj];W[ii];B[em];W[gj];B[fl];W[hi];B[gl];W[dk];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[mg];B[swap];W[ei];B[ed];W[kd];B[ih];W[kj];B[jk];W[jj];B[kk];W[lj];B[kl];W[ik];B[hm];W[cd];B[cb];W[db];B[ce];W[hf];B[dl];W[fk];B[ej];W[gi];B[gj];W[fj];B[em];W[dj];B[bm];W[cl];B[cm];W[bl];B[am];W[fm];B[fl];W[gl];B[gk];W[ii];B[ig];W[resign]'
+  player_black: koontz
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mf];B[swap];W[dj];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[dg];W[kj];B[ie];W[eg];B[fe];W[he];B[id];W[hd];B[ic];W[hc];B[ib];W[hb];B[gg];W[ci];B[gf];W[resign]'
+  player_black: koontz
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[kb];B[fh];W[dj];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[dg];W[ji];B[jk];W[lk];B[lj];W[hf];B[ek];W[cj];B[hg];W[eh];B[bk];W[cl];B[fg];W[eg];B[ei];W[ci];B[fe];W[if];B[ge];W[ig];B[ii];W[ik];B[ij];W[hh];B[gi];W[resign]'
+  player_black: koontz
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[swap];W[ei];B[ed];W[cd];B[cb];W[db];B[dh];W[kj];B[ie];W[ld];B[jg];W[fg];B[ge];W[ef];B[ee];W[cg];B[ce];W[kf];B[jc];W[mb];B[kg];W[jf];B[hg];W[hf];B[fh];W[eh];B[gg];W[gf];B[if];W[hc];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Alexandre
+  winner: B
+- moves: 'W[ac];B[fh];W[dj];B[di];W[gh];B[jk];W[ie];B[fi];W[gi];B[fk];W[hj];B[gl];W[ij];B[hl];W[fl];B[gg];W[cj];B[ek];W[resign]'
+  player_black: Art Duval
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mg];B[dl];W[ef];B[dc];W[hi];B[jk];W[kj];B[jj];W[kk];B[ki];W[li];B[ie];W[bc];B[dd];W[dk];B[hl];W[ek];B[el];W[gk];B[fm];W[cl];B[fh];W[ld];B[le];W[ke];B[jg];W[ei];B[eh];W[ci];B[dg];W[eg];B[dh];W[hg];B[gi];W[gj];B[hh];W[ih];B[ig];W[kf];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: koontz
+  winner: B
+- moves: 'W[aj];B[swap];W[hf];B[ed];W[cd];B[cb];W[db];B[ce];W[ei];B[ij];W[kj];B[kl];W[jl];B[kb];W[jb];B[fh]'
+  player_black: wojtex
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[kb];B[gg];W[ji];B[ed];W[hf];B[jk];W[cd];B[fj];W[lk];B[ih];W[dj];B[fh];W[kg];B[ei];W[jf];B[jj];W[hg];B[hj];W[cj];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[kb];B[fh];W[ei];B[ed];W[cd];B[cb];W[dh];B[eg];W[dg];B[fe];W[kf];B[ij];W[kj];B[kl];W[dd];B[fb];W[db];B[de];W[bf];B[cg];W[bi];B[ah];W[df];B[cf];W[hh];B[jd];W[he];B[ge];W[ld];B[lc];W[resign]'
+  player_black: Pawcio
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[kb];B[fh];W[ei];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[dg];W[fg];B[eh];W[ji];B[jk];W[lk];B[lj];W[ii];B[ig];W[hg];B[hf];W[gg];B[ff];W[gf];B[hd];W[eg];B[fe];W[resign]'
+  player_black: Pawcio
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[swap];W[ei];B[ie];W[de];B[dc];W[bc];B[dd];W[bf];B[bd];W[gd];B[eh];W[kj];B[jg];W[hf];B[fk];W[gh];B[dl];W[dk];B[bm];W[cl];B[cm];W[ii];B[gl];W[jk];B[hi];W[if];B[ih];W[ke];B[lf];W[am];B[bl];W[al];B[bk];W[ak];B[bi];W[ek];B[el];W[bj];B[di];W[cj];B[dj];W[ck];B[fi];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Pawcio
+  winner: W
+- moves: 'W[kb];B[swap];W[fh];B[ij];W[kj];B[kl];W[jl];B[hf];W[de];B[dc];W[bc];B[bd];W[ec];B[el];W[ei];B[fe];W[gf];B[cm];W[dk];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ll];B[ed];W[ie];B[jh];W[fh];B[jb];W[kd];B[la];W[lc];B[lb];W[cd];B[cb];W[gd];B[hc];W[gc];B[he];W[ee];B[eg];W[ff];B[fg];W[gf];B[gg];W[hf];B[hh];W[lf];B[kf];W[resign]'
+  player_black: Marius Halsor
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[ij];W[fh];B[dj];W[lj];B[kl];W[jk];B[hl];W[im];B[ie];W[de];B[fi];W[ld];B[kg];W[lg];B[lf];W[ii];B[ih];W[hh];B[hg];W[ig];B[gh];W[je];B[hi];W[gi];B[fk];W[gj];B[gl];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[mh];B[swap];W[ei];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[df];W[ie];B[dl];W[kj];B[kk];W[jk];B[jl];W[lj];B[lk];W[ii];B[jb];W[lb];B[kc];W[jc];B[kb];W[hc];B[gb];W[ia];B[ig];W[de];B[eg];W[gk];B[gh];W[fg];B[eh];W[fh];B[ge];W[he];B[hg];W[gf];B[ej];W[fi];B[gj];W[ih];B[hh];W[resign]'
+  player_black: koontz
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[swap];W[ei];B[ie];W[de];B[dc];W[bc];B[bd];W[ec];B[eh];W[hf];B[fh];W[kj];B[hg];W[jf];B[jg];W[ig];B[id];W[di];B[eg];W[gg];B[gh];W[if];B[hi];W[gi];B[gj];W[hh];B[fj];W[fi];B[dj];W[ih];B[ii];W[jh];B[ki];W[ji];B[ik];W[li];B[jj];W[lh];B[il];W[jl];B[kh];W[lg];B[kg];W[lf];B[kf];W[le];B[ke];W[ld];B[lc];W[kd];B[kc];W[je];B[ge];W[ff];B[ed];W[ee];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[fh];W[ji];B[jk];W[lk];B[jj];W[lh];B[lj];W[ij];B[hl];W[gk];B[hj];W[hk];B[jg];W[gg];B[gh];W[eh];B[ei];W[hg];B[ih];W[gj];B[gi];W[cj];B[fg];W[ch];B[ef];W[cg];B[cf];W[df];B[ed];W[ee];B[fd];W[fe];B[hc];W[jd];B[gf];W[he];B[hd];W[ge];B[kb];W[resign]'
+  player_black: Art Duval
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[ie];W[de];B[cd];W[ld];B[kj];W[ei];B[dg];W[kf];B[jg];W[lg];B[lh];W[jf];B[ig];W[fg];B[ff];W[eg];B[ef];W[if];B[gg];W[hg];B[gh];W[kh];B[ik];W[jj];B[jk];W[hj];B[hi];W[hh];B[fj];W[gl];B[ii];W[ij];B[jc];W[lb];B[lc];W[jd];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: wojtex
+  winner: B
+- moves: 'W[md];B[swap];W[jj];B[kk];W[cl];B[hf];W[ef];B[ed];W[cd];B[cb];W[bc];B[bb];W[dd];B[fb];W[db];B[de];W[fd];B[ei];W[fh];B[fi];W[jg];B[gb];W[cg];B[bf];W[jc];B[gh];W[hg];B[gg];W[ie];B[jf];W[if];B[ih];W[li];B[jh];W[resign]'
+  player_black: iLyN
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[swap];W[ei];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[dg];W[ie];B[jb];W[hc];B[gb];W[ia];B[dl];W[dk];B[cl];W[ck];B[bl];W[kj];B[kk];W[jk];B[id];W[ge];B[fg];W[ih];B[hf];W[jd];B[kb];W[kd];B[lb];W[he];B[ig];W[kf];B[jg];W[kg];B[jh];W[lh];B[kh];W[lg];B[ki];W[li];B[jl];W[il];B[im];W[hl];B[gm];W[gl];B[fm];W[el];B[fl];W[gj];B[fk];W[ek];B[fj];W[gi];B[fi];W[fh];B[if];W[resign]'
+  player_black: koontz
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[swap];W[ei];B[ed];W[cd];B[cb];W[db];B[dh];W[hf];B[gg];W[kj];B[jg];W[hg];B[he];W[ie];B[gh];W[gf];B[fj];W[fg];B[dj];W[ih];B[hh];W[ig];B[ii];W[hi];B[gk];W[el];B[dk];W[hj];B[hk];W[ij];B[ik];W[li];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Alexandre
+  winner: B
+- moves: 'W[ll];B[ed];W[cd];B[ei];W[gg];B[ie];W[hf];B[hd];W[je];B[if];W[kf];B[jf];W[ke];B[jd];W[ge];B[hh];W[di];B[fi];W[ci];B[gd];W[ee];B[dc];W[fd];B[gb];W[kb];B[ic];W[fc];B[fa];W[fb];B[ga];W[cb];B[eb];W[be];B[df];W[bg];B[ch];W[de];B[ef];W[resign]'
+  player_black: Marius Halsor
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mg];B[swap];W[ei];B[gg];W[cd];B[dg];W[kj];B[kl];W[jl];B[he];W[ie];B[hh];W[fg];B[ff];W[gf];B[hd];W[hf];B[jc];W[kd];B[ej];W[fi];B[eh];W[hg];B[fj];W[gi];B[gk];W[gj];B[lb];W[ge];B[fl];W[dl];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ll];B[ed];W[cd];B[ei];W[gg];B[ie];W[if];B[jh];W[jf];B[id];W[ff];B[fe];W[de];B[dc];W[bc];B[dd];W[ee];B[fd];W[fg];B[hf];W[ce];B[ef];W[dg];B[df];W[bg];B[cg];W[ai];B[bh];W[resign]'
+  player_black: Marius Halsor
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[ie];W[cd];B[dd];W[ld];B[kb];W[fh];B[ee];W[kc];B[ic];W[jc];B[jb];W[lb];B[kf];W[lg];B[lf];W[je];B[gi];W[ig];B[ih];W[jh];B[if];W[jf];B[jg];W[hh];B[hi];W[ej];B[gh];W[gg];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: wojtex
+  winner: B
+- moves: 'W[me];B[swap];W[kj];B[jk];W[jj];B[hf];W[ef];B[ed];W[ge];B[kk];W[lj];B[kl];W[ik];B[gl];W[il];B[ih];W[cg];B[dj];W[jg];B[ig];W[kf];B[jh];W[lg];B[ji];W[lh];B[ke];W[cj];B[ck];W[al];B[cl];W[am];B[bi];W[jf];B[ie];W[resign]'
+  player_black: Frode Lillevold
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[ij];W[ei];B[ed];W[cd];B[cb];W[dd];B[fg];W[de];B[dj];W[lj];B[kl];W[gh];B[fk];W[ek];B[ej];W[gi];B[el];W[bl];B[ck];W[bk];B[ci];W[di];B[cj];W[hj];B[gl];W[hk];B[hl];W[jl];B[ik];W[kj];B[jh];W[kg];B[jg];W[kf];B[jd];W[jf];B[he];W[eg];B[fb];W[db];B[ff];W[ee];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[mh];B[ij];W[lj];B[kl];W[jk];B[hl];W[im];B[ed];W[cd];B[cb];W[dd];B[fh];W[kf];B[lg];W[ei];B[eg];W[ie];B[hi];W[hg];B[hh];W[ji];B[jg];W[gh];B[fj];W[fi];B[dj];W[kg];B[kh];W[jh];B[jj];W[ki];B[kj];W[al];B[cl];W[bl];B[ci];W[hj];B[el];W[cj];B[di];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[mh];B[swap];W[ei];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[de];W[bf];B[bg];W[ie];B[dl];W[kj];B[kl];W[jl];B[ig];W[dk];B[jb];W[jc];B[kb];W[kc];B[lb];W[hc];B[gb];W[ia];B[id];W[je];B[ic];W[ge];B[gf];W[he];B[hg];W[gg];B[hf];W[ff];B[eh];W[fg];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: koontz
+  winner: B
+- moves: 'W[mh];B[ie];W[cd];B[fh];W[ld];B[kd];W[lc];B[kf];W[lg];B[lf];W[dj];B[hg];W[eh];B[ee];W[fe];B[eg];W[fg];B[ff];W[gf];B[hd];W[ge];B[gc];W[fd];B[fc];W[ed];B[ec];W[be];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Art Duval
+  winner: B
+- moves: 'W[mh];B[ij];W[lj];B[kl];W[jk];B[hl];W[im];B[ed];W[cd];B[cb];W[dd];B[fh];W[de];B[fg];W[ld];B[kf];W[lg];B[me];W[hh];B[hi];W[ih];B[jd];W[ci];B[di];W[jf];B[je];W[hf];B[he];W[gf];B[fe];W[bc];B[bb];W[cc];B[ef];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[md];B[swap];W[ki];B[jk];W[fh];B[ed];W[cd];B[cb];W[jd];B[cl];W[dl];B[cm];W[hk];B[hi];W[lf];B[ig];W[el];B[fi];W[gh];B[fj];W[ei];B[dk];W[cj];B[bk];W[li];B[ij];W[kk];B[jg];W[resign]'
+  player_black: 'Shumacher;]'
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[ll];B[ed];W[hf];B[jh];W[gf];B[fi];W[hh];B[hc];W[ic];B[ie];W[hd];B[ge];W[he];B[hi];W[gi];B[fk];W[fj];B[ek];W[ej];B[dk];W[gj];B[gk];W[hj];B[hk];W[ji];B[jj];W[li];B[ki];W[mg];B[lh];W[mh];B[lg];W[mf];B[lf];W[me];B[ld];W[ck];B[bl];W[resign]'
+  player_black: Marius Halsor
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[kb];B[swap];W[kj];B[jf];W[de];B[ef];W[hf];B[gi];W[ig];B[gj];W[jh];B[ji];W[kh];B[ki];W[ii];B[hk];W[ij];B[ik];W[li];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Art Duval
+  winner: B
+- moves: 'W[ad];B[swap];W[ji];B[jk];W[lk];B[jj];W[lh];B[lj];W[gd];B[fh];W[ei];B[gk];W[hg];B[gi];W[fi];B[gh];W[hj];B[fj];W[hk];B[gl];W[hl];B[ih];W[kf];B[kg];W[jg];B[jh];W[mf];B[lf];W[me];B[le];W[md];B[ld];W[mc];B[lb];W[lc];B[kc];W[kd];B[id];W[jd];B[jc];W[dh];B[eg];W[dg];B[ef];W[df];B[dj];W[eh];B[fg];W[cj];B[ck];W[al];B[bk];W[ak];B[bj];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[af];B[swap];W[cd];B[cc];W[ie];B[ij];W[jj];B[ik];W[fi];B[jb];W[hc];B[gb];W[kd];B[la];W[lc];B[lb];W[ib];B[hf];W[jg];B[hd];W[ic];B[id];W[jc];B[jd];W[kc];B[jf];W[le];B[kf];W[lf];B[kg];W[lg];B[kh];W[lh];B[ki];W[li];B[kk];W[kj];B[il];W[gg];B[gf];W[hg];B[hj];W[ji];B[ih];W[ig];B[jh];W[if];B[je];W[ef];B[fk];W[ek];B[cl];W[cj];B[bl];W[dl];B[eg];W[bi];B[di];W[resign]'
+  player_black: wojtex
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[kk];W[fh];B[ed];W[cd];B[dc];W[cc];B[db];W[bc];B[ei];W[fi];B[gf];W[ld];B[ke];W[le];B[kf];W[lf];B[kg];W[lg];B[jj];W[lj];B[kl];W[kj];B[jk];W[ji];B[kd];W[mb];B[ij];W[ii];B[hj];W[hi];B[lb];W[ma];B[lc];W[mc];B[gj];W[ek];B[gi];W[hg];B[hh];W[if];B[jg];W[he];B[ib];W[ic];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[ij];W[fj];B[df];W[gf];B[gg];W[if];B[hh];W[jf];B[fe];W[lg];B[jg];W[kf];B[ji];W[gh];B[hg];W[dh];B[eh];W[cg];B[cf];W[fg];B[fh];W[dg];B[ck];W[ki];B[jk];W[kk];B[kj];W[mi];B[il];W[al];B[cl];W[resign]'
+  player_black: Art Duval
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mh];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[ij];W[kj];B[kl];W[jj];B[hl];W[jl];B[jb];W[jd];B[gg];W[ch];B[fk];W[ck];B[dl];W[bk];B[de];W[bf];B[di];W[eg];B[dg];W[dh];B[bj];W[lg];B[ji];W[kh];B[la];W[hc];B[gb];W[ia];B[jf];W[if];B[je];W[ie];B[ig];W[gh];B[hg];W[kf];B[le];W[kd];B[ke];W[eh];B[cg];W[gf];B[ei];W[fh];B[gi];W[fi];B[dk];W[ej];B[dj];W[el];B[ek];W[hh];B[ih];W[gj];B[hi];W[fj];B[gl];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: pOmek:B
+  winner: W
+- moves: 'W[ac];B[fh];W[ji];B[jk];W[ei];B[ef];W[ch];B[cg];W[gg];B[ge];W[jd];B[if];W[kd];B[hh];W[ii];B[fi];W[ig];B[jf];W[hf];B[hd];W[ie];B[hg];W[eg];B[cj];W[eh];B[dk];W[ej];B[fl];W[fk];B[fj];W[le];B[lf];W[kh];B[jg];W[ek];B[dm];W[resign]'
+  player_black: iLyN
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mg];B[swap];W[ei];B[hf];W[cd];B[dg];W[kj];B[id];W[jd];B[jg];W[fg];B[ff];W[gf];B[hd];W[ge];B[gd];W[fe];B[fh];W[eh];B[ej];W[dj];B[cl];W[bk];B[bl];W[fk];B[dl];W[fi];B[fj];W[hi];B[gc];W[hh];B[dd];W[ed];B[ee];W[fd];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Alexandre
+  winner: B
+- moves: 'W[md];B[swap];W[ki];B[jk];W[cd];B[dc];W[dd];B[cc];W[gc];B[hf];W[kd];B[je];W[cg];B[ei];W[bj];B[cj];W[bk];B[ch];W[gg];B[gf];W[bh];B[bi];W[dg];B[eh];W[dh];B[ci];W[if];B[hg];W[jf];B[ih];W[kg];B[ie];W[le];B[lf];W[kf];B[ji];W[lh];B[il];W[dj];B[di];W[hh];B[ig];W[ii];B[jh];W[jj];B[hk];W[hl];B[ik];W[ij];B[gj];W[gk];B[hj];W[fi];B[gh];W[fh];B[fg];W[resign]'
+  player_black: 'Shumacher;]'
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[kb];B[ij];W[kj];B[kl];W[jj];B[hl];W[jl];B[ji];W[lh];B[kg];W[jh];B[kh];W[ei];B[ej];W[dj];B[cl];W[cj];B[bk];W[dl];B[dk];W[fj];B[fi];W[hh];B[hi];W[gi];B[hf];W[le];B[kd];W[gg];B[gf];W[bi];B[hg];W[gh];B[fg];W[fh];B[cg];W[ah];B[bf];W[cf];B[bg];W[jf];B[ie];W[kc];B[ld];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Art Duval
+  winner: W
+- moves: 'W[md];B[swap];W[ki];B[jk];W[kl];B[lj];W[ei];B[fe];W[hf];B[cl];W[kc];B[hh];W[ii];B[gj];W[dl];B[cm];W[el];B[fl];W[cj];B[ck];W[fk];B[gk];W[em];B[ej];W[bk];B[am];W[dj];B[dk];W[fj];B[fi];W[gi];B[gh];W[jg];B[je];W[lc];B[ld];W[if];B[id];W[ge];B[hc];W[gd];B[gc];W[fd];B[fc];W[ce];B[dd];W[cd];B[de];W[ed];B[ec];W[cf];B[df];W[bh];B[cg];W[bg];B[fg];W[fh];B[gg];W[ef];B[dh];W[ch];B[dg];W[resign]'
+  player_black: 'Shumacher;]'
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mf];B[ij];W[kj];B[kl];W[jl];B[ed];W[cd];B[cb];W[db];B[ki];W[fh];B[gf];W[eg];B[ef];W[ff];B[gd];W[fe];B[gc];W[hg];B[ie];W[jf];B[ke];W[je];B[jd];W[lc];B[kd];W[md];B[lf];W[kf];B[le];W[de];B[ej];W[ch];B[ek];W[gj];B[gi];W[hi];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[mf];B[swap];W[hf];B[ed];W[cd];B[cb];W[db];B[fh];W[kj];B[hg];W[dj];B[ei];W[di];B[eg];W[fg];B[eh];W[jf];B[jg];W[ig];B[hi];W[ih];B[ii];W[jh];B[ji];W[lh];B[kh];W[lg];B[kd];W[le];B[ie];W[if];B[hc];W[lb];B[mc];W[hd];B[he];W[ff];B[gg];W[gf];B[dk];W[gd];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ll];B[hf];W[de];B[dc];W[bc];B[dd];W[bf];B[bd];W[if];B[ie];W[je];B[hh];W[gg];B[hg];W[fg];B[ge];W[fd];B[ef];W[ch];B[cg];W[dg];B[df];W[ah];B[bh];W[ai];B[bi];W[aj];B[bk];W[bj];B[dj];W[kg];B[ii];W[ih];B[hi];W[kh];B[li];W[jj];B[kf];W[cj];B[ck];W[resign]'
+  player_black: Marius Halsor
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[ad];B[swap];W[ih];B[ij];W[kj];B[kl];W[jl];B[ki];W[fh];B[jb];W[gd];B[fg];W[ie];B[hf];W[jf];B[gk];W[hj];B[hk];W[fj];B[hc];W[fc];B[el];W[dk];B[hd];W[gf];B[gg];W[he];B[ge];W[ef];B[de];W[fd];B[ff];W[dh];B[di];W[eh];B[ej];W[ek];B[fi];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[kb];B[fh];W[ji];B[jk];W[lk];B[dd];W[bd];B[ie];W[dh];B[ej];W[ld];B[jg];W[hf];B[hj];W[lh];B[if];W[gh];B[he];W[ck];B[eh];W[gf];B[ge];W[ef];B[de];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Frode Lillevold
+  winner: W
+- moves: 'W[md];B[fh];W[ih];B[ij];W[kj];B[kl];W[de];B[dc];W[bc];B[bd];W[gi];B[hg];W[cd];B[cc];W[jf];B[hi];W[ji];B[jk];W[lk];B[ll];W[hh];B[ie];W[hf];B[if];W[jd];B[lb];W[kc];B[kb];W[ic];B[id];W[jc];B[ja];W[ec];B[hb];W[gd];B[hd];W[hc];B[fk];W[ek];B[fj];W[ei];B[ck];W[ej];B[fi];W[dh];B[eh];W[di];B[df];W[eg];B[ee];W[resign]'
+  player_black: iLyN
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[ac];B[fh];W[ih];B[ji];W[ei];B[eg];W[jf];B[hj];W[dh];B[dg];W[gi];B[fk];W[ek];B[fj];W[ij];B[fl];W[kg];B[lh];W[ch];B[cg];W[fi];B[eh];W[bj];B[bi];W[ki];B[ii];W[di];B[jd];W[gf];B[he];W[ie];B[id];W[je];B[ld];W[fe];B[hf];W[gg];B[gh];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mk];B[ih];W[jf];B[ed];W[cd];B[cb];W[db];B[ei];W[fh];B[jd];W[ie];B[fi];W[hh];B[id];W[ge];B[he];W[gg];B[gj];W[kg];B[fe];W[eg];B[hc];W[gd];B[hk];W[hj];B[gk];W[ij];B[jl];W[kj];B[lj];W[il];B[je];W[ig];B[gc];W[fd];B[eb];W[de];B[kh];W[ji];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[ij];W[fj];B[fh];W[df];B[fe];W[gh];B[hf];W[ch];B[fi];W[gi];B[gf];W[bj];B[de];W[ee];B[ck];W[di];B[ej];W[al];B[dl];W[cl];B[fc];W[ed];B[ec];W[dd];B[bi];W[dg];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: David J Bush
+  winner: B
+- moves: 'W[mk];B[ed];W[cc];B[fh];W[ih];B[ie];W[ff];B[hg];W[eh];B[ei];W[di];B[dj];W[bk];B[cj];W[bj];B[ci];W[ai];B[bi];W[resign]'
+  player_black: Alexandre
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[ad];B[swap];W[fd];B[fh];W[ji];B[jk];W[lk];B[lj];W[ik];B[ig];W[ch];B[ff];W[kg];B[kf];W[hf];B[jb];W[jc];B[ic];W[dh];B[eg];W[gh];B[df];W[bg];B[gd];W[ce];B[ed];W[ec];B[eb];W[bb];B[dc];W[kb];B[id];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Jonatan Rydh
+  winner: W
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[ki];W[gh];B[ef];W[de];B[ei];W[fg];B[fj];W[resign]'
+  player_black: Art Duval
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[ad];B[hi];W[ji];B[jk];W[lk];B[kl];W[ll];B[ff];W[hf];B[ie];W[ch];B[cf];W[he];B[hh];W[fh];B[gd];W[ic];B[fk];W[fj];B[dl];W[gj];B[gl];W[ek];B[el];W[bl];B[ck];W[bk];B[ci];W[cj];B[ei];W[gh];B[dk];W[fg];B[dh];W[gk];B[fl];W[lh];B[id];W[hd];B[hk];W[ii];B[hj];W[ig];B[ih];W[le];B[lg];W[jh];B[jg];W[kg];B[kf];W[lf];B[kd];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: iLyN
+  winner: W
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[ki];W[gi];B[ef];W[gf];B[he];W[de];B[ge];W[hf];B[ie];W[ff];B[fe];W[dg];B[df];W[bg];B[cg];W[ai];B[bh];W[ah];B[bi];W[aj];B[bj];W[ak];B[bl];W[bk];B[dk];W[ck];B[cl];W[dj];B[fj];W[gj];B[fi];W[kf];B[eh];W[ld];B[kd];W[lc];B[ke];W[le];B[jg];W[resign]'
+  player_black: Art Duval
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mf];B[swap];W[hf];B[ed];W[dc];B[hi];W[kj];B[ie];W[ce];B[ei];W[gi];B[hg];W[if];B[kl];W[jl];B[ij];W[fi];B[gg];W[jf];B[ii];W[kf];B[ki];W[fh];B[ej];W[fk];B[ff];W[fg];B[gf];W[eg];B[df];W[ef];B[fd];W[fe];B[gd];W[ge];B[ic];W[resign]'
+  player_black: Daniel Sepczuk
+  player_white: iLyN
+  winner: W
+- moves: 'W[mf];B[ih];W[kj];B[kl];W[jl];B[ed];W[cd];B[fh];W[dg];B[dc];W[ie]'
+  player_black: Daniel Sepczuk
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[mb];B[ij];W[ei];B[fe];W[hh];B[ie];W[kg];B[ld];W[cd];B[id];W[df];B[ek];W[cj];B[cl];W[bl];B[eg];W[ch];B[ck];W[bk];B[ci];W[dh];B[di];W[eh];B[dj];W[bh];B[aj];W[gj];B[gk];W[fk];B[em];W[ej];B[dl];W[fl];B[fm];W[gl];B[gm];W[ik];B[il];W[hl];B[hm];W[kk];B[jk];W[kj];B[jj];W[lh];B[ki];W[li];B[eb];W[jf];B[kc];W[ed];B[kh];W[lg];B[resign]'
+  player_black: Frode Lillevold
+  player_white: Daniel Sepczuk
+  winner: B
+- moves: 'W[ad];B[swap];W[ih];B[ij];W[kj];B[kl];W[lk];B[ll];W[jl];B[ii];W[hf];B[fh];W[gh];B[gj];W[kg];B[ki];W[fj];B[gi];W[fi];B[hd];W[jd];B[hg];W[if];B[gg];W[hh];B[kf];W[jf];B[jc];W[ge];B[gf];W[he];B[gd];W[kc];B[la];W[kb];B[ka];W[jb];B[ja];W[ib];B[ia];W[hb];B[ha];W[fb];B[gb];W[fc];B[gc];W[ee];B[fe];W[eg];B[dh];W[cg];B[ff];W[eh];B[resign]'
+  player_black: iLyN
+  player_white: Daniel Sepczuk
+  winner: B
+- moves: 'W[ac];B[ij];W[bk];B[df];W[gg];B[fh];W[ci];B[ck];W[di];B[ej];W[bl];B[eg];W[hi];B[fj];W[gk];B[hh];W[resign]'
+  player_black: koontz
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mf];B[jk];W[fh];B[ed];W[dc];B[ei];W[fi];B[hd];W[ce];B[eg];W[gf];B[fe];W[id];B[he];W[if]'
+  player_black: Daniel Sepczuk
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[ij];W[kj];B[hf];W[dg];B[de];W[be];B[bf];W[gg];B[gf];W[ee];B[ei];W[hg];B[hi];W[ih];B[ki];W[hj];B[ii];W[eh];B[fj];W[cj];B[dh];W[di];B[eg];W[bj];B[bi];W[kf];B[ke];W[resign]'
+  player_black: iLyN
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[me];B[swap];W[de];B[fh];W[ii];B[jj];W[kk];B[hk];W[kh];B[li];W[gj];B[hi];W[hj];B[jh];W[ji];B[fl];W[resign]'
+  player_black: koontz
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mf];B[swap];W[hf];B[ef];W[de];B[ij];W[kj];B[jk];W[kk];B[jl];W[lk];B[ji];W[dj];B[gg];W[cg];B[dh];W[bi];B[cj];W[bl];B[ak];W[di];B[ci];W[eh];B[ff];W[gf];B[fg];W[hg];B[gh];W[hi];B[hh];W[ih];B[ig];W[kf];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: koontz
+  winner: B
+- moves: 'W[mf];B[swap];W[ji];B[jk];W[ei];B[fe];W[ed];B[dc];W[df];B[eg];W[ch];B[gc];W[fb];B[di];W[eh];B[dh];W[ff];B[ef];W[gd];B[fd];W[ie];B[hf];W[fg];B[hc];W[ic];B[he];W[if];B[hg];W[ig];B[hi];W[kj];B[jh];W[ii];B[ih];W[hh];B[gi];W[gh];B[dk];W[el];B[fj];W[ck];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: koontz
+  winner: B
+- moves: 'W[mf];B[ie];W[de];B[fh];W[kj];B[ih];W[dh];B[dc];W[bc];B[bd];W[ld];B[kd];W[lc];B[kc];W[lb];B[le];W[ke];B[jg];W[if];B[hg];W[eh];B[fe];W[ec];B[df];W[ef];B[ee];W[gf];B[hf];W[hd];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: koontz
+  winner: B
+- moves: 'W[mf];B[fh];W[ee];B[dd];W[cc];B[fc];W[cf];B[be];W[gd];B[hb];W[ic];B[kb];W[ja];B[hd];W[hc];B[fe];W[fd];B[df];W[de];B[hi];W[ci];B[di];W[cj];B[dj];W[bi];B[ck];W[al];B[cg];W[dh];B[cl];W[am];B[ef];W[ke];B[ge];W[jd];B[id];W[jc];B[jh];W[gi];B[hg];W[ih];B[ii];W[hh];B[jf];W[kg];B[jg];W[kh];B[ki];W[ji];B[ik];W[resign]'
+  player_black: koontz
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[ac];B[fh];W[ii];B[jj];W[kk];B[hk];W[gj];B[fl];W[ek];B[cl];W[kh];B[li];W[dm];B[fj];W[fk];B[hi];W[hj];B[jh];W[ji];B[ih];W[jf];B[kg];W[cj];B[ej];W[hg];B[gi];W[dj];B[dk];W[bl];B[eg];W[eh];B[fg];W[dg];B[ef];W[df];B[ce];W[bg];B[ed];W[bd];B[af];W[ee];B[fd];W[fe];B[gd];W[gf];B[ge];W[ff];B[jd];W[resign]'
+  player_black: koontz
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[mf];B[ie];W[ee];B[dd];W[cc];B[fc];W[cf];B[be];W[gd];B[hb];W[ic];B[hd];W[hc];B[fe];W[fd];B[df];W[de];B[kb];W[ka];B[ij];W[kj];B[kl];W[jl];B[ki];W[lh];B[li];W[fh];B[ef];W[ge];B[fg];W[cg];B[ch];W[eh];B[dg];W[hf];B[gg];W[hg];B[gh];W[hh];B[gi];W[hj];B[hi];W[ii];B[ih];W[jh];B[jf];W[jg];B[ig];W[le];B[ld];W[ke];B[jd];W[kd];B[ma];W[resign]'
+  player_black: koontz
+  player_white: Daniel Sepczuk
+  winner: W
+- moves: 'W[ac];B[gg];W[ji];B[jk];W[lk];B[lj];W[ik];B[id];W[ie];B[if];W[je];B[jf];W[hf];B[hg];W[eg];B[eh];W[fg];B[fh];W[ci];B[dh];W[bh];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: koontz
+  winner: B
+- moves: 'W[mf];B[swap];W[hf];B[ed];W[cd];B[cb];W[db];B[gh];W[kj];B[jh];W[lg];B[ji];W[lh];B[kf];W[jg];B[ig];W[jf];B[kg];W[ld];B[le];W[dj];B[dk];W[ck];B[fg];W[ih];B[gk];W[hi];B[hl];W[fj];B[jd];W[kd];B[resign]'
+  player_black: Daniel Sepczuk
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[mg];B[swap];W[ei];B[ef];W[de];B[dc];W[bc];B[bd];W[ec];B[hf];W[cg];B[ch];W[kj];B[gg];W[ld];B[id];W[je];B[lc];W[dg];B[eh];W[di];B[dh];W[jd];B[ic];W[fh];B[fg];W[kb];B[gh];W[kg];B[ke];W[ig];B[ih];W[ji];B[jf];W[if];B[jg];W[hh];B[gj];W[hi];B[hm];W[gi];B[cl];W[fj];B[fk];W[ck];B[resign]'
+  player_black: koontz
+  player_white: HappyHippo
+  winner: B
+- moves: 'W[mf];B[swap];W[ei];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[de];W[bf];B[cg];W[df];B[cf];W[ie];B[jb];W[jc];B[gg];W[fg];B[dk];W[cj];B[la];W[lb];B[ma];W[kb];B[ka];W[bi];B[bh];W[hc];B[gb];W[ia];B[gf];W[ge];B[fh];W[hg];B[hh];W[gh];B[fj];W[jg];B[gd];W[id];B[hd];W[ic];B[jk];W[fi];B[bl];W[cl];B[ck];W[ek];B[ej];W[gj];B[el];W[fk];B[resign]'
+  player_black: koontz
+  player_white: pOmek:B
+  winner: B
+- moves: 'W[mf];B[swap];W[jj];B[hf];W[ei];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[dg];W[ge];B[ib];W[id];B[ik];W[dk];B[fg];W[if];B[ie];W[kd];B[hg];W[ig];B[lb];W[ic];B[ij];W[ji];B[jk];W[ii];B[hh];W[kh];B[gj];W[hj];B[gl];W[gk];B[el];W[resign]'
+  player_black: Art Duval
+  player_white: koontz
+  winner: W
+- moves: 'W[mg];B[swap];W[ei];B[gg];W[de];B[eh];W[kf];B[jd];W[ld];B[ij];W[kj];B[dc];W[bc];B[jg];W[kg];B[jh];W[lh];B[lc];W[kd];B[kc];W[ie];B[id];W[he];B[hd];W[ge];B[gd];W[ef];B[jk];W[di];B[dh];W[fh];B[fg];W[kk];B[jl];W[kl];B[je];W[if];B[kh];W[lg];B[ki];W[li];B[jf];W[ci];B[df];W[ee];B[resign]'
+  player_black: koontz
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[ag];B[swap];W[hd];B[fh];W[ji];B[jk];W[lk];B[jj];W[lh];B[lj];W[ij];B[hl];W[gk];B[hj];W[ih];B[hk];W[gi];B[hh];W[gg];B[el];W[dj];B[fj];W[cj];B[hb];W[fi];B[bl];W[cl];B[ic];W[cd];B[df];W[if];B[ei];W[dh];B[dc];W[jc];B[eg];W[fg];B[eh];W[resign]'
+  player_black: Jonatan Rydh
+  player_white: koontz
+  winner: W
+- moves: 'W[ac];B[ce];W[ji];B[ie];W[ee];B[fh];W[gg];B[gh];W[hg];B[hh];W[ig];B[ih];W[kg];B[jg];W[kf];B[id];W[jf];B[fg];W[gf];B[ff];W[ge];B[fe];W[gc];B[gd];W[hd];B[resign]'
+  player_black: koontz
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[mh];B[swap];W[de];B[dc];W[bc];B[dd];W[kj];B[ie];W[ei];B[ed];W[ge];B[hc];W[he];B[id];W[gc];B[hb];W[gb];B[gd];W[fd];B[fe];W[ee];B[dg];W[ef];B[fg];W[resign]'
+  player_black: Art Duval
+  player_white: koontz
+  winner: W
+- moves: 'W[ac];B[gg];W[ji];B[hd];W[jd];B[jk];W[lk];B[jh];W[ig];B[hi];W[ii];B[ih];W[ei];B[fh];W[cg];B[eh];W[bi];B[df];W[dg];B[ef];W[cf];B[dd];W[be];B[bd];W[cd];B[db];W[kf];B[lg];W[hg];B[gh];W[ff];B[fd];W[eg];B[gb];W[eb];B[dc];W[gd];B[hb];W[fe];B[ck];W[di];B[resign]'
+  player_black: koontz
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[ac];B[ij];W[kj];B[hf];W[gg];B[ei];W[cg];B[df];W[dg];B[cf];W[gf];B[he];W[eh];B[fe];W[jd];B[ic];W[bh];B[ib];W[ke];B[kd];W[je];B[kb];W[lb];B[kc];W[mc];B[ld];W[md];B[le];W[me];B[lg];W[lf];B[jg];W[ig];B[kf];W[kg];B[ji];W[jh];B[hi];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: koontz
+  winner: W
+- moves: 'W[kb];B[swap];W[fh];B[ij];W[kj];B[kl];W[jl];B[fe];W[de];B[dc];W[bc];B[fk];W[ek];B[cb];W[bb];B[gg];W[fg];B[ff];W[ie];B[fj];W[dh];B[gc];W[gf];B[resign]'
+  player_black: koontz
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[mg];B[gg];W[de];B[jd];W[fh];B[ff];W[dg];B[fj];W[lc];B[kb];W[ma];B[ke];W[lf];B[le];W[ig];B[fe];W[ee];B[ek];W[gh];B[hi];W[jh];B[jg];W[ih];B[di];W[eh];B[dh];W[eg];B[ij];W[ki];B[hg];W[hh];B[il];W[lk];B[resign]'
+  player_black: koontz
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[fh];W[ji];B[jk];W[lk];B[jj];W[lh];B[lj];W[ij];B[hl];W[gk];B[hj];W[hk];B[fm];W[el];B[fk];W[fl];B[jg];W[gf];B[ee];W[ce];B[bd];W[eg];B[ej];W[hg];B[hf];W[gg];B[he];W[gd];B[di];W[ih];B[ge];W[df];B[fa];W[dc];B[resign]'
+  player_black: Art Duval
+  player_white: koontz
+  winner: B
+- moves: 'W[cl];B[swap];W[de];B[dc];W[bc];B[cb];W[bb];B[bd];W[ec];B[ei];W[ji];B[jk];W[lk];B[kl];W[ll];B[gf];W[hf];B[hh];W[gh];B[hg];W[gg];B[fj];W[gi];B[gj];W[ih];B[hi];W[jf];B[resign]'
+  player_black: koontz
+  player_white: iLyN
+  winner: B
+- moves: 'W[mf];B[swap];W[kj];B[kl];W[jl];B[ie];W[de];B[dc];W[bc];B[bd];W[ec];B[ei];W[gg];B[gf];W[hf];B[he];W[fg];B[ff];W[eg];B[ef];W[cg];B[dg];W[ch];B[dh];W[ci];B[ck];W[dj];B[dk];W[ej];B[el];W[ek];B[dl];W[fk];B[hl];W[fl];B[em];W[gl];B[gm];W[ik];B[hk];W[fi];B[ii];W[jh];B[ji];W[lh];B[kh];W[lg];B[kg];W[lf];B[kf];W[resign]'
+  player_black: koontz
+  player_white: Alexandre
+  winner: W
+- moves: 'W[ac];B[ij];W[fj];B[ef];W[gg];B[ge];W[de];B[gf];W[cg];B[cf];W[bg];B[df];W[bf];B[ce];W[be];B[dh];W[hg];B[fh];W[ie];B[gi];W[hi];B[gj];W[jh];B[hk];W[ki];B[jk];W[kk];B[kj];W[mi];B[il];W[lk];B[li];W[mh];B[lh];W[mg];B[lg];W[mf];B[le];W[lf];B[jg];W[kf];B[je];W[resign]'
+  player_black: Art Duval
+  player_white: koontz
+  winner: W
+- moves: 'W[mf];B[swap];W[kj];B[ie];W[de];B[dc];W[bc];B[ei];W[ld];B[kd];W[mb];B[lc];W[mc];B[lb];W[ma];B[kl];W[jl]'
+  player_black: koontz
+  player_white: wojtex
+  winner: B
+- moves: 'W[md];B[swap];W[gg];B[ed];W[ih];B[jk];W[ef];B[gk];W[fk];B[gh];W[fh];B[fi];W[hh];B[gj];W[fj];B[gi];W[dj];B[ei];W[di];B[eh];W[dh];B[fe];W[ji];B[ff];W[resign]'
+  player_black: Frode Lillevold
+  player_white: koontz
+  winner: W
+- moves: 'W[mh];B[swap];W[ei];B[ie];W[de];B[dc];W[bc];B[bd];W[ec];B[eh];W[ld];B[gh];W[kj];B[jg];W[fh];B[fg];W[gg];B[gf];W[hf];B[he];W[kf];B[ih];W[kg];B[kk];W[ji];B[ij];W[jf];B[if];W[ig];B[hl];W[hg];B[dk];W[cj];B[di];W[dj];B[bl];W[ek];B[resign]'
+  player_black: koontz
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[hf];W[gf];B[ei];W[fg];B[gh];W[fi];B[fh];W[di];B[dj];W[bk];B[dk];W[bl];B[hd];W[ef];B[fe];W[cg];B[cj];W[bj];B[ch];W[he];B[bi];W[ci];B[cd];W[dg];B[gc];W[ed];B[resign]'
+  player_black: Art Duval
+  player_white: koontz
+  winner: B
+- moves: 'W[mh];B[swap];W[ei];B[dl];W[kj];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[ea];W[da];B[de];W[ie];B[jb];W[jc];B[hf];W[bf];B[cg];W[jg];B[jf];W[if];B[ig];W[hg];B[gi];W[hh];B[ij];W[hi];B[gj];W[ji];B[jj];W[ki];B[hk];W[el];B[gl];W[jl];B[la];W[lb];B[ma];W[hc];B[ic];W[ge]'
+  player_black: koontz
+  player_white: wojtex
+  winner: B
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[lk];B[ll];W[ei];B[df];W[ce];B[bd];W[ed];B[fh];W[bg];B[ch];W[eh];B[fe];W[dg];B[cg];W[ef];B[ee];W[ge];B[ff];W[gg];B[ie];W[hf];B[hd];W[gd];B[he];W[gf];B[fg];W[gh];B[fi];W[ai];B[bj];W[ii];B[gi];W[resign]'
+  player_black: iLyN
+  player_white: koontz
+  winner: W
+- moves: 'W[ac];B[ef];W[gg];B[jk];W[lk];B[lj];W[cj];B[ge];W[he];B[gf];W[hf];B[fh];W[dh];B[hd];W[id];B[fg];W[hi];B[fl];W[gi];B[fk];W[ej];B[dl];W[ck];B[bm];W[bi];B[cg];W[gk];B[ih];W[jf];B[jb];W[ic];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: koontz
+  winner: B
+- moves: 'W[md];B[swap];W[ki];B[jk];W[dj];B[ed];W[cd];B[cb];W[db];B[ce];W[kd];B[jd];W[gf];B[cl];W[cj];B[bl];W[dl];B[cm];W[el];B[hd];W[fe];B[gc];W[hc];B[gd];W[kc];B[je];W[ke];B[jf];W[kf];B[jh];W[lj];B[ij];W[lg];B[kl];W[jl];B[kk];W[ik];B[jj];W[id];B[hg];W[hf];B[fh];W[ig];B[if];W[gh];B[gg];W[ei];B[eg];W[jg];B[hi];W[hh];B[fj];W[resign]'
+  player_black: 'Shumacher;]'
+  player_white: koontz
+  winner: W
+- moves: 'W[kb];B[ed];W[kj];B[ie];W[fe];B[hd];W[gc];B[ff];W[je];B[jd];W[eh];B[cj];W[dh]'
+  player_black: koontz
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[hf];W[ji];B[kj];W[dg];B[ei];W[gg];B[de];W[be];B[ik];W[dj];B[di];W[ig];B[he];W[ff];B[gh];W[fi];B[fh];W[cj];B[ci];W[bj];B[bi];W[hi];B[resign]'
+  player_black: iLyN
+  player_white: koontz
+  winner: B
+- moves: 'W[ac];B[fh];W[ji];B[kj];W[ik];B[fe];W[cf];B[ie];W[dh];B[dk];W[ck];B[df];W[ge];B[gd];W[jd];B[ic];W[hd]'
+  player_black: Adam
+  player_white: koontz
+  winner: B
+- moves: 'W[md];B[swap];W[ji];B[jk];W[lk];B[lj];W[ei];B[ee];W[resign]'
+  player_black: koontz
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[al];B[ed];W[hd];B[hi];W[ij];B[gg];W[eg];B[fe];W[gf];B[fg];W[ff];B[di];W[eh];B[ei];W[fh];B[gj];W[jh];B[he];W[hf];B[jd];W[ie];B[id];W[ge];B[ic];W[hc];B[ji];W[ii];B[ig];W[hh];B[ih];W[fj];B[resign]'
+  player_black: koontz
+  player_white: iLyN
+  winner: B
+- moves: 'W[ac];B[ii];W[gg];B[df];W[hi];B[hj];W[gj];B[hh];W[ih];B[ie];W[fg];B[gd];W[ff];B[ee];W[hd];B[hf];W[ge];B[fi];W[ei];B[dk];W[ej];B[ek];W[ck];B[dj];W[jg];B[fj];W[cj];B[di];W[ke];B[jc];W[jd];B[lb];W[dg];B[ci];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: koontz
+  winner: W
+- moves: 'W[ac];B[ii];W[jj];B[ie];W[dg];B[cf];W[gg];B[ei];W[fi];B[fh];W[gh];B[gf];W[fg];B[ee];W[fe];B[resign]'
+  player_black: iLyN
+  player_white: koontz
+  winner: B
+- moves: 'W[mk];B[ee];W[hf];B[jh];W[fe];B[gg];W[ei];B[hd];W[gf];B[gc];W[fd];B[fc];W[dc];B[eb];W[id];B[ie];W[he];B[jb];W[cd];B[ff];W[ge];B[fh];W[kc];B[fj];W[hg];B[gi];W[lh];B[ij];W[resign]'
+  player_black: koontz
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[ii];W[jj];B[ie];W[eg];B[ei];W[di];B[dj];W[hi];B[gf];W[fh];B[eh];W[jd];B[ic];W[je];B[if];W[jf];B[ig];W[kg];B[jg];W[kf];B[ji];W[lh];B[ki];W[li];B[kj];W[lj];B[kl];W[kk];B[im];W[jl];B[jm];W[il];B[resign]'
+  player_black: koontz
+  player_white: iLyN
+  winner: B
+- moves: 'W[ac];B[ii];W[jj];B[kk];W[fh];B[ei];W[hi];B[hf];W[je];B[ig];W[hg];B[fi];W[hh];B[gj];W[fj];B[gi];W[hj];B[gk];W[hl];B[he];W[eg];B[gg];W[gh];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: koontz
+  winner: B
+- moves: 'W[ac];B[ii];W[ei];B[ef];W[ff];B[eh];W[gg];B[fh];W[hi];B[gk];W[hj];B[fj];W[hh];B[hk];W[ij];B[ik];W[kj];B[jj];W[lh];B[il];W[fk];B[gj];W[jl];B[ki];W[li];B[kh];W[lg];B[kg];W[lf];B[kf];W[le];B[kd];W[lb];B[mc];W[ke];B[je];W[jf];B[hf];W[de];B[hg];W[gh];B[ig];W[di];B[dj];W[ej];B[dl];W[cl];B[dk];W[cj];B[ck];W[al];B[bk];W[ak];B[bj];W[aj];B[ch];W[bh];B[cf];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: koontz
+  winner: W
+- moves: 'W[ac];B[ii];W[jj];B[kk];W[ll];B[ef];W[dh];B[dj];W[hf];B[gi];W[kh];B[hk];W[li];B[il];W[mj];B[jg];W[ih];B[jh];W[fi];B[ek];W[fk];B[fj];W[hi];B[gk];W[gj];B[el];W[cj];B[bl];W[fl];B[ig];W[lf];B[le];W[je];B[kf];W[hh];B[hg];W[gh];B[gg];W[eh];B[fg];W[ff];B[resign]'
+  player_black: koontz
+  player_white: iLyN
+  winner: B
+- moves: 'W[ac];B[ii];W[jj];B[ie];W[gg];B[ei];W[dh];B[ej];W[cj];B[ck];W[dk];B[dj];W[bk];B[bl];W[fi];B[fj];W[hi];B[gf];W[hf];B[he];W[fg];B[ff];W[df];B[ce];W[bg];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: koontz
+  winner: B
+- moves: 'W[ac];B[ii];W[jj];B[ie];W[ef];B[fh];W[dh];B[di];W[eh];B[ej];W[ei];B[dl];W[dj];B[bm];W[fi];B[fj];W[gi];B[gj];W[hi];B[hj];W[jg];B[kh];W[am];B[bl];W[al];B[bk];W[ak];B[bj];W[aj];B[bi];W[ai];B[bh];W[ah];B[bg];W[ag];B[bf];W[af];B[bd];W[be];B[dd];W[de];B[ec];W[ce];B[ee];W[df];B[gb];W[hc];B[jb];W[ia];B[gd];W[hd];B[ge];W[he];B[gf];W[hf];B[gh];W[ig];B[if];W[hg];B[ib];W[hb];B[ih];W[hh];B[dg];W[eg]'
+  player_black: koontz
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[dh];W[gg];B[jj];W[kk];B[ge];W[ff];B[gi];W[fi];B[gh];W[fh];B[gj];W[cg];B[ef];W[eg];B[dg];W[cj];B[eh];W[fe];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: koontz
+  winner: B
+- moves: 'W[md];B[swap];W[jj];B[hf];W[ef];B[ed];W[gg];B[fe];W[if];B[ie];W[hd];B[gf];W[je];B[hh];W[kg];B[ke];W[kf];B[ih];W[fg];B[hg];W[resign]'
+  player_black: Frode Lillevold
+  player_white: koontz
+  winner: W
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[ie];W[ch];B[ei];W[gg];B[gh];W[bk];B[df];W[bh];B[dh];W[cf];B[ce];W[de];B[bg];W[cg];B[bj];W[di];B[eh];W[ci];B[ck];W[dj];B[dk];W[ej];B[ek];W[fj];B[fk];W[hj];B[gj];W[hi];B[gi];W[ig];B[if];W[resign]'
+  player_black: koontz
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[ij];W[ii];B[df];W[hf];B[hh];W[ji];B[jg];W[ei];B[ge];W[ig];B[id];W[jd];B[ie];W[je];B[ih];W[hg];B[kb];W[lc];B[fg];W[gh];B[ma];W[jc];B[jb];W[ic];B[ib];W[hc];B[hb];W[gc];B[gb];W[fc];B[fb];W[ec];B[eb];W[bd];B[cc];W[ce];B[dc];W[bc];B[dk];W[cj];B[dd];W[de];B[ed];W[ee];B[fd];W[fe];B[gd];W[eg];B[resign]'
+  player_black: koontz
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[md];B[lb];W[de];B[dc];W[bc];B[bd];W[he];B[hf];W[gf];B[gg];W[eh];B[fg];W[eg];B[ff];W[ef];B[ed];W[cd];B[cc];W[dd];B[ec];W[fe];B[gc];W[hc];B[gd];W[ge];B[jc];W[id];B[ck];W[fi];B[ei];W[cj];B[ej];W[fh];B[fj];W[gi];B[gj];W[hi];B[hj];W[ji];B[ii];W[kg];B[jh];W[kh];B[jg];W[ld];B[je];W[kc];B[le];W[kf];B[ke];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: koontz
+  winner: W
+- moves: 'W[ac];B[dh];W[ji];B[ie];W[gf];B[gg];W[fg];B[fh];W[hf];B[ig];W[cj];B[ei];W[hg];B[gi];W[hh];B[ii];W[hi];B[gk];W[hj];B[hl];W[dk];B[ek];W[hk];B[gl];W[kk];B[lk];W[lh];B[il];W[jl];B[jj];W[li];B[ij];W[jh];B[ih];W[kf];B[ke];W[jf];B[resign]'
+  player_black: psychoanal
+  player_white: koontz
+  winner: B
+- moves: 'W[ac];B[ij];W[fj];B[ef];W[gg];B[hd];W[fe];B[ed];W[id];B[he];W[ff];B[gc];W[hc];B[gd];W[jf];B[if];W[jg];B[je];W[hf];B[ie];W[fc];B[fd];W[ld];B[gb];W[kc];B[ke];W[le];B[kf];W[mf];B[lf];W[me];B[kh];W[lg];B[kg];W[lh];B[kj];W[ki];B[ik];W[ji];B[ii];W[hh];B[jh];W[bf];B[ce];W[resign]'
+  player_black: wojtex
+  player_white: koontz
+  winner: W
+- moves: 'W[mh];B[ij];W[kj];B[kl];W[jl];B[kf];W[de];B[dc];W[bc];B[ei];W[hh];B[hi];W[gi];B[hf];W[gg];B[hg];W[ig];B[he];W[fh];B[ff];W[eg];B[fi];W[gh];B[fj];W[lg];B[ki];W[jh];B[eh];W[fg];B[ef];W[cf];B[dg];W[je];B[jb];W[kb];B[resign]'
+  player_black: koontz
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[mh];B[ed];W[cd];B[cb];W[db];B[ce];W[hd];B[ij];W[kj];B[hf];W[jf];B[je];W[gg];B[hi];W[hg];B[fj];W[ji];B[kl];W[lk];B[kf];W[ke];B[jh];W[cj];B[di];W[gi];B[gj];W[bg];B[ei];W[ci];B[dh];W[ch];B[dg];W[resign]'
+  player_black: koontz
+  player_white: iLyN
+  winner: W
+- moves: 'W[ac];B[ih];W[fi];B[ef];W[gg];B[he];W[ff];B[gd];W[fe];B[fd];W[ee];B[ed];W[ce];B[de];W[bg];B[cg];W[bh];B[ch];W[bi];B[cf];W[bf];B[cj];W[ci];B[ei];W[di];B[dj];W[eg];B[fj];W[ej];B[resign]'
+  player_black: wojtex
+  player_white: koontz
+  winner: B
+- moves: 'W[kb];B[ed];W[cd];B[gg];W[ji];B[jf];W[eg];B[eh];W[fg];B[fh];W[ci];B[dh];W[ch];B[dg];W[cg];B[ce];W[de];B[cj];W[di];B[dj];W[ei];B[ej];W[fi];B[fj];W[gi];B[ee];W[bg];B[hk];W[gj];B[fl];W[ij];B[resign]'
+  player_black: koontz
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[jj];W[ji];B[ij];W[fh];B[de];W[cg];B[ef];W[dh];B[ed];W[ge];B[ei];W[fg];B[ej];W[dk];B[cj];W[fj];B[gb];W[he];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: koontz
+  winner: B
+- moves: 'W[bb];B[ij];W[kj];B[kl];W[jl];B[jk];W[kk];B[ef];W[gf];B[gg];W[ig];B[if];W[hg];B[hf];W[ke];B[jf];W[kf];B[jg];W[kg];B[jh];W[lh];B[kh];W[lg];B[ki];W[li];B[kd];W[je];B[jd];W[ie];B[ic];W[id];B[jc];W[hd];B[hc];W[fd];B[gd];W[fe];B[ge];W[ff];B[he];W[eh];B[ei];W[fh];B[fj];W[gh];B[fk];W[resign]'
+  player_black: iLyN
+  player_white: koontz
+  winner: W
+- moves: 'W[mk];B[ed];W[hf];B[hh];W[gh];B[hg];W[gg];B[ie];W[ff];B[gi];W[fi];B[ek];W[dk];B[ej];W[dj];B[ei];W[di];B[eh];W[dh];B[eg];W[dg];B[ef];W[df];B[fc];W[ce];B[dc];W[cc];B[cd];W[ae];B[be];W[af];B[bf];W[ag];B[bg];W[ah];B[bh];W[ai];B[bi];W[aj];B[bj];W[ak];B[bl];W[bk];B[el];W[cm];B[bd];W[ad];B[bb];W[bc];B[da];W[db];B[ea];W[eb];B[fa];W[fb];B[ga];W[gb];B[ha];W[hb];B[ia];W[ib];B[ja];W[jb];B[ka];W[lb];B[kb];W[kd];B[la];W[ma];B[jc];W[if];B[fe];W[jf];B[lc];W[kc];B[hd];W[fk];B[fj];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: koontz
+  winner: W
+- moves: 'W[ll];B[ed];W[gg];B[ih];W[hd];B[fi];W[hh];B[gj];W[hi];B[hj];W[ii];B[ij];W[ei];B[fh];W[eh];B[fg];W[eg];B[ge];W[fe];B[gd];W[fd];B[gb];W[fc];B[fb];W[ec];B[eb];W[dc];B[db];W[cd];B[bc];W[gc];B[ia];W[hb];B[ha];W[ib];B[ja];W[jb];B[ka];W[lb];B[kb];W[kc];B[jc];W[je];B[ma];W[la];B[jd];W[kd];B[he];W[ie];B[id];W[ki];B[jk];W[lj];B[jl];W[lk];B[li];W[kj];B[ji];W[kh];B[jf];W[ig];B[resign]'
+  player_black: Marius Halsor
+  player_white: koontz
+  winner: B
+- moves: 'W[af];B[swap];W[ie];B[ij];W[kj];B[kl];W[jj];B[hl];W[jl];B[jb];W[cd];B[cb];W[bc];B[bb];W[db];B[hc];W[fh];B[ff];W[ch];B[dl];W[hd];B[dg];W[di];B[gd];W[cg];B[cf];W[df];B[de];W[kb];B[ck];W[fk];B[jc];W[kc];B[jd];W[kd];B[je];W[ke];B[jg];W[jf];B[hg];W[ig];B[hi];W[gi];B[hh];W[gf];B[if];W[fd];B[resign]'
+  player_black: Pawcio
+  player_white: pOmek:B
+  winner: B
+- moves: 'W[ac];B[ef];W[ji];B[jk];W[lk];B[jj];W[lh];B[lj];W[gg];B[jd];W[dh];B[dl];W[fg];B[ej];W[hi];B[fd];W[he];B[hh];W[cj];B[bm];W[gi];B[gh];W[bi];B[bj];W[fi];B[ic];W[fe];B[fh];W[ei];B[eh];W[ci];B[ee];W[gd];B[ib];W[bg];B[ce];W[gc];B[eg];W[ig];B[if];W[ld];B[ih];W[kf];B[jg];W[jf];B[kh];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Pawcio
+  winner: W
+- moves: 'W[ac];B[ef];W[ji];B[kj];W[ie];B[dl];W[gj];B[ig];W[fh];B[fi];W[hh];B[hf];W[hg];B[if];W[ff];B[fg];W[dh];B[fe];W[gf];B[hd];W[resign]'
+  player_black: HappyHippo
+  player_white: Pawcio
+  winner: W
+- moves: 'W[ac];B[ie];W[ji];B[jk];W[lk];B[ei];W[je];B[if];W[jf];B[lj];W[kf];B[ij];W[hi];B[kc];W[jd];B[ih];W[ii];B[kg];W[hg];B[ig]'
+  player_black: HappyHippo
+  player_white: Pawcio
+  winner: W
+- moves: 'W[kb];B[swap];W[ie];B[ij];W[kj];B[kl];W[jj];B[hl];W[jl];B[hg];W[ei];B[fh];W[eh];B[fe];W[ce];B[dc];W[bc];B[ed];W[jf];B[jg];W[ig];B[hi];W[ih];B[ji];W[lh];B[kf];W[jh];B[kh];W[lg];B[kg];W[ld];B[me];W[ff];B[he];W[hf];B[id];W[jd];B[fg];W[eg];B[gf];W[ge];B[hc];W[df];B[cb];W[bb];B[dl];W[dk];B[bm];W[fk];B[resign]'
+  player_black: Pawcio
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[mk];B[ei];W[de];B[ih];W[bj];B[dc];W[bc];B[bd];W[jd];B[dl];W[fi];B[gg];W[cl];B[dk];W[ck];B[dh];W[ch];B[df];W[bg];B[cf];W[eg];B[fe];W[gf];B[dg];W[eh];B[dj];W[gi];B[ie];W[resign]'
+  player_black: Alexandre
+  player_white: Pawcio
+  winner: W
+- moves: 'W[ac];B[ie];W[fh];B[ef];W[dh];B[dj];W[ei];B[fd];W[gd];B[ej];W[gi];B[gj];W[fj];B[el];W[ij];B[hk];W[ji];B[hl];W[kj];B[hi];W[ih];B[hh];W[bi];B[bk];W[ig];B[id];W[hg];B[gc];W[hc];B[ff];W[bf];B[bg];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Pawcio
+  winner: W
+- moves: 'W[kb];B[swap];W[ie];B[gg];W[hg];B[hh];W[gh];B[fk];W[fj];B[ek];W[gj];B[gk];W[ij];B[id];W[jd];B[kb];W[jc];B[jb];W[ic];B[ib];W[gc];B[hc];W[ge];B[gd];W[ee];B[fe];W[ef];B[ff];W[eg];B[dj];W[ej];B[fh];W[lb];B[kc];W[lc];B[kd];W[ld];B[ke];W[le];B[kg];W[kf];B[ig];W[jg];B[ii];W[kh];B[ji];W[resign]'
+  player_black: Pawcio
+  player_white: Marius Halsor
+  winner: W
+- moves: 'W[kb];B[swap];W[ie];B[hg];W[ji];B[hh];W[ei];B[fi];W[kf];B[jg];W[fg]'
+  player_black: Pawcio
+  player_white: HappyHippo
+  winner: B
+- moves: 'W[mj];B[swap];W[dj];B[ed];W[je];B[jd];W[id];B[ie];W[gf];B[he];W[fd];B[hc];W[ee];B[gb];W[hb];B[gc];W[ge];B[kc];W[fc];B[fb];W[dc];B[ec];W[ce];B[de]'
+  player_black: HappyHippo
+  player_white: Pawcio
+  winner: W
+- moves: 'W[kb];B[swap];W[ie];B[hh];W[ji];B[ig];W[kf];B[je];W[if];B[jf];W[gh];B[fk];W[fj];B[ek];W[ej];B[dk];W[gj];B[gk];W[hj];B[hk];W[kj];B[kk];W[jk];B[ki];W[jj];B[ii];W[ij];B[id];W[gf];B[hg];W[ff];B[gc];W[hc];B[hb];W[jd];B[jc];W[kc];B[resign]'
+  player_black: Pawcio
+  player_white: HappyHippo
+  winner: B
+- moves: 'W[ac];B[jk];W[lk];B[df];W[ch];B[gg];W[eg];B[fe];W[gf];B[hd];W[id];B[he];W[je];B[if];W[jf];B[ig];W[jg];B[ii];W[ih];B[gj];W[resign]'
+  player_black: pOmek:B
+  player_white: Tim Shih
+  winner: W
+- moves: 'W[ac];B[hi];W[kj];B[kl];W[ei];B[ef];W[gf];B[fh];W[dh];B[eg];W[cg];B[cf];W[df];B[ed];W[de];B[dd];W[be];B[fc];W[bh];B[bd];W[hf];B[gd];W[je];B[hg];W[gh];B[gg];W[kg];B[jh];W[eh];B[fg];W[ig];B[gk];W[hh];B[fi];W[gi];B[fk];W[fj];B[dl];W[ck];B[bm];W[am];B[bl];W[al];B[bk];W[ak];B[cj];W[resign]'
+  player_black: Tim Shih
+  player_white: pOmek:B
+  winner: W
+- moves: 'W[bb];B[ij];W[kj];B[jk];W[lk];B[kl];W[ll];B[kk];W[lj];B[jh];W[fh];B[de];W[gf];B[ej];W[gi];B[ie];W[fk];B[resign]'
+  player_black: iLyN
+  player_white: Tim Shih
+  winner: B
+- moves: 'W[ac];B[df];W[ji];B[ih];W[gg];B[gh];W[fh];B[ej];W[fi];B[fj];W[gi];B[gj];W[hi];B[hj];W[kh];B[hc];W[jd];B[id];W[kd];B[ie];W[jf];B[kg];W[hf];B[hk];W[lg];B[ii];W[lf];B[ke];W[kf];B[je];W[ee];B[fd];W[ce];B[ff];W[ch];B[eg];W[bg];B[di];W[bj];B[bk];W[resign]'
+  player_black: Tim Shih
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ll];B[ed];W[hd];B[ji];W[gg];B[fi];W[gi];B[gh];W[ei];B[fh];W[eh];B[fg];W[eg];B[ff];W[df];B[fc];W[ge];B[ej];W[resign]'
+  player_black: Frode Lillevold
+  player_white: Tim Shih
+  winner: W
+- moves: 'W[ac];B[ij];W[fh];B[ff];W[dg];B[ee];W[cf];B[fj];W[ej];B[fi];W[ei];B[dl];W[ek];B[el];W[fk];B[dd];W[hg];B[fb];W[ie];B[resign]'
+  player_black: Tim Shih
+  player_white: David J Bush
+  winner: B
+- moves: 'W[ac];B[df];W[ji];B[gg];W[hf];B[he];W[ie];B[gh];W[jf];B[jc];W[gf];B[ge];W[id];B[gi];W[kf];B[jh];W[ki];B[ij];W[ii];B[resign]'
+  player_black: Tim Shih
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[fg];W[ji];B[ie];W[df];B[dj];W[hf];B[hh];W[gh];B[hg];W[gg];B[fi];W[gi];B[he];W[gf];B[ge];W[ff];B[fe];W[cg];B[resign]'
+  player_black: Tim Shih
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[ac];B[ij];W[fh];B[df];W[fe];B[gg];W[eg];B[ej];W[gi];B[gh];W[fi];B[fk];W[hj];B[gl];W[fg];B[ck];W[hk];B[hl];W[ik];B[il];W[kk];B[jk];W[li];B[ki];W[lh];B[jf];W[kg];B[hi];W[ke];B[kf];W[resign]'
+  player_black: Leoni
+  player_white: Tim Shih
+  winner: W
+- moves: 'W[ac];B[ij];W[fh];B[df];W[fe];B[ie];W[gh];B[ek];W[fk];B[eh];W[ef];B[eg];W[gf];B[ge];W[ff];B[fj];W[hi];B[gk];W[gj];B[em];W[el];B[dm];W[dl];B[ec];W[cl];B[resign]'
+  player_black: Leoni
+  player_white: Tim Shih
+  winner: B
+- moves: 'W[ab];B[ij];W[ii];B[hf];W[ji];B[de];W[fe];B[gi];W[gg];B[ff];W[jf];B[he];W[kd];B[jg];W[kh];B[lf];W[kf];B[kg];W[ci];B[dj];W[bk];B[eh];W[resign]'
+  player_black: Tim Shih
+  player_white: Leoni
+  winner: W
+- moves: 'W[ab];B[ij];W[ii];B[hf];W[ji];B[de];W[fe];B[gi];W[gg];B[he];W[ff];B[fg];W[gf];B[gh];W[hg];B[ih];W[hi];B[hh];W[jf];B[jj];W[fh];B[fk];W[kg];B[resign]'
+  player_black: Tim Shih
+  player_white: Leoni
+  winner: B
+- moves: 'W[ab];B[ij];W[ii];B[hf];W[ji];B[de];W[fe];B[gi];W[gg];B[he];W[ff];B[fg];W[gf];B[gh];W[hg];B[ih];W[hi];B[hh];W[ei];B[fh];W[dh];B[eg];W[df];B[dg];W[bh];B[cg];W[ag];B[bg];W[ah];B[be];W[bf];B[fd];W[jf];B[gc];W[hd];B[gj];W[kg];B[jj];W[hj];B[gl];W[gk];B[fl];W[fk];B[el];W[ck];B[bk];W[ci];B[resign]'
+  player_black: Tim Shih
+  player_white: Leoni
+  winner: B
+- moves: 'W[ab];B[gg];W[ii];B[jf];W[eg];B[de];W[hf];B[ej];W[ig];B[ih];W[jh];B[hj];W[hi];B[hg];W[if];B[ie];W[he];B[resign]'
+  player_black: Tim Shih
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ab];B[ij];W[ii];B[hf];W[ji];B[de];W[je];B[ig];W[kf];B[jh];W[ih];B[jg];W[lg];B[ke];W[jf];B[lf];W[kg];B[kh];W[lh];B[ki];W[li];B[kj];W[lj];B[kl];W[kk];B[jl];W[jk];B[il];W[ik];B[hl];W[hk];B[gl];W[fk];B[gi];W[gk];B[jd];W[ie];B[id];W[he];B[hd];W[lb];B[kc];W[resign]'
+  player_black: Tim Shih
+  player_white: Leoni
+  winner: W
+- moves: 'W[ab];B[ij];W[ii];B[hf];W[ji];B[de];W[je];B[ig];W[kf];B[jh];W[ih];B[jg];W[lg];B[kh];W[lh];B[ki];W[li];B[kj];W[lj];B[kl];W[kk];B[jl];W[jk];B[il];W[fj];B[hh];W[gi];B[hk];W[jj];B[gk];W[hi];B[jd];W[ie];B[ic];W[hd];B[hc];W[ee];B[gd];W[cg];B[ff];W[eg];B[fh];W[bj];B[dd];W[cd];B[bf];W[fc];B[ef];W[resign]'
+  player_black: Tim Shih
+  player_white: Leoni
+  winner: W
+- moves: 'W[ab];B[fg];W[gg];B[gi];W[ii];B[ie];W[gf];B[gh];W[hg];B[ih];W[jf];B[gj];W[kg];B[jh];W[kh];B[jj];W[hk];B[ji];W[kj];B[ki];W[mh];B[lh];W[mg];B[fl];W[lj];B[lg];W[mf];B[lf];W[me];B[le];W[md];B[lc];W[ld];B[kd];W[ke];B[ge];W[he];B[ic];W[ff];B[fe];W[ef];B[ee];W[df];B[de];W[hd];B[hc];W[gd];B[gc];W[fd];B[fc];W[ed];B[ec];W[dd];B[dc];W[bd];B[cd];W[be];B[ce];W[bf];B[cf];W[bg];B[cg];W[bh];B[resign]'
+  player_black: Tim Shih
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[ll];B[swap];W[gg];B[dc];W[dd];B[fi];W[gi];B[gh];W[ig];B[hj];W[fk];B[fj];W[ih];B[gj];W[ij];B[ii];W[kh];B[jf];W[kg];B[jk];W[ki];B[gl];W[li];B[if];W[hg];B[he];W[ke];B[kf];W[jd];B[ic];W[kb];B[le];W[ff];B[fe];W[ge];B[hc];W[ec];B[fd];W[df];B[de];W[bf];B[cf];W[bg];B[cg];W[bh];B[ch];W[aj];B[bi];W[ai];B[bk];W[bj];B[di];W[cj];B[ck];W[dj];B[dl];W[resign]'
+  player_black: Marius Halsor
+  player_white: Tim Shih
+  winner: W
+- moves: 'W[ab];B[ij];W[kj];B[jk];W[lk];B[kl];W[ll];B[kk];W[lj];B[jh];W[fh];B[gl];W[dk];B[ff];W[gf];B[fg];W[gg];B[ei];W[gi];B[ge];W[id];B[he];W[ie];B[hf];W[ig];B[if];W[ke];B[jf];W[kf];B[ji];W[resign]'
+  player_black: Tim Shih
+  player_white: Leoni
+  winner: W
+- moves: 'W[ab];B[ij];W[ei];B[fg];W[gg];B[gf];W[hf];B[fh];W[hi];B[gk];W[dh];B[fj];W[ch];B[ef];W[fk];B[ee];W[jd];B[gh];W[resign]'
+  player_black: Tim Shih
+  player_white: Leoni
+  winner: W
+- moves: 'W[ab];B[ij];W[kj];B[jk];W[fh];B[ff];W[gf];B[fg];W[gg];B[ej];W[di];B[ck];W[dk];B[dj];W[fj];B[fi];W[gi];B[gh];W[ig];B[hh];W[ii];B[ge];W[jf];B[ih];W[kg];B[ji];W[jh];B[hj];W[hi];B[ek];W[ik];B[jj];W[fk];B[el];W[resign]'
+  player_black: Tim Shih
+  player_white: Leoni
+  winner: W
+- moves: 'W[ab];B[ij];W[fh];B[ff];W[df];B[fg];W[gg];B[ei];W[hi];B[fi];W[jf];B[gk];W[hk];B[hj];W[fj];B[dk];W[el];B[he];W[ie];B[kc];W[eh];B[dg];W[ef];B[eg];W[ci];B[bh];W[id];B[gi];W[jh];B[gj];W[jj];B[je];W[resign]'
+  player_black: Tim Shih
+  player_white: Leoni
+  winner: W
+- moves: 'W[ab];B[ij];W[gg];B[fi];W[ei];B[ff];W[jd];B[ej];W[dj];B[bl];W[ck];B[ek];W[cl];B[fh];W[eh];B[fg];W[dg];B[ee];W[de];B[cd];W[cf];B[ec];W[ed];B[fc];W[fd];B[gc];W[ge];B[gd];W[fe];B[hd];W[kj];B[he];W[if];B[gf];W[hi];B[kc];W[ic];B[jc];W[id];B[jb];W[ib];B[gk];W[gi];B[fl];W[resign]'
+  player_black: Tim Shih
+  player_white: Leoni
+  winner: W
+- moves: 'W[ab];B[ij];W[fh];B[ff];W[gf];B[fg];W[gg];B[ei];W[hi];B[gk];W[fj];B[fl];W[ck];B[ek];W[ej];B[ge];W[id];B[he];W[ie];B[hf];W[if];B[hh];W[hg];B[fi];W[eh];B[hc];W[gd];B[hd];W[jc];B[dj];W[cj];B[di];W[bi];B[ec];W[cg];B[ch];W[bh];B[dg];W[be];B[bf];W[df];B[resign]'
+  player_black: Tim Shih
+  player_white: Leoni
+  winner: B
+- moves: 'W[ab];B[ef];W[gg];B[gi];W[fi];B[gh];W[fh];B[fj];W[ii];B[jg];W[hg];B[hh];W[ig];B[ie];W[je];B[jf];W[ke];B[if];W[kh];B[id];W[he];B[hd];W[ge];B[gd];W[fe];B[fc];W[de];B[gk];W[ej];B[dd];W[be];B[resign]'
+  player_black: Tim Shih
+  player_white: Leoni
+  winner: B
+- moves: 'W[ab];B[ef];W[gg];B[gi];W[ih];B[ij];W[hj];B[ii];W[fg];B[fk];W[dj];B[ge];W[ld];B[ie];W[fe];B[gd];W[ff];B[fd];W[ee];B[ed];W[de];B[dd];W[lg];B[hg];W[jd];B[hf];W[kj];B[lf];W[jf];B[ik];W[resign]'
+  player_black: Tim Shih
+  player_white: Leoni
+  winner: W
+- moves: 'W[mk];B[swap];W[de];B[ei];W[gi];B[ef];W[gg];B[he];W[if];B[jd];W[ff];B[gd];W[fe];B[hg];W[hf];B[el];W[fi];B[gj];W[ek];B[lb];W[ed];B[resign]'
+  player_black: Leoni
+  player_white: Tim Shih
+  winner: B
+- moves: 'W[mi];B[swap];W[gg];B[gi];W[di];B[dj];W[ih];B[hj];W[ji];B[ik];W[kj];B[kk];W[lj];B[kl];W[ek];B[fi];W[ei];B[ej];W[bk];B[cj];W[bj];B[ci];W[bi];B[ch];W[bh];B[cg];W[bg];B[cf];W[bf];B[ce];W[be];B[cd];W[bd];B[cb];W[cc];B[db];W[dc];B[eb];W[ec];B[fb];W[jd];B[fc];W[ed];B[fd];W[ee];B[fe];W[ef];B[gf];W[resign]'
+  player_black: Frode Lillevold
+  player_white: Tim Shih
+  winner: W
+- moves: 'W[ac];B[swap];W[ji];B[hf];W[ie];B[hh];W[fh];B[hj];W[fj];B[hd];W[jf];B[jc];W[kc];B[kb];W[lb];B[je];W[if];B[jd];W[ld];B[ej];W[fi];B[ke];W[le];B[kf];W[lf];B[kh];W[kg];B[jh];W[jg];B[gg];W[ge];B[ff];W[fg];B[gf];W[eg];B[gj];W[ef];B[fe];W[ee];B[fc];W[ec];B[ed];W[ce];B[dd];W[cd];B[dc];W[bc];B[dk];W[di];B[resign]'
+  player_black: Leoni
+  player_white: Tim Shih
+  winner: B
+- moves: 'W[ab];B[ef];W[gg];B[gi];W[ig];B[ih];W[fi];B[ic];W[id];B[ek];W[fj];B[gh];W[fh];B[fk];W[gj];B[gk];W[hj];B[hk];W[dj];B[cl];W[cj];B[bl];W[dl];B[dk];W[jj];B[ij];W[ji];B[ii];W[kg];B[je];W[kf];B[kc];W[hf];B[ib];W[gd];B[gc];W[fd];B[resign]'
+  player_black: Tim Shih
+  player_white: David J Bush
+  winner: B
+- moves: 'W[ac];B[gg];W[ig];B[ge];W[fh];B[eg];W[jd];B[if];W[ke];B[ii];W[hg];B[id];W[jg];B[gj];W[hi];B[hj];W[fj];B[gi];W[gh];B[fi];W[kh];B[ki];W[ei];B[ck];W[ej];B[kd];W[je];B[kb];W[jc];B[jb];W[ic];B[ib];W[hc];B[hb];W[gc];B[gb];W[fc];B[fb];W[ec];B[eb];W[bd];B[resign]'
+  player_black: David J Bush
+  player_white: Tim Shih
+  winner: B
+- moves: 'W[bm];B[gf];W[hf];B[gh];W[dh];B[fd];W[jf];B[ig];W[hh];B[hg];W[ch];B[fe];W[id];B[fi];W[resign]'
+  player_black: Tim Shih
+  player_white: David J Bush
+  winner: W
+- moves: 'W[me];B[ij];W[ih];B[gg];W[de];B[dc];W[bc];B[bd];W[ec];B[dj];W[kj];B[kl];W[jj];B[jf];W[hg];B[hf];W[ei];B[ef];W[cg];B[dh];W[if];B[ie];W[je];B[hl];W[jl];B[ii];W[jh];B[ld];W[jd];B[ji];W[gj];B[ek];W[fl];B[resign]'
+  player_black: pOmek:B
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ll];B[ih];W[fi];B[ed];W[cd];B[cb];W[dd];B[ei];W[gg];B[he];W[ie];B[hf];W[ig];B[if];W[ke];B[jf];W[lf];B[kf];W[le];B[kg];W[lg];B[kh];W[lh];B[kj];W[ki];B[ik];W[jj];B[jk];W[ij];B[hk];W[hj];B[gk];W[fj];B[hd];W[fh];B[kd];W[kc];B[jc];W[kb];B[mc];W[ic];B[je];W[ef];B[ff];W[ci];B[ee];W[df];B[de];W[bf];B[ch];W[dh];B[cf];W[bg];B[cg];W[ai];B[bi];W[aj];B[bj];W[ak];B[bl];W[bk];B[dk];W[resign]'
+  player_black: Marius Halsor
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[ef];W[eg];B[dj];W[ji];B[jk];W[kj];B[jj];W[ki];B[kk];W[lj];B[kl];W[hf];B[jg];W[gh];B[gi];W[ih];B[gl];W[ej];B[hg];W[fh];B[ie];W[bl];B[ck];W[bk];B[ei];W[fi];B[ch];W[if];B[hj];W[ij];B[jh];W[hl];B[hk];W[dl];B[ff];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Art Duval
+  winner: W
+- moves: 'W[md];B[ij];W[ei];B[ed];W[hg];B[ie];W[cd];B[cb];W[fe];B[ff];W[df];B[dg];W[cg];B[cj];W[gf];B[fk];W[gk];B[gj];W[hj];B[hi];W[ii];B[ih];W[jh];B[jf];W[lc];B[ld];W[mc];B[kc];W[kd];B[id];W[lb];B[kg];W[ge];B[jg];W[dk];B[fh];W[dh];B[ef];W[ch];B[fb];W[ee];B[ib];W[hc];B[ha];W[ic];B[resign]'
+  player_black: Frode Lillevold
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ll];B[ih];W[de];B[dc];W[ie];B[gg];W[fg];B[ei];W[fh];B[gi];W[fi];B[ek];W[fj];B[fk];W[gj];B[gk];W[hj];B[hk];W[ij];B[ik];W[jj];B[jk];W[kj];B[kk];W[mj];B[lj];W[dh];B[cj];W[mi];B[li];W[mh];B[lh];W[resign]'
+  player_black: Marius Halsor
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[fh];W[ji];B[jk];W[lk];B[jj];W[ei];B[eh];W[jf];B[jd];W[ie];B[id];W[he];B[hd];W[ge];B[gd];W[fe];B[fd];W[ee];B[ed];W[ce];B[bd];W[ke];B[lc];W[dc];B[de];W[bg];B[cf];W[bf];B[dg];W[cg];B[df];W[bj];B[di];W[ch];B[bk];W[cj];B[cl];W[ck];B[bl];W[dk];B[dl];W[ek];B[el];W[fk];B[fl];W[hk];B[gk];W[hi];B[hj];W[lh];B[lj];W[ij];B[ii];W[jg];B[ih];W[hh];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Art Duval
+  winner: B
+- moves: 'W[mh];B[swap];W[ei];B[ed];W[cd];B[cb];W[ie];B[fh];W[kj];B[jj];W[cg];B[df];W[gf];B[fi];W[ih];B[ig];W[hh];B[gj];W[eh];B[fg];W[eg];B[gd];W[ff];B[dk];W[hj];B[gl];W[jh];B[hg];W[kf];B[fk];W[jk];B[je];W[ld];B[lc];W[kd];B[kc];W[jd];B[jc];W[ec];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: iLyN
+  winner: B
+- moves: 'W[ac];B[ei];W[ji];B[jk];W[lk];B[lj];W[gg];B[jc];W[dh];B[df];W[cg];B[dg];W[ff];B[gh];W[fh];B[fi];W[cj];B[ck];W[dj];B[dk];W[ej];B[ek];W[fj];B[fk];W[hj];B[gj];W[hi];B[gi];W[ig];B[hg];W[ie];B[if];W[ke];B[kd];W[je];B[gc];W[ic];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Alexandre
+  winner: B
+- moves: 'W[ll];B[ih];W[hf];B[ed];W[fi];B[gg];W[hg];B[ic];W[gd];B[eh];W[jf];B[he];W[kc];B[je];W[lc];B[gk];W[gi];B[resign]'
+  player_black: Marius Halsor
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[ce];W[gg];B[jd];W[bd];B[dc];W[ee];B[gi];W[ii];B[gh];W[if];B[ig];W[ei];B[ff];W[eh];B[ej];W[dj];B[cl];W[dk];B[dl];W[ek];B[el];W[gj];B[fk];W[fj];B[fm];W[hl];B[gd];W[id];B[hf];W[gf];B[hc];W[ge];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[ij];W[kj];B[hl];W[fh];B[ff];W[ie];B[fj];W[ck];B[ei];W[ji];B[ii];W[jh];B[ih];W[di];B[eg];W[gf];B[eh];W[lg];B[jg];W[me];B[kg];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: David J Bush
+  winner: W
+- moves: 'W[mk];B[ie];W[ef];B[ed];W[cd];B[cb];W[db];B[ei];W[ih];B[ig];W[fh];B[fi];W[gh];B[gi];W[jg];B[hh];W[ke];B[hj];W[ji];B[kd];W[je];B[jd];W[if];B[hf];W[hg];B[hk];W[ik];B[ce];W[lb];B[mc];W[gf];B[hd];W[ld];B[lc];W[de];B[fg];W[gg];B[gc];W[dd];B[ff];W[ge];B[ee];W[df];B[fe];W[eh];B[eg];W[ch];B[resign]'
+  player_black: Alexandre
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[md];B[jj];W[ee];B[ei];W[gi];B[gh];W[hh];B[hg];W[ig];B[if];W[jf];B[je];W[ld];B[gk];W[ii];B[la];W[kd];B[kc];W[jd];B[jc];W[id];B[hc];W[ic];B[ja];W[ib];B[ia];W[hb];B[ha];W[fb];B[gb];W[fd];B[resign]'
+  player_black: Frode Lillevold
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ll];B[ih];W[je];B[kd];W[fh];B[fk];W[ck];B[gf];W[ef];B[ed];W[ff];B[di];W[jg];B[ig];W[gi];B[fg];W[dh];B[eh];W[bj];B[ci];W[ai];B[bi];W[aj];B[cg];W[bg];B[ce];W[cf];B[ee];W[hg];B[ie];W[jd];B[if];W[kh];B[jf];W[le]'
+  player_black: Marius Halsor
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[ie];W[ei];B[dj];W[ji];B[eh];W[hf];B[he];W[gf];B[fe];W[ge];B[hc];W[jc];B[ic];W[ld];B[kg];W[kf];B[jg];W[jf];B[ig];W[if];B[gg]'
+  player_black: Przemek Kozera (icob)
+  player_white: wojtex
+  winner: W
+- moves: 'W[me];B[kd];W[gg];B[ei];W[dd];B[cc];W[be];B[gh];W[jj];B[hg];W[di];B[dj];W[bk];B[cj];W[bj];B[ci];W[bi];B[cg];W[bf];B[ah];W[ch];B[dg];W[dh];B[dk];W[bl]'
+  player_black: Frode Lillevold
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ll];B[ih];W[fi];B[fh];W[hg];B[hf];W[je];B[if];W[jg];B[jf];W[le];B[kf];W[lf];B[kh];W[kg];B[ii];W[ig];B[gj];W[ei];B[gh];W[eh];B[ff];W[ef];B[eg];W[ch];B[dg];W[gg];B[he];W[cg];B[de];W[df];B[dh];W[ci];B[fd];W[id];B[hc];W[gi];B[ld];W[hd];B[fe];W[resign]'
+  player_black: Marius Halsor
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[af];B[cc];W[ie];B[fh];W[gh];B[ij];W[jj];B[ik];W[fj];B[hf];W[if];B[hg];W[ig];B[hh];W[jh];B[il];W[ii];B[gj];W[hj];B[gl];W[gk];B[em];W[fl];B[fm];W[el];B[dm];W[dl];B[cm];W[bl];B[cl];W[ck];B[dk];W[dj];B[ej];W[eh];B[fg];W[eg];B[fe];W[ff];B[he];W[ei];B[ic];W[ge];B[gd];W[hd];B[hc];W[kh];B[jd];W[kd];B[lb];W[jc];B[id];W[kc];B[ka];W[jb];B[ja];W[ib];B[ia];W[hb];B[ha];W[gb];B[ga];W[eb];B[fb];W[dd];B[ef];W[de];B[resign]'
+  player_black: wojtex
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[ef];W[ji];B[hf];W[je];B[ig];W[kf];B[jh];W[lg];B[jd];W[ie];B[id];W[he];B[fd];W[hd];B[kh];W[lh];B[ki];W[li];B[kj];W[lj];B[kl];W[kk];B[jl];W[jk];B[il];W[ik];B[hl];W[hk];B[gl];W[gk];B[fl];W[fk];B[el];W[dk];B[ek];W[ei];B[gi];W[fi];B[fj];W[gh];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Art Duval
+  winner: B
+- moves: 'W[me];B[kd];W[de];B[dc];W[bc];B[bd];W[ec];B[fh];W[bj];B[df];W[ih];B[hg];W[ld];B[lc];W[je];B[jb];W[he];B[gd];W[if];B[ig];W[jg];B[ic];W[jd];B[kb];W[fe];B[ge];W[ff];B[gf];W[eh];B[dj];W[ei];B[ej];W[cj];B[gi];W[fg];B[bl];W[ck];B[cl];W[dk];B[dl];W[ek];B[el];W[fk];B[fl];W[gk];B[gl];W[ik];B[hk];W[hj];B[ij];W[ki];B[ii];W[resign]'
+  player_black: pOmek:B
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[ef];W[ji];B[jk];W[lk];B[ie];W[he];B[gg];W[hf];B[hg];W[if];B[kl];W[kj];B[jh];W[ih];B[kk];W[lj];B[ll];W[ii];B[ig];W[kf];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: iLyN
+  winner: B
+- moves: 'W[ac];B[ce];W[ji];B[jk];W[lk];B[gg];W[hf];B[ig];W[hg];B[gi];W[hh];B[ii];W[jh];B[ij];W[hi];B[je];W[gf];B[gk];W[gj];B[fk];W[ek];B[fj];W[ei];B[fh];W[dg];B[eg];W[ch];B[ef];W[df];B[ed];W[ee];B[gc];W[fe];B[id];W[jd];B[ie];W[lc];B[jc];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Marius Halsor
+  winner: W
+- moves: 'W[ac];B[ce];W[ji];B[jk];W[lk];B[gg];W[hf];B[he];W[gf];B[if];W[fg];B[fh];W[hg];B[hh];W[gh];B[gd];W[ee];B[ed];W[fd];B[gb];W[bd];B[fj];W[gi];B[gj];W[ih];B[jj];W[ij];B[ff];W[ge];B[hc];W[hb];B[fe];W[ic];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[jj];W[kk];B[fh];W[gh];B[gg];W[jf];B[jd];W[ie];B[je];W[if];B[id];W[he];B[hd];W[ge];B[gd];W[fe];B[fd];W[ee];B[ed];W[ce];B[de];W[bg];B[fi];W[eh];B[ec];W[cf];B[cd];W[ae];B[ad];W[bd];B[cb];W[dc];B[ea];W[eb];B[fa];W[fb];B[ga];W[gb];B[ha];W[hb];B[ia];W[ib];B[ja];W[jb];B[ka];W[lb];B[kb];W[kc];B[jc];W[ld];B[ke];W[le];B[kf];W[lf];B[kg];W[lg];B[ki];W[kh];B[ii];W[jh];B[ih];W[jg];B[dj];W[cj];B[ck];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Frode Lillevold
+  winner: W
+- moves: 'W[me];B[jk];W[fj];B[gg];W[ee];B[dd];W[fc];B[gf];W[dh];B[di];W[eh];B[fi];W[ei];B[ej];W[dj];B[dk];W[ck];B[bm];W[bk];B[am];W[cl];B[cm];W[dl];B[dm];W[fl];B[el];W[ek];B[fk];W[hj];B[gj];W[ih];B[hi];W[ii];B[ig];W[ld];B[jg];W[ke];B[ge];W[kg];B[jh];W[ki];B[kh];W[hh];B[gi];W[mg];B[lh];W[mh];B[li];W[resign]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[ef];W[ce];B[ij];W[gg];B[fh];W[kj];B[hf];W[kf];B[kl];W[jl];B[jk];W[kk];B[ji];W[lh];B[kg];W[jh];B[jg];W[le];B[jf];W[ch];B[cg];W[dg];B[df];W[mf];B[kd];W[je];B[ke];W[lb];B[mc];W[bh];B[bg];W[gf];B[gi];W[eg];B[ck]'
+  player_black: 'Shumacher;]'
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ad];B[ef];W[ch];B[dj];W[ji];B[ie];W[fg];B[fh];W[gg];B[hi];W[gh];B[fj];W[ih];B[hh];W[if]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[ij];W[kj];B[hf];W[dh];B[ed];W[fe];B[gc];W[df];B[ce];W[hd];B[ge]'
+  player_black: Przemek Kozera (icob)
+  player_white: iLyN
+  winner: W
+- moves: 'W[ac];B[ie];W[hf];B[fk];W[ji];B[jk];W[dj];B[ef];W[de];B[dl];W[ik];B[hc];W[hd];B[he];W[ff];B[fd];W[fe];B[ee];W[jc];B[bm]'
+  player_black: Przemek Kozera (icob)
+  player_white: pOmek:B
+  winner: W
+- moves: 'W[md];B[swap];W[fh];B[fe];W[de];B[dc];W[bc];B[bd];W[kf]'
+  player_black: pOmek:B
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ad];B[swap];W[ih];B[ij];W[kj];B[ie];W[ge];B[ii];W[fh];B[fg];W[hf];B[gi];W[kg];B[hg];W[if];B[ig];W[jf];B[jk];W[lk];B[kh];W[eh];B[gg];W[eg]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[ef];W[ji];B[hf];W[ff];B[fg];W[jf];B[je];W[ld];B[lc];W[kd];B[kc];W[jd];B[jc];W[he];B[fe];W[hd];B[gc];W[ib];B[ie];W[id];B[ke];W[le];B[kf];W[lf];B[kg];W[lg];B[kh];W[lh];B[ki];W[li];B[kj];W[lj];B[kl];W[kk];B[jl];W[jk];B[il];W[ik];B[hl];W[fj];B[hk]'
+  player_black: Przemek Kozera (icob)
+  player_white: Art Duval
+  winner: W
+- moves: 'W[ll];B[ih];W[de];B[dc];W[gg];B[he];W[ge];B[gf];W[eg];B[ei];W[hg];B[gi];W[fi];B[ek];W[fj];B[fk];W[gj];B[gk];W[dh];B[dj];W[hj]'
+  player_black: Marius Halsor
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ag];B[ee];W[hg];B[ij];W[fh];B[id];W[hd];B[he];W[ge];B[fg];W[eh];B[eg];W[gf];B[gg];W[hf];B[gh];W[hi];B[hh];W[jg];B[ih];W[jh];B[hk];W[ki];B[ig];W[jf];B[if];W[lf];B[il];W[lk];B[ka];W[lb];B[je];W[ld];B[jm];W[kl];B[lc];W[kd];B[resign]'
+  player_black: Jonatan Rydh
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[hf];W[ji];B[jk];W[lk];B[lj];W[ei];B[eg];W[ke];B[hh];W[jg];B[jb];W[jd];B[ii];W[he];B[jh];W[fg];B[eh];W[fh];B[hc];W[ff];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: pOmek:B
+  winner: B
+- moves: 'W[mb];B[ij];W[ef];B[ed];W[fj];B[fh];W[cg];B[fe];W[gf];B[hd];W[ie];B[jc];W[kd];B[fi];W[cj];B[jb];W[ld];B[eg];W[hh];B[je];W[jd];B[resign]'
+  player_black: Frode Lillevold
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[hi];W[ji];B[jk];W[lk];B[ef];W[gg];B[fj];W[dj];B[ic];W[kd];B[kc];W[he];B[gd];W[jc];B[id];W[jd];B[jb];W[lc];B[ie];W[jf];B[jh];W[ih];B[ii];W[gi];B[hg];W[dh];B[hh];W[fe];B[eh];W[fi];B[ff];W[cg];B[ee];W[bg];B[cd];W[fd];B[ge];W[ce];B[ec];W[resign]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[ef];W[ji];B[jk];W[lk];B[lj];W[dh];B[dj];W[gg];B[gi];W[ih];B[ii];W[jh];B[ie];W[if];B[ij];W[fi];B[gh];W[fh];B[fj];W[ej];B[dk];W[kj];B[kk];W[bj];B[bl];W[fk];B[hi];W[jj];B[ik];W[ek];B[gf];W[cg];B[eh];W[ld];B[kd];W[di];B[ei];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: iLyN
+  winner: W
+- moves: 'W[ll];B[ih];W[fi];B[ed];W[ge];B[gg];W[hg];B[gh];W[ei];B[gf];W[ef];B[ff];W[jf];B[hi];W[gi];B[hh];W[de];B[dh];W[kg];B[kd];W[resign]'
+  player_black: Marius Halsor
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[bb];B[ef];W[ji];B[jk];W[lk];B[lj];W[hf];B[hh];W[fj];B[gi];W[fh];B[gg];W[hg];B[gh];W[ig];B[jh];W[ff];B[fg];W[eg];B[eh];W[ci];B[cl];W[cj];B[dh];W[bh];B[ch];W[bi];B[cg];W[bg];B[cf];W[bf];B[cd];W[ce];B[ec];W[ed];B[gb];W[fc];B[fb];W[gc];B[hb];W[hc];B[ib];W[jc];B[ic];W[he];B[resign]'
+  player_black: Jonatan Rydh
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[mk];B[ih];W[dg];B[ed];W[cd];B[cb];W[db];B[ei];W[hh];B[gj];W[hi];B[hk];W[jj];B[ij];W[ji];B[hf];W[cg];B[eh];W[if];B[ii];W[jf];B[kg];W[fj];B[gi];W[fi];B[gh];W[fh];B[ff];W[resign]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[hi];W[ik];B[gg];W[lf];B[jj];W[dh];B[dj];W[ei];B[ej];W[fi];B[fj];W[gi];B[gj];W[resign]'
+  player_black: 'Shumacher;]'
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[mb];B[ij];W[kj];B[kl];W[jl];B[hf];W[ih];B[ii];W[kg];B[ki];W[hi];B[ke];W[de];B[dc];W[bc];B[ei];W[gg];B[gf];W[fg];B[dk];W[ld];B[gk];W[fk];B[gj];W[fj];B[hg];W[fi];B[ff];W[eg];B[ef];W[cg];B[dg];W[bi];B[di];W[gi];B[jg];W[resign]'
+  player_black: pOmek:B
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ad];B[dg];W[ih];B[ij];W[kj];B[kl];W[jl];B[hf];W[ci];B[ck];W[gg];B[gd];W[gf];B[ge];W[ef];B[ee];W[cf];B[eg];W[je];B[jd];W[eh];B[di];W[ld];B[ke];W[he];B[ii];W[kg];B[ki];W[hi];B[gk];W[fk];B[gi];W[gj];B[ig];W[hg];B[dm];W[ek];B[fh];W[fg];B[ka];W[ic];B[resign]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[gg];W[ji];B[jg];W[eg];B[ce];W[hf];B[fi];W[hh];B[ff];W[if];B[hd];W[jd];B[hi];W[ih];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[ef];W[dh];B[hf];W[ji];B[jk];W[lk];B[lj];W[gf];B[dj];W[ik];B[fi];W[ei];B[gg];W[fh];B[fg];W[ie];B[hd];W[jc];B[if];W[cg];B[de];W[bf];B[be];W[ce];B[dc];W[dd];B[ec];W[ed];B[fc];W[fe];B[fk];W[gh];B[ij];W[gi];B[resign]'
+  player_black: Adam
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[mb];B[ij];W[kj];B[kl];W[jl];B[ed];W[cd];B[cb];W[hf];B[gh];W[ig];B[he];W[ie];B[jc];W[kc];B[kb];W[gf];B[gd];W[lb];B[fj];W[ji];B[jk];W[jj];B[ik];W[kk];B[ih];W[jg];B[ke];W[lf];B[resign]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[hf];W[ji];B[jk];W[lk];B[lj];W[ch];B[dg];W[cg];B[df];W[fg];B[ge];W[cf];B[de];W[be];B[bf];W[ce];B[dj];W[gh];B[dh];W[ci];B[dk];W[ig];B[hl];W[fi];B[gd];W[di];B[fj];W[gj];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Adam
+  winner: B
+- moves: 'W[ac];B[ef];W[fg];B[ij];W[hj];B[ge];W[ie];B[gh];W[hg];B[hf];W[he];B[gf];W[if];B[hi];W[hh];B[gi];W[dh];B[eh];W[jh];B[hk];W[ii];B[gk];W[gj];B[fk];W[fj];B[dl];W[ki];B[jk];W[kk];B[kj];W[mi];B[ek];W[lk];B[li];W[mh];B[lh];W[mg];B[lg];W[mf];B[lf];W[me];B[le];W[md];B[ld];W[mc];B[lb];W[resign]'
+  player_black: wojtex
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[ie];W[dh];B[ef];W[hg];B[ei];W[gf];B[fj];W[ji];B[ii];W[jh];B[jk];W[jj];B[ik];W[kk];B[ig];W[jf];B[jc];W[le];B[jb];W[fe];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: iLyN
+  winner: B
+- moves: 'W[ac];B[ii];W[jj];B[ie];W[fh];B[ei];W[dh];B[df];W[ce];B[fe];W[ef];B[ee];W[ge];B[ff];W[ch];B[gf];W[resign]'
+  player_black: Adam
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[ef];W[gg];B[ii];W[jj];B[kk];W[dh];B[fi];W[ei];B[dk];W[ej];B[ek];W[gj];B[hh];W[fj];B[hd];W[jd];B[hf];W[gf];B[hc];W[kh];B[hk];W[il];B[id];W[kd];B[ig];W[resign]'
+  player_black: Adam
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[ii];W[jj];B[kk];W[fh];B[ek];W[ej];B[ef];W[ge];B[dk];W[fj];B[gf];W[ff];B[fk];W[hj];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Adam
+  winner: B
+- moves: 'W[ac];B[jk];W[lk];B[gg];W[dh];B[df];W[ig];B[jh];W[hg];B[ic];W[ef];B[dj];W[hi];B[he];W[ei];B[eh];W[di];B[ek];W[fi];B[el];W[bj];B[gk];W[kf];B[ki];W[al];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Adam
+  winner: B
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[ki];W[gg];B[df];W[ef];B[fj];W[dj];B[fd];W[ee];B[ei];W[di];B[eg];W[eh];B[hc];W[he];B[gf];W[hf];B[fg];W[fh];B[hd];W[ch];B[db];W[ed];B[aa];W[fb];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: pOmek:B
+  winner: B
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[ki];W[gg];B[hc];W[cg];B[ce];W[de];B[ec];W[bd];B[dd];W[bg];B[fh];W[hi];B[gk];W[di];B[af];W[fc];B[ed];W[fd];B[eg];W[gi];B[fj];W[bj];B[ej];W[ee];B[bk];W[fk];B[ck];W[gj];B[hf];W[ig];B[ff];W[je];B[jd];W[he];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Adam
+  winner: B
+- moves: 'W[ac];B[ii];W[jj];B[kk];W[ll];B[ie];W[ch];B[dj];W[gh];B[gf];W[fg];B[ff];W[eg];B[ef];W[bf];B[de];W[df];B[ee];W[jc];B[be];W[ce];B[dc];W[dd];B[ec];W[ed];B[cg];W[dg];B[cf];W[ah];B[bh];W[ai];B[bi];W[aj];B[bj];W[ak];B[bl];W[bk];B[dk];W[jf];B[fj];W[gj];B[gi];W[kg];B[kd];W[resign]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[aj];B[swap];W[de];B[dc];W[bc];B[bd];W[hf];B[hi];W[ji];B[jk];W[lk];B[lj];W[ik];B[hd];W[ec];B[fe];W[ef];B[fh];W[gh];B[gg];W[hg];B[ff];W[ee];B[ie];W[resign]'
+  player_black: Adam
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[gg];W[ig];B[hi];W[ei];B[ef];W[lh];B[jk];W[kk];B[kg];W[jg];B[ii];W[le];B[mf];W[gh];B[hg];W[hh];B[je];W[kc];B[ic];W[gf];B[fg];W[ie];B[jd];W[ke];B[lb];W[kd];B[fi];W[fh];B[kb];W[jc];B[jb];W[fe];B[gb];W[gc];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: iLyN
+  winner: B
+- moves: 'W[ac];B[hi];W[ji];B[jk];W[fh];B[df];W[ce];B[bd];W[ef];B[fg];W[gg];B[he];W[if];B[hg];W[hf];B[jd];W[gf];B[ge];W[fd];B[ff];W[eh];B[eg];W[ch];B[ci];W[dh];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Adam
+  winner: B
+- moves: 'W[ac];B[ii];W[jj];B[kk];W[dg];B[ce];W[fh];B[fd];W[ie];B[ej];W[fj];B[fi];W[gi];B[hg];W[gf];B[hc];W[ic];B[gh];W[dj];B[ei];W[di];B[eh];W[cg];B[gb];W[de];B[ec];W[ge];B[resign]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[ii];W[jj];B[ie];W[dg];B[cf];W[gg];B[ei];W[fi];B[gf];W[fg];B[ej];W[hf];B[gk];W[fj];B[gc];W[hd];B[gb];W[fd];B[he];W[dh];B[ec];W[de];B[cd];W[fe];B[ic];W[hc];B[ia];W[ib];B[ja];W[jb];B[ka];W[lb];B[kb];W[kc];B[jc];W[jd];B[id];W[je];B[fl];W[kh];B[kg];W[if];B[ek];W[lg];B[jf];W[lf];B[ke];W[hj];B[gi];W[gj];B[gh];W[fh];B[resign]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[ii];W[jj];B[kk];W[fh];B[ff];W[gf];B[fg];W[gg];B[ej];W[di];B[ck];W[dk];B[dj];W[fj];B[fi];W[hh];B[gi];W[hi];B[gk];W[hj];B[hk];W[il];B[ij];W[jg];B[kh];W[gj];B[el];W[ek];B[cm];W[bl];B[cl];W[bk];B[cj];W[bj];B[ci];W[bi];B[cg];W[ch];B[dh];W[dg];B[ee];W[bf];B[de];W[ah];B[be];W[ce];B[dc];W[dd];B[ec];W[ed];B[fc];W[fd];B[gc];W[ge];B[gd];W[fe];B[jb];W[hd];B[ib];W[kb];B[id];W[jc];B[ic];W[jd];B[hf];W[ie];B[he];W[jf];B[resign]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ad];B[be];W[de];B[ij];W[ei];B[eg];W[fg];B[eh];W[fh];B[ge];W[he];B[hd];W[ff];B[ee];W[fe];B[gc];W[hc];B[gd];W[ed];B[fd];W[df];B[ef];W[di];B[ch];W[id];B[gf];W[ig];B[hg];W[jg];B[hh];W[ii];B[gj];W[gi];B[ek];W[fk];B[dl];W[resign]'
+  player_black: Adam
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[bb];B[ef];W[gf];B[ij];W[kj];B[kl];W[jl];B[ie];W[de];B[fg];W[ih];B[hg];W[gg];B[fi];W[gh];B[gi];W[hh];B[ii];W[dj];B[ek];W[resign]'
+  player_black: Art Duval
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[mb];B[swap];W[ji];B[jk];W[lk];B[lj];W[ik];B[hf];W[ff];B[fg];W[gf];B[gg];W[dh];B[di];W[ke];B[jg];W[if];B[id];W[jc];B[lb];W[jd];B[ie];W[resign]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[ii];W[jj];B[ie];W[gg];B[gd];W[ee];B[fi];W[di];B[dj];W[ei];B[ej];W[cj];B[ck];W[al];B[cl];W[am];B[bk];W[hf];B[hh];W[ak];B[bj];W[aj];B[ch];W[bh];B[cf];W[cg];B[df];W[jf];B[kd];W[ig];B[kh];W[dg];B[ef];W[resign]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[md];B[swap];W[jj];B[kk];W[gg];B[ed];W[jf];B[ih];W[dh];B[id];W[fe];B[gc];W[hd];B[ib];W[hb];B[hc];W[fc];B[fd];W[jc];B[lb];W[kb];B[ic];W[kd];B[jd];W[kc];B[je];W[resign]'
+  player_black: Frode Lillevold
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[mb];B[swap];W[ji];B[jk];W[lk];B[jj];W[hj];B[kl];W[ll];B[jl];W[de];B[dc];W[bc];B[bd];W[ec];B[hf];W[ff];B[hg];W[eh];B[gi];W[kf];B[fk];W[ij];B[ke];W[cl];B[dj];W[bl];B[bk];W[ej];B[ei];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: psychoanal
+  winner: W
+- moves: 'W[ac];B[hi];W[ji];B[jk];W[lk];B[lb];W[fh];B[fg];W[gg];B[gf];W[ie];B[gi];W[hg];B[id];W[he];B[hc];W[hd];B[ic];W[fe];B[fd];W[de];B[dd];W[ce];B[ee];W[df];B[gk];W[di];B[dj];W[cj];B[ef];W[jd];B[kb];W[dg];B[ck];W[kg];B[jh];W[kh];B[jg];W[kf];B[if];W[al];B[cl];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Marius Halsor
+  winner: W
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[ki];W[gg];B[fh];W[eh];B[ei];W[cj];B[dk];W[bl];B[bk];W[ck];B[dg];W[ci];B[ff];W[hg];B[hc];W[jd];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Adam
+  winner: B
+- moves: 'W[md];B[swap];W[ji];B[jk];W[lk];B[jj];W[lh];B[ed];W[cd];B[lj];W[fh];B[cb];W[dd];B[ei];W[gi];B[gf];W[hf];B[id];W[he];B[hd];W[ge];B[gd];W[fe];B[fb];W[db];B[de];W[fd];B[gb];W[jc];B[ib];W[jd];B[lb];W[ka];B[ie];W[je];B[if];W[jf];B[ig];W[jg];B[ih];W[jh];B[hj];W[resign]'
+  player_black: Adam
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[md];B[swap];W[jj];B[ed];W[cd];B[cb];W[dd];B[fb];W[db];B[df];W[de];B[hf];W[ff];B[ee];W[gd];B[fg];W[eg];B[eh];W[ci];B[cj];W[di];B[ej];W[dj];B[cl];W[bi];B[cg];W[jf];B[ig];W[kg];B[jg];W[kf];B[jh];W[kh];B[kc];W[ld];B[kb];W[jd];B[hc];W[id];B[ic];W[fc];B[hd];W[gf];B[he];W[gg];B[gh];W[hg];B[if];W[bl];B[ck];W[ak];B[dh];W[hh];B[hi];W[gi];B[ge];W[fe];B[ec];W[gb];B[gc];W[fd];B[fk];W[ei];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: iLyN
+  winner: B
+- moves: 'W[bb];B[ef];W[gg];B[ij];W[kj];B[kl];W[jj];B[ie];W[dh];B[ei];W[fg];B[ej];W[hh];B[hi];W[gi];B[fk];W[gj];B[gl];W[hk];B[hl];W[jl];B[ik];W[lg];B[ih];W[kf];B[kd];W[je];B[jd];W[if];B[hf];W[ch];B[cj];W[ig];B[kg];W[resign]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[am];B[swap];W[de];B[dc];W[bc];B[dd];W[bf];B[cb];W[bb];B[be];W[ie];B[hf];W[ji];B[jk];W[lk];B[jj];W[lh];B[kl];W[ll];B[li];W[ij];B[if];W[je];B[ig];W[kf];B[hl];W[gk];B[fk];W[dk];B[kg];W[jg];B[jh];W[le];B[ib];W[hd];B[mf];W[ih];B[hj];W[gi];B[dl];W[cl];B[resign]'
+  player_black: Adam
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[ij];W[ii];B[hj];W[kj];B[kl];W[jl];B[ki];W[ei];B[eg];W[fg];B[eh];W[fh];B[ge];W[he];B[gf];W[hf];B[gg];W[ff];B[fe];W[ef];B[ee];W[df];B[de];W[cf];B[ce];W[hg];B[ic];W[jc];B[id];W[ke];B[je];W[resign]'
+  player_black: Adam
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[bb];B[ef];W[gg];B[ij];W[kj];B[kl];W[lk];B[ll];W[kk];B[jl];W[jk];B[gi];W[ji];B[gh];W[jg];B[jh];W[kf];B[ig];W[ii];B[lg];W[ih];B[ke];W[hg];B[hh];W[jf];B[ie];W[fg];B[ge];W[de];B[id];W[dg];B[df];W[bg];B[cg];W[bh];B[ch];W[bi];B[cj];W[resign]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[ij];W[ii];B[hj];W[kj];B[kl];W[jl];B[ki];W[fh];B[ei];W[fi];B[ej];W[gj];B[ff];W[gf];B[fg];W[gg];B[hd];W[id];B[he];W[ie];B[kc];W[hf];B[jb];W[ic];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Adam
+  winner: B
+- moves: 'W[ll];B[ih];W[fi];B[fh];W[hg];B[hf];W[je];B[if];W[jg];B[jf];W[gg];B[gf];W[le];B[kf];W[lf];B[kg];W[lg];B[kh];W[lh];B[kj];W[ki];B[jj];W[ji];B[ij];W[ii];B[hj];W[hi];B[gj];W[ei];B[ge];W[fg];B[dj];W[ek];B[ef];W[kd];B[gi];W[hh];B[ld];W[ke];B[la];W[lb];B[resign]'
+  player_black: Marius Halsor
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[bb];B[ef];W[gg];B[ij];W[kj];B[ie];W[dh];B[hd];W[fe];B[ff];W[he];B[hc];W[id];B[hf];W[gf];B[jb];W[jd];B[gi];W[fi];B[gh];W[fh];B[ek];W[fj];B[fk];W[gj];B[gk];W[hj];B[hk];W[ji];B[ii];W[jh];B[ee];W[kb];B[hg];W[ih];B[hi];W[ke];B[kl];W[jj];B[resign]'
+  player_black: iLyN
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[df];W[ji];B[ie];W[ch];B[eg];W[fg];B[fh];W[gg];B[gh];W[eh];B[ei];W[di];B[dj];W[hg];B[ee];W[jf];B[ig];W[if];B[hd];W[kd];B[kc];W[id];B[he];W[jd];B[jb];W[ld];B[lb];W[ic];B[ib];W[hc];B[jh];W[kh];B[ii];W[lf];B[ik];W[bl];B[ck];W[kj];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[md];B[ed];W[hi];B[if];W[ff];B[fh];W[gg];B[gh];W[ig];B[hg];W[ke];B[jf];W[kf];B[kc];W[jd];B[kd];W[je];B[jc];W[id];B[jg];W[kg];B[jk];W[jh];B[ic];W[gd];B[hd];W[hf];B[fg];W[gf];B[gj];W[hj];B[gl];W[hl];B[hk];W[ik];B[resign]'
+  player_black: Frode Lillevold
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ll];B[ih];W[fi];B[fh];W[hg];B[hf];W[je];B[if];W[jg];B[jf];W[le];B[kf];W[lf];B[kg];W[lg];B[ki];W[kh];B[ij];W[ii];B[hj];W[hi];B[gj];W[ei];B[gi];W[eh];B[ff];W[fg];B[he];W[ef];B[de];W[cg];B[fd];W[jh];B[ld];W[kc];B[jd];W[ge];B[hc];W[id];B[ie];W[resign]'
+  player_black: Marius Halsor
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ll];B[ed];W[gd];B[hf];W[fg];B[ge];W[fe];B[ff];W[dg];B[ef];W[df];B[ee];W[dd];B[de];W[bf];B[fc];W[cd];B[cf];W[ke];B[ig];W[bg];B[cg];W[ai];B[bj];W[bi];B[dh];W[ci];B[dj];W[jg];B[jf];W[hg];B[je];W[resign]'
+  player_black: Marius Halsor
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ll];B[ih];W[fi];B[ed];W[gd];B[gg];W[hg];B[hf];W[je];B[if];W[jg];B[hi];W[gi];B[ig];W[kh];B[jf];W[le];B[ld];W[ke];B[jd];W[ie];B[hd];W[id];B[jb];W[ic];B[ia];W[ib];B[ja];W[hb];B[ha];W[fb];B[gb];W[fc];B[gc];W[fd];B[hc];W[ge];B[hj];W[fg];B[fh];W[di];B[fk];W[ck];B[cj];W[dj];B[eh];W[dh];B[bl];W[eg];B[resign]'
+  player_black: Marius Halsor
+  player_white: Przemek Kozera (icob)
+  winner: B
+- moves: 'W[ac];B[ef];W[ji];B[jk];W[ei];B[fh];W[ih];B[ie];W[dh];B[ee];W[ge];B[gf];W[cg];B[ch];W[dg];B[ed];W[ff];B[eh];W[bg];B[ec];W[he];B[eg];W[dd];B[bd];W[gg];B[hf];W[fg];B[id];W[hc];B[hh];W[gh];B[fj];W[fi];B[dk];W[ke];B[jf];W[gi];B[gk];W[lh];B[hl];W[kk];B[ki];W[li];B[kh];W[mf];B[lg];W[mg];B[lf];W[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: psychoanal
+  winner: W
+- moves: 'W[ac];B[ce];W[ge];B[gg];W[dh];B[eh];W[ch];B[dj];W[bk];B[ci];W[di];B[ei];W[bi];B[bl];W[ck];B[cl];W[dk];B[dl];W[ek];B[el];W[fk];B[fl];W[hk];B[gk];W[hj];B[gj];W[hh];B[gf];W[ig];B[id];W[fi];B[ef];W[hf];B[he];W[jd];B[if];W[ie];B[hg];W[jf];B[je];W[ld];B[ke];W[me];B[le];W[md];B[kg];W[mg];B[lg];W[mf];B[ki];W[mi];B[li];W[mh];B[lk];W[resign]'
+  player_black: wojtex
+  player_white: Przemek Kozera (icob)
+  winner: W
+- moves: 'W[ac];B[ii];W[fh];B[ff];W[gf];B[fg];W[gg];B[hd];W[ge];B[gd];W[fe];B[fd];W[de];B[ee];W[df];B[ef];W[ch];B[di];W[bj];B[bk];W[cj];B[ck];W[dj];B[dk];W[ej];B[ek];W[gj];B[gk];W[hj];B[hk];W[jk];B[il];W[kj];B[ik];W[ji];B[hh];W[fj];B[ij];W[jh];B[ig];W[kf];B[resign]'
+  player_black: Przemek Kozera (icob)
+  player_white: wojtex
+  winner: B
+- moves: 'W[ll];B[ih];W[ie];B[ed];W[cd];B[cb];W[fi];B[hf];W[ig];B[if];W[ke];B[kd];W[ld];B[lc];W[je];B[jg];W[jf];B[hh];W[dd];B[fb];W[ff];B[gg];W[eh];B[ge];W[fe];B[gc];W[he];B[hd];W[bc];B[bb];W[resign]'
+  player_black: Marius Halsor
+  player_white: iLyN
+  winner: W
+- moves: 'W[ad];B[swap];W[ie];B[ij];W[kj];B[kl];W[jl];B[hi];W[fh];B[fi];W[ei];B[dk];W[cj];B[bl];W[ej];B[ek];W[gj];B[fj];W[gi];B[gh];W[hh];B[hg];W[jf];B[ig];W[kg];B[kf];W[jg];B[id];W[gf];B[ic];W[hc];B[ge];W[ee];B[ff];W[dg];B[fg];W[gg];B[dh];W[bi];B[ch];W[bh];B[cg];W[bg];B[cf];W[bf];B[ce];W[be];B[cd];W[resign]'
+  player_black: iLyN
+  player_white: Art Duval
+  winner: W
+- moves: 'W[ll];B[ih];W[fi];B[fe];W[ie];B[hf];W[ig];B[if];W[ke];B[hh];W[jh];B[kf];W[jf];B[je];W[kc];B[kd];W[gf];B[hd];W[he];B[jc];W[ic];B[id];W[gd];B[ge];W[eg];B[gg];W[dg];B[ei];W[cj];B[ck];W[dj];B[ej];W[bj];B[resign]'
+  player_black: Marius Halsor
+  player_white: iLyN
+  winner: B
+- moves: 'W[ac];B[jj];W[kk];B[ll];W[il];B[hj];W[ei];B[eg];W[kf];B[hi];W[li];B[jh];W[lf];B[lg];W[cg];B[ce];W[de];B[eh];W[cj];B[ci];W[gg];B[hd];W[bj];B[bi];W[gf];B[hc];W[jd];B[ie];W[if];B[je];W[ld];B[jf];W[jg];B[gh];W[fh];B[hg];W[hf];B[ig];W[resign]'
+  player_black: iLyN
+  player_white: Art Duval
+  winner: W
+- moves: 'W[af];B[swap];W[ie];B[ij];W[kj];B[kl];W[lk];B[ll];W[kk];B[hl];W[ik];B[hk];W[gi];B[hf];W[eg];B[ei];W[eh];B[he];W[hd];B[id];W[fe];B[ej];W[ih];B[ff];W[ci];B[ck]'
+  player_black: wojtex
+  player_white: iLyN
+  winner: W
+- moves: 'W[ac];B[hf];W[ji];B[jj];W[ij];B[gh];W[dg];B[dh];W[fh];B[fg];W[je];B[id];W[kc];B[ig];W[kf];B[jh];W[lg];B[kh];W[mh];B[lh];W[mg];B[lj];W[gg];B[ik];W[eh];B[dk];W[ih];B[gi];W[jg];B[fk];W[hk];B[ii];W[gj];B[gk];W[hj];B[gl]'
+  player_black: iLyN
+  player_white: wojtex
+  winner: W
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[ki];W[fh];B[df];W[ch];B[hf];W[ff];B[fi];W[ei];B[dk];W[ej];B[ek];W[ck];B[dj];W[bj];B[cj];W[bk];B[bi];W[ci];B[eg];W[ef];B[resign]'
+  player_black: iLyN
+  player_white: Art Duval
+  winner: B
+- moves: 'W[ac];B[ef];W[ch];B[ei];W[ji];B[jk];W[lk];B[cg];W[gg];B[ic];W[kc];B[jg];W[eg];B[gf];W[ff];B[ej];W[ig];B[gi];W[eh];B[jd];W[ih];B[gd];W[kd];B[je];W[resign]'
+  player_black: pOmek:B
+  player_white: iLyN
+  winner: W
+- moves: 'W[mi];B[swap];W[ji];B[ed];W[cd];B[cb];W[db];B[ie];W[hf];B[hg];W[gg];B[gh];W[jf];B[id];W[ge];B[gi];W[ei];B[ej];W[dj];B[dk];W[ck];B[bm];W[cl];B[cm];W[dl];B[dm];W[el];B[em];W[fl];B[fm];W[hl];B[gl];W[hj];B[fh];W[eh];B[fg];W[eg];B[fe];W[df];B[resign]'
+  player_black: iLyN
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[mb];B[swap];W[ji];B[jk];W[gg];B[ee];W[cd];B[gi];W[ih];B[ii];W[jh];B[ij];W[gj];B[hi];W[fi];B[fj];W[dk];B[ej];W[ik];B[jj];W[dj];B[ei];W[di];B[eh];W[dh];B[ef];W[cg];B[cf];W[bg];B[bf];W[lg];B[ff];W[resign]'
+  player_black: Frode Lillevold
+  player_white: iLyN
+  winner: W
+- moves: 'W[mf];B[swap];W[kj];B[kl];W[de];B[dc];W[bc];B[cb];W[bb];B[bd];W[hg];B[ei];W[jl];B[jd];W[fg];B[ge];W[fd];B[hh];W[if];B[gh];W[resign]'
+  player_black: Jonatan Rydh
+  player_white: iLyN
+  winner: W
+- moves: 'W[ad];B[swap];W[ih];B[ij];W[kj];B[kl];W[lk];B[jk];W[ll];B[jh];W[hf];B[he];W[ie];B[jc];W[gd];B[ic];W[ff];B[fc];W[hb];B[fg];W[je];B[lb];W[gf];B[fj];W[gj];B[resign]'
+  player_black: iLyN
+  player_white: Art Duval
+  winner: B
+- moves: 'W[mb];B[swap];W[ji];B[jk];W[gg];B[ee];W[cd];B[fh];W[ih];B[ie];W[he];B[hf];W[eh];B[gf];W[dh];B[fg];W[df];B[de];W[bf];B[cj];W[resign]'
+  player_black: Frode Lillevold
+  player_white: iLyN
+  winner: W
+- moves: 'W[ac];B[hf];W[ih];B[ij];W[kj];B[kl];W[lk];B[ll];W[jj];B[hl];W[hk];B[im];W[ik];B[ef];W[je];B[jf];W[if];B[ig];W[ch];B[dh];W[hg];B[hh];W[gh];B[gi];W[dj];B[fi];W[eh];B[fh];W[ff];B[gd];W[fe];B[fd];W[ee];B[ec];W[hd];B[ge];W[he];B[gf];W[fg];B[di];W[ei];B[gg];W[ed];B[fc];W[cd];B[dd];W[ce];B[de];W[bg];B[el];W[cj];B[df];W[ci];B[cc];W[dc];B[resign]'
+  player_black: iLyN
+  player_white: pOmek:B
+  winner: B
+- moves: 'W[me];B[fh];W[ji];B[jk];W[lk];B[ie];W[de];B[fe];W[fg];B[fi];W[bj];B[ch];W[dh];B[cj];W[ci];B[bk];W[gg];B[hh];W[lg];B[kd];W[ld];B[lc];W[if];B[jh];W[jg];B[jf];W[ig];B[jj];W[lh];B[kg];W[ke];B[hf];W[hg];B[ed];W[ge];B[ff];W[gf];B[hc];W[jd];B[jc];W[kc];B[id];W[je];B[la];W[kb];B[ka];W[jb];B[ja];W[ib];B[ia];W[hb];B[ha];W[gb];B[ga];W[fb];B[fa];W[db];B[eb];W[dd];B[dg];W[ag];B[ec];W[resign]'
+  player_black: pOmek:B
+  player_white: iLyN
+  winner: W
+- moves: 'W[me];B[swap];W[ji];B[hi];W[de];B[dc];W[bc];B[jk];W[lk];B[kl];W[ll];B[ge];W[ch];B[dj];W[fi];B[dl];W[kj];B[ie];W[bj];B[ek];W[cj];B[bl];W[gj];B[gi];W[fj];B[eh];W[ke];B[kd];W[resign]'
+  player_black: pOmek:B
+  player_white: iLyN
+  winner: W
+- moves: 'W[ac];B[fg];W[ji];B[ie];W[hf];B[gh];W[fh];B[gg];W[ig];B[if];W[hg];B[hi];W[gi];B[hh];W[kf];B[kg];W[dh];B[dg];W[eg];B[fe];W[he];B[gk];W[ih];B[jj];W[ij];B[hl];W[gl];B[hk];W[le];B[jk];W[ci];B[ge];W[cf];B[bh];W[ef];B[el];W[gj];B[hd];W[id];B[hj];W[li];B[lj];W[df];B[dk];W[ck];B[cj];W[resign]'
+  player_black: iLyN
+  player_white: Frode Lillevold
+  winner: W
+- moves: 'W[ac];B[ef];W[dh];B[ij];W[ii];B[ie];W[ji];B[eb];W[bd];B[fk];W[gj];B[fg];W[ff];B[fe];W[jd];B[ic];W[kb];B[jf];W[cg];B[cf];W[bg];B[be];W[df];B[de];W[ee];B[fc];W[if];B[je];W[fb];B[ec];W[gc];B[gf];W[eg];B[dj];W[ei];B[di];W[eh];B[fj];W[gh];B[hi];W[hj];B[gi];W[ih];B[hh];W[ig];B[fd];W[ge];B[he];W[hg];B[gm];W[hk];B[il];W[fl];B[gl];W[gk];B[em];W[fm];B[fi];W[fh];B[dg];W[gd];B[ib];W[hb];B[resign]'
+  player_black: Adam
+  player_white: iLyN
+  winner: B
+- moves: 'W[ac];B[hf];W[ji];B[jk];W[gg];B[ei];W[lk];B[lj];W[ik];B[ff];W[gf];B[hd];W[eh];B[dg];W[id];B[he];W[if];B[ie];W[kd];B[je];W[ke];B[kc];W[jd];B[jg];W[jf];B[hh];W[le];B[lf];W[ih];B[ig];W[ci];B[di];W[dh];B[ej];W[bk];B[ek];W[bl];B[resign]'
+  player_black: iLyN
+  player_white: Adam
+  winner: B
+- moves: 'W[ac];B[ij];W[gi];B[ef];W[gf];B[gg];W[hf];B[hg];W[fg];B[fh];W[di];B[eh];W[dh];B[eg];W[cg];B[de];W[bf];B[ed];W[cd];B[dj];W[ei];B[fj];W[fi];B[gj];W[ej];B[dl];W[ek];B[el];W[fk];B[fl];W[gk];B[gl];W[hk];B[hl];W[ik];B[il];W[kk];B[jk];W[li];B[kj];W[lj];B[ki];W[lh];B[kh];W[lg];B[kg];W[lf];B[kf];W[le];B[kd];W[jf];B[ke];W[resign]'
+  player_black: wojtex
+  player_white: iLyN
+  winner: W
+- moves: 'W[ad];B[swap];W[gd];B[ic];W[cd];B[fh];W[ji];B[jk];W[lk];B[if];W[dh];B[dj];W[ei];B[eg];W[dg];B[ej];W[fi];B[fj];W[gi];B[gj];W[ih];B[hh];W[hi];B[ee];W[cf];B[ce];W[be];B[bf];W[de];B[ec];W[ed];B[fc];W[jc];B[eh];W[di];B[id];W[jd];B[ke];W[hb];B[fd];W[ge];B[ff];W[resign]'
+  player_black: Adam
+  player_white: iLyN
+  winner: W
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[gg];W[fh];B[ef];W[dh];B[ee];W[ig];B[ie];W[ge];B[hd];W[gd];B[fg];W[hf];B[he];W[gf];B[hi];W[ii];B[hc];W[ch];B[hb];W[df];B[dd];W[de];B[ed];W[ce];B[bd];W[cd];B[db];W[dc];B[eb];W[fb];B[ec];W[gc];B[hj];W[lh];B[hg];W[if];B[ki];W[hh];B[gi];W[gh];B[ei];W[kg];B[li];W[bf];B[fi];W[resign]'
+  player_black: iLyN
+  player_white: Adam
+  winner: W
+- moves: 'W[ad];B[swap];W[ee];B[ij];W[ii];B[ie];W[fh];B[ff];W[dg];B[gd];W[fc];B[ei];W[cj];B[dh];W[bi];B[bj];W[ci];B[ch];W[bh];B[cg];W[bg];B[cf];W[bf];B[ce];W[be];B[cd];W[resign]'
+  player_black: Adam
+  player_white: iLyN
+  winner: W
+- moves: 'W[ac];B[ef];W[de];B[ij];W[kj];B[fh];W[kf];B[jf];W[ke];B[jg];W[lg];B[kg];W[lf];B[je];W[lb];B[jd];W[kc];B[lh];W[kh];B[ki];W[hi];B[ii];W[ih];B[jh];W[gg];B[gf];W[eg];B[gk];W[fj];B[ge];W[cg];B[di];W[ch];B[fg];W[hf];B[he];W[ei];B[dj];W[resign]'
+  player_black: Adam
+  player_white: iLyN
+  winner: W
+- moves: 'W[ac];B[ef];W[gg];B[ij];W[kj];B[kl];W[jl];B[ki];W[dh];B[ei];W[hh];B[gj];W[fj];B[gh];W[fh];B[fi];W[resign]'
+  player_black: pOmek:B
+  player_white: iLyN
+  winner: W
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[hf];W[eg];B[ei];W[kf];B[ki];W[hh];B[gh];W[hg];B[gg];W[if];B[ke];W[le];B[ld];W[ie];B[gk];W[fk];B[gi];W[hj];B[hi];W[di];B[dj];W[cj];B[ck];W[al];B[bk];W[ak];B[bj];W[aj];B[bi];W[ai];B[bg];W[bh];B[df];W[resign]'
+  player_black: iLyN
+  player_white: Adam
+  winner: W
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[gg];W[dh];B[df];W[gf];B[eh];W[di];B[ei];W[bi];B[dj];W[bk];B[dk];W[bl];B[eg];W[dg];B[ef];W[cf];B[be];W[bh];B[dd];W[de];B[ed];W[ee];B[fd];W[fe];B[gd];W[jd];B[ie];W[he];B[id];W[jc];B[ib];W[je];B[if];W[jf];B[jh];W[ih];B[gk];W[ii];B[ji];W[hj];B[hk];W[fk];B[gj];W[gi];B[fj];W[hg];B[hf];W[resign]'
+  player_black: iLyN
+  player_white: Adam
+  winner: W
+- moves: 'W[kb];B[ij];W[kj];B[kl];W[jl];B[ki];W[eg];B[ei];W[di];B[eh];W[dh];B[dj];W[bk];B[dk];W[cl];B[ed];W[cd];B[cb];W[db];B[ce];W[ch];B[ff];W[ee];B[fd];W[fe];B[gd];W[ie];B[ge];W[hh];B[fg];W[kg];B[gj];W[hj];B[hi];W[ji];B[ii];W[jj];B[jh];W[kh];B[jf];W[resign]'
+  player_black: pOmek:B
+  player_white: iLyN
+  winner: W
+- moves: 'W[ac];B[ef];W[de];B[ij];W[kj];B[kl];W[jj];B[hl];W[jl];B[ji];W[dj];B[fh];W[hi];B[ie];W[gg];B[gh];W[hg];B[hh];W[jf];B[ih];W[eh];B[ck];W[bj];B[cl];W[ek];B[id];W[ch];B[cg];W[ff];B[fg];W[eg];B[fe];W[ge];B[gd];W[hd];B[ib];W[hc];B[hb];W[gc];B[gb];W[ed];B[eb];W[ec];B[fa];W[cc];B[resign]'
+  player_black: Adam
+  player_white: iLyN
+  winner: B
+- moves: 'W[kb];B[ij];W[kj];B[kl];W[jj];B[hl];W[jl];B[ji];W[ch];B[ed];W[cd];B[cb];W[db];B[ee];W[gg];B[he];W[ge];B[gf];W[ff];B[hd];W[df];B[ce];W[gd];B[hc];W[gc];B[fg];W[dh];B[dk];W[ck];B[cj];W[ei];B[cl];W[fj];B[el];W[fl];B[fk];W[hj];B[gj];W[lh];B[kg];W[resign]'
+  player_black: pOmek:B
+  player_white: iLyN
+  winner: W
+- moves: 'W[bb];B[ef];W[ji];B[jk];W[hg];B[gi];W[ge];B[ih];W[fi];B[gh];W[fh];B[gf];W[ch];B[dh];W[ci];B[dg];W[ie];B[gg];W[hi];B[hh];W[kg];B[jf];W[le];B[kd];W[lb];B[mc];W[cg];B[de];W[ce];B[cf];W[ag];B[bg];W[ah];B[bh];W[ai];B[bi];W[aj];B[bj];W[ak];B[bl];W[bk];B[dk];W[resign]'
+  player_black: Art Duval
+  player_white: iLyN
+  winner: W
+- moves: 'W[ac];B[ef];W[jj];B[hf];W[dh];B[fd];W[ke];B[if];W[jg];B[kd];W[je];B[jd];W[he];B[ie];W[gf];B[ic];W[gd];B[hb];W[gc];B[gb];W[fc];B[fb];W[ec];B[eb];W[bd];B[ge];W[ff];B[ba];W[cc];B[resign]'
+  player_black: Adam
+  player_white: iLyN
+  winner: B
+- moves: 'W[bb];B[ef];W[gf];B[ij];W[kj];B[fh];W[eg];B[ff];W[fg];B[fi];W[hg];B[hh];W[ig];B[ii];W[jh];B[hl];W[li];B[ki];W[kg];B[lg];W[resign]'
+  player_black: iLyN
+  player_white: psychoanal
+  winner: W
+- moves: 'W[af];B[ij];W[kj];B[hl];W[li];B[ki];W[ei];B[eg];W[fg];B[ge];W[he];B[ic];W[jc];B[id];W[jd];B[ie];W[je];B[hi];W[hj];B[ig];W[if];B[hg];W[hf];B[ej];W[dj];B[cl];W[dk];B[dl];W[ek];B[el];W[fl];B[fk];W[gj];B[fj];W[gi];B[gg];W[fh];B[jb];W[ld];B[lc];W[kb];B[gf];W[ff];B[gc];W[fd];B[resign]'
+  player_black: HappyHippo
+  player_white: Jonatan Rydh
+  winner: B
+- moves: 'W[mk];B[ed];W[cd];B[cb];W[db];B[ie];W[kf];B[kd];W[ch];B[df];W[ge];B[gg];W[je];B[gf];W[jd];B[jf];W[ke];B[kg];W[jg];B[ii];W[hi];B[ih];W[hg];B[el];W[dk];B[gk];W[hj];B[hk];W[ij];B[ik];W[ji];B[resign]'
+  player_black: pOmek:B
+  player_white: Jonatan Rydh
+  winner: B
+- moves: 'W[ah];B[swap];W[ih];B[ie];W[fe];B[ed];W[df];B[fb];W[jc];B[hd];W[hc];B[lb];W[jf];B[kd];W[ib];B[gd];W[he];B[hf];W[gf];B[gg];W[fg];B[id];W[fd];B[ce];W[bg];B[dk];W[di];B[dj];W[fi];B[em];W[ek];B[dl];W[gl];B[fl];W[gk];B[fj];W[gi];B[resign]'
+  player_black: Jonatan Rydh
+  player_white: Art Duval
+  winner: B
+- moves: 'W[md];B[lb];W[gg];B[ed];W[jd];B[hi];W[dj];B[fh];W[fg];B[ei];W[gh];B[fj];W[ej];B[fi];W[ii];B[kf];W[ih];B[if];W[ig];B[he];W[ge];B[hc];W[fd];B[gb];W[fc];B[fb];W[ec];B[eb];W[dc];B[db];W[bc];B[cc];W[bd];B[cd];W[be];B[ce];W[bf];B[cf];W[bg];B[ch];W[resign]'
+  player_black: Frode Lillevold
+  player_white: Jonatan Rydh
+  winner: W
+- moves: 'W[md];B[swap];W[bl];B[fh];W[jd];B[fe];W[hh];B[if];W[gh];B[kc];W[de];B[gf];W[hf];B[id];W[jc];B[ie];W[jf];B[ig];W[kg];B[jg];W[kf];B[ji];W[kj];B[kb];W[le];B[lh];W[jh];B[hl];W[hi];B[ii];W[ih];B[resign]'
+  player_black: Jonatan Rydh
+  player_white: David J Bush
+  winner: B
+- moves: 'W[mf];B[jk];W[ef];B[de];W[cd];B[dh];W[cg];B[ei];W[ih];B[hi];W[fj];B[gh];W[hh];B[if];W[hg];B[ie];W[gf];B[gi];W[ii];B[hk];W[hj];B[gk];W[gj];B[ek];W[fk];B[em];W[ji];B[hl];W[el];B[resign]'
+  player_black: Jonatan Rydh
+  player_white: Art Duval
+  winner: B
+- moves: 'W[bb];B[ef];W[hf];B[ij];W[fj];B[gh];W[fh];B[gk];W[eh];B[fi];W[dj];B[id];W[ge];B[resign]'
+  player_black: Jonatan Rydh
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[bb];B[ef];W[hf];B[ij];W[fj];B[gh];W[fh];B[ei];W[eh];B[fi];W[hh];B[dk];W[ih];B[hk];W[gj];B[id];W[je];B[jb];W[ge];B[gb];W[hb];B[gd];W[hd];B[hc];W[ic];B[ib];W[kb];B[resign]'
+  player_black: Jonatan Rydh
+  player_white: Art Duval
+  winner: B
+- moves: 'W[ac];B[hi];W[ji];B[jk];W[lk];B[lj];W[ik];B[df];W[gf];B[hh];W[fh];B[hc];W[fd];B[ei];W[cj];B[di];W[dh];B[resign]'
+  player_black: Art Duval
+  player_white: Jonatan Rydh
+  winner: B
+- moves: 'W[bb];B[ef];W[hf];B[ij];W[kj];B[kl];W[jl];B[di];W[gh];B[fj];W[ei];B[dk];W[hi];B[ie];W[jf];B[gk];W[ji];B[ii];W[jh];B[ih];W[kf];B[jd];W[resign]'
+  player_black: Jonatan Rydh
+  player_white: Marius Halsor
+  winner: W
+- moves: 'W[me];B[swap];W[jj];B[dd];W[cc];B[hf];W[ld];B[ih];W[dh];B[ef];W[ff];B[jf];W[gf];B[ei];W[fh];B[fi];W[cj];B[he];W[gd];B[gg];W[eg];B[ck];W[hi];B[gi];W[dj];B[dl];W[dk];B[cl];W[hh];B[gh];W[if];B[ig];W[hg];B[jd];W[kd];B[je];W[kf];B[ii];W[kh];B[kg];W[lg];B[lf];W[ek];B[fl];W[resign]'
+  player_black: pOmek:B
+  player_white: Jonatan Rydh
+  winner: W
+- moves: 'W[bb];B[swap];W[ji];B[jk];W[lk];B[lj];W[ed];B[ef];W[gg];B[fi];W[hh];B[hi];W[hj];B[fj];W[jh];B[ie];W[ff];B[hg];W[resign]'
+  player_black: Jonatan Rydh
+  player_white: Art Duval
+  winner: W
+- moves: 'W[mf];B[ed];W[cd];B[hi];W[kj];B[cb];W[db];B[jf];W[dj];B[fg];W[gg];B[he];W[gf];B[ge];W[ff];B[ee];W[fe];B[gc];W[cg];B[dg];W[gd];B[hc];W[jd];B[je];W[kd];B[ic];W[ie];B[hf];W[if];B[gh];W[hg];B[jj];W[eh];B[fh];W[eg];B[ei];W[di];B[resign]'
+  player_black: 'Shumacher;]'
+  player_white: Jonatan Rydh
+  winner: B
+- moves: 'W[bb];B[gg];W[ji];B[jk];W[lk];B[lj];W[eg];B[eh];W[ci];B[dh];W[ch];B[dg];W[cg];B[de];W[fg];B[ef];W[fh];B[ge];W[ie];B[hf];W[jf];B[ij];W[bj];B[dj];W[resign]'
+  player_black: Jonatan Rydh
+  player_white: pOmek:B
+  winner: W
+- moves: 'W[ll];B[ed];W[gd];B[ji];W[gg];B[fi];W[gi];B[hi];W[hg];B[hh];W[gh];B[fk];W[gj];B[gk];W[hj];B[hk];W[ij];B[ik];W[jj];B[jk];W[kj];B[kk];W[mj];B[lj];W[ei];B[dl];W[ek];B[el];W[cl];B[dk];W[ck];B[dj];W[cj];B[eg];W[dg];B[dh];W[fg];B[di];W[ch];B[ci];W[aj];B[bi];W[ai];B[bh];W[resign]'
+  player_black: Marius Halsor
+  player_white: Jonatan Rydh
+  winner: W
+- moves: 'W[bb];B[ij];W[kj];B[kl];W[ik];B[ef];W[hf];B[hh];W[fh];B[gg];W[ig];B[ii];W[resign]'
+  player_black: Jonatan Rydh
+  player_white: Adam
+  winner: W
+- moves: 'W[ll];B[ed];W[gd];B[ih];W[fi];B[gg];W[hg];B[hf];W[je];B[if];W[jg];B[jf];W[le];B[he];W[eh];B[fe];W[kd];B[lf];W[kf];B[jh];W[ig];B[gh];W[hh];B[gj];W[ff];B[eg];W[gi];B[ek];W[cj];B[dk];W[ck];B[ei];W[de];B[di];W[bi];B[ci];W[bj];B[cg];W[ch];B[ef];W[dh];B[fh];W[fg];B[ge];W[resign]'
+  player_black: Marius Halsor
+  player_white: Jonatan Rydh
+  winner: W
+- moves: 'W[bb];B[ef];W[ji];B[jk];W[kj];B[kk];W[jj];B[ih];W[hf];B[he];W[ie];B[jc];W[gd];B[ic];W[ff];B[fg];W[kd];B[lb];W[gf];B[gh];W[hh];B[ig];W[hg];B[gj];W[hk];B[hj];W[hi];B[ik];W[resign]'
+  player_black: Jonatan Rydh
+  player_white: Marius Halsor
+  winner: W
+- moves: 'W[ac];B[ij];W[ii];B[gg];W[hg];B[hf];W[jf];B[je];W[ld];B[kc];W[mb];B[kb];W[ma];B[ke];W[le];B[kf];W[lf];B[kg];W[lg];B[kh];W[lh];B[kj];W[ki];B[ik];W[ji];B[hj];W[gi];B[gh];W[ei];B[fk];W[ek];B[fj];W[fg];B[eh];W[eg];B[fh];W[dh];B[di];W[bj];B[fd];W[ci];B[fc];W[ge];B[hd];W[ce];B[cd];W[ee];B[resign]'
+  player_black: Jonatan Rydh
+  player_white: David J Bush
+  winner: B
+- moves: 'W[ll];B[swap];W[gg];B[ge];W[ef];B[eh];W[hg];B[ff];W[eg];B[ei];W[fg];B[gh];W[fi];B[ek];W[gj];B[hk];W[fl];B[gi];W[ih];B[hi];W[ii];B[hj];W[ik];B[resign]'
+  player_black: Marius Halsor
+  player_white: Jonatan Rydh
+  winner: B
+- moves: 'W[md];B[swap];W[jj];B[kk];W[gg];B[ed];W[li];B[il];W[hk];B[gm];W[fl];B[hf];W[cd];B[cb];W[jd];B[ge];W[if];B[ie];W[je];B[jc];W[kc];B[la];W[kb];B[ka];W[jb];B[ja];W[ib];B[ia];W[gb];B[hb];W[fd];B[hc];W[ef];B[ee];W[fe];B[fg];W[dh];B[dj];W[ei];B[di];W[eh];B[ej];W[gi];B[fi];W[gf];B[gh];W[ig];B[hi];W[hh];B[fk];W[hj];B[resign]'
+  player_black: Frode Lillevold
+  player_white: HappyHippo
+  winner: B
+- moves: 'W[md];B[swap];W[kj];B[kl];W[gg];B[ed];W[jd];B[kf];W[ck];B[gi];W[fi];B[ek];W[fj];B[fk];W[gj];B[jb];W[he];B[id];W[gd];B[gc];W[hc];B[ia];W[hb];B[ha];W[gb];B[ga];W[fb];B[fa];W[dc];B[db];W[bc];B[cc];W[bd];B[cd];W[be];B[ce];W[bf];B[cg];W[cf];B[ee];W[df];B[eg];W[kb];B[ie];W[je];B[if];W[jf];B[ih];W[dh];B[dg];W[bi];B[ci];W[fg];B[ff];W[ig];B[gh];W[hg];B[fh];W[eh];B[resign]'
+  player_black: Frode Lillevold
+  player_white: pOmek:B
+  winner: B
+- moves: 'W[ac];B[gg];W[ji];B[jd];W[fg];B[fh];W[di];B[eh];W[dh];B[eg];W[dg];B[df];W[ef];B[fd];W[ee];B[ed];W[ce];B[cd];W[dd];B[eb];W[bf];B[resign]'
+  player_black: Art Duval
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[md];B[gg];W[ji];B[jk];W[lk];B[jj];W[ki];B[kc];W[dd];B[gh];W[di];B[eg];W[dg];B[dh];W[jf];B[jg];W[ig];B[ih];W[hh];B[id];W[jd];B[kb];W[jc];B[ic];W[jb];B[gj];W[kf];B[hj];W[lj];B[li];W[kj];B[je];W[hf];B[ie];W[gf];B[ge];W[ff];B[kg];W[lf];B[lg];W[ei];B[ek];W[fj];B[ej];W[fi];B[resign]'
+  player_black: Frode Lillevold
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[gg];W[ji];B[fj];W[dj];B[hd];W[ee];B[dg];W[fg];B[jk];W[lk];B[fh];W[eh];B[ei];W[di];B[ff];W[gf];B[hc];W[ci];B[fd];W[jd];B[kc];W[jc];B[ie];W[je];B[hf];W[kf];B[gk];W[hh];B[ki];W[jj];B[resign]'
+  player_black: Art Duval
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[mk];B[gg];W[de];B[fj];W[ke];B[jg];W[dh];B[ck];W[hi];B[if];W[ei];B[dg];W[eg];B[el];W[bi];B[dk];W[gh];B[hj];W[ii];B[ij];W[gj];B[gk];W[ki];B[ji];W[kh];B[jh];W[lf];B[kd];W[je];B[jd];W[ie];B[id];W[gf];B[resign]'
+  player_black: Alexandre
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[md];B[swap];W[gg];B[ij];W[ck];B[dc];W[jd];B[dj];W[kj];B[kl];W[jj];B[hl];W[bk];B[cl];W[dk];B[fh];W[jl];B[ji];W[ej];B[gi];W[gh];B[bl];W[fl];B[fk];W[el];B[fi];W[eh];B[fg];W[eg];B[ff];W[ef];B[fe];W[ee];B[fc];W[resign]'
+  player_black: Frode Lillevold
+  player_white: Alexandre
+  winner: W
+- moves: 'W[ac];B[gg];W[ji];B[hd];W[ef];B[fj];W[dj];B[el];W[bi];B[ee];W[cf];B[dh];W[cg];B[cj];W[bl];B[bj];W[di];B[ci];W[eh];B[eg];W[fg];B[ff];W[gf];B[hc];W[jd];B[resign]'
+  player_black: Art Duval
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[md];B[swap];W[jj];B[kl];W[gg];B[fe];W[dd];B[dh];W[jg];B[ij];W[gj];B[fl];W[if];B[ik];W[jh];B[cl];W[hk];B[hj];W[gk];B[gm];W[jl];B[il];W[kj];B[ji];W[lh];B[kh];W[lg];B[kg];W[lf];B[kf];W[le];B[kd];W[ke];B[je];W[jf];B[hd];W[kc];B[resign]'
+  player_black: Frode Lillevold
+  player_white: Alexandre
+  winner: B
+- moves: 'W[me];B[swap];W[gg];B[ij];W[ck];B[ge];W[cd];B[ef];W[he];B[fi];W[eh];B[di];W[ei];B[dj];W[bk];B[ej];W[ci];B[dh];W[ch];B[bj];W[cj];B[ce];W[bg];B[bc];W[de];B[cg];W[dg];B[hc];W[eg];B[hd];W[resign]'
+  player_black: Frode Lillevold
+  player_white: Marius Halsor
+  winner: W
+- moves: 'W[af];B[swap];W[cd];B[hi];W[ij];B[gg];W[eh];B[hd];W[ge];B[ei];W[fh];B[gd];W[fe];B[fd];W[ee];B[ec];W[ed];B[fc];W[be];B[cf];W[dd];B[dg];W[gf];B[hh];W[fi];B[cc];W[dc];B[db];W[eb];B[ea];W[fb];B[ga];W[gb];B[ha];W[hb];B[ia];W[ib];B[ja];W[kb];B[resign]'
+  player_black: wojtex
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[ll];B[ih];W[fi];B[gg];W[hg];B[dd];W[jf];B[jd];W[fe];B[hi];W[kg];B[hc];W[ee];B[gf];W[he];B[ic];W[cf];B[hb];W[bg];B[dh];W[ci];B[ch];W[ai];B[bi];W[aj];B[bj];W[ak];B[bl];W[bk];B[dk];W[ck];B[cl];W[eh];B[fl];W[gi];B[hk];W[gj];B[el];W[ki];B[resign]'
+  player_black: Marius Halsor
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[ll];B[dd];W[ei];B[ih];W[hf];B[he];W[gf];B[hd];W[gd];B[resign]'
+  player_black: Marius Halsor
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[mb];B[swap];W[ji];B[jf];W[dd];B[jk];W[gg];B[gh];W[dj];B[ei];W[di];B[eh];W[dh];B[ef];W[if];B[dk];W[ej];B[ek];W[gj];B[gi];W[fj];B[ee];W[je];B[hg];W[hf];B[ff];W[ig];B[fl];W[bi];B[ci];W[ch];B[ih];W[cf];B[cg];W[ah];B[bg];W[ag];B[bf];W[af];B[be];W[ae];B[bc];W[bd];B[cc];W[cd];B[ec];W[dc];B[ea];W[eb];B[fa];W[fb];B[ga];W[gb];B[ha];W[hb];B[ia];W[ib];B[ja];W[jb];B[ka];W[lb];B[kb];W[kc];B[hk];W[ck];B[resign]'
+  player_black: Frode Lillevold
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[fg];W[ji];B[jk];W[gg];B[hd];W[id];B[hh];W[fi];B[he];W[ie];B[hf];W[if];B[hg];W[kg];B[ii];W[ih];B[hi];W[kj];B[jh];W[lg];B[lh];W[kh];B[jf];W[jg];B[ig];W[ke];B[kf];W[me];B[le];W[md];B[ld];W[mc];B[lb];W[lc];B[jc];W[ic];B[jd];W[je];B[kd]'
+  player_black: wojtex
+  player_white: Frode Lillevold
+  winner: W
+- moves: 'W[me];B[swap];W[ji];B[fe];W[de];B[gg];W[je];B[jd];W[ef];B[dh];W[ie];B[hk];W[fg];B[ej];W[hj];B[hh];W[kf];B[gl];W[fl];B[kg];W[ei];B[dl];W[jg];B[fj];W[dj];B[fh];W[kj];B[jh];W[bj];B[eh];W[resign]'
+  player_black: pOmek:B
+  player_white: Frode Lillevold
+  winner: W
+- moves: 'W[md];B[hf];W[ef];B[ed];W[ji];B[jk];W[gg];B[gf];W[ff];B[eh];W[fg];B[fi];W[lh];B[ki];W[kh];B[hh];W[lc];B[lf];W[jg];B[lb];W[kc];B[kb];W[jc];B[jb];W[ic];B[ib];W[gc];B[hc];W[ge];B[ee];W[gd];B[jf];W[kf];B[fb];W[gb];B[il];W[ik];B[resign]'
+  player_black: Frode Lillevold
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[ij];W[kh];B[gg];W[eg];B[fj];W[cj];B[hd];W[jj];B[df];W[id];B[jf];W[hf];B[hg];W[ch];B[ff];W[ef];B[ee];W[fe];B[fd];W[bh];B[hc];W[if];B[jg];W[lf];B[le];W[gc];B[gd];W[resign]'
+  player_black: David J Bush
+  player_white: Frode Lillevold
+  winner: W
+- moves: 'W[ll];B[swap];W[gh];B[fe];W[he];B[hf];W[eg];B[gf];W[if];B[ie];W[kd];B[jc];W[lb];B[hg];W[cj];B[fh];W[ei];B[bl];W[dk];B[fi];W[ee];B[ef];W[cg];B[df];W[resign]'
+  player_black: Frode Lillevold
+  player_white: Leoni
+  winner: W
+- moves: 'W[ll];B[gh];W[gg];B[hd];W[de];B[hj];W[kh];B[jg];W[ei];B[ef];W[dg];B[df];W[bg];B[cg];W[bh];B[ch];W[bi];B[cj];W[bl];B[bk];W[ci];B[di];W[eh];B[fd];W[fe];B[ee];W[gd];B[hc];W[gc];B[fg];W[hg];B[ih];W[jf];B[fj];W[dk];B[fh];W[ff];B[eg];W[lf];B[gf];W[kc];B[ke];W[md];B[lc];W[kd];B[ld];W[resign]'
+  player_black: Marius Halsor
+  player_white: Frode Lillevold
+  winner: W
+- moves: 'W[ll];B[swap];W[gh];B[gf];W[ef];B[fi];W[ii];B[gj];W[fh];B[fe];W[je];B[jd];W[de];B[hk];W[ei];B[ed];W[dd];B[ec];W[dc];B[dk];W[eg];B[cj];W[ik];B[hl];W[gi];B[fj];W[il];B[hi];W[jg];B[ee];W[df];B[eb];W[db];B[ih];W[jh];B[hg];W[hf];B[if];W[ke];B[ie];W[lc];B[lb];W[kc];B[kb];W[jc];B[resign]'
+  player_black: Frode Lillevold
+  player_white: David J Bush
+  winner: B
+- moves: 'W[ll];B[hg];W[gg];B[ge];W[ee];B[di];W[eh];B[hc];W[dg];B[ed];W[he];B[hd];W[id];B[jb];W[fd];B[gb];W[fc];B[fb];W[kc];B[la];W[ec];B[eb];W[cc];B[dc];W[cd];B[dd];W[ce];B[df];W[ef];B[de];W[bg];B[cg];W[ai];B[bh];W[ah];B[bi];W[aj];B[bj];W[ak];B[bl];W[bk];B[dk];W[dj];B[ej];W[ke];B[ei];W[ma];B[lb];W[mb];B[lc];W[mc];B[ld];W[md];B[le];W[me];B[lg];W[lf];B[kg];W[kf];B[ih];W[hh];B[ig];W[resign]'
+  player_black: Marius Halsor
+  player_white: Frode Lillevold
+  winner: W
+- moves: 'W[db];B[swap];W[ji];B[if];W[gf];B[fi];W[gh];B[ge];W[ff];B[fd];W[he];B[ic];W[jc];B[id];W[jd];B[ie];W[ke];B[jg];W[kg];B[kf];W[me];B[le];W[md];B[ld];W[mc];B[lf];W[mf];B[lg];W[mg];B[lh];W[mh];B[lj];W[li];B[kj];W[ki];B[ij];W[jj];B[il];W[ii];B[hj];W[ik];B[hl];W[hk];B[gl];W[gk];B[fl];W[ek];B[fk];W[dg];B[ib];W[resign]'
+  player_black: David J Bush
+  player_white: Frode Lillevold
+  winner: W
+- moves: 'W[ac];B[fg];W[ig];B[ie];W[ef];B[hi];W[gi];B[ge];W[jd];B[je];W[kd];B[ei];W[ke];B[gj];W[kf];B[id];W[ji];B[jc];W[lb];B[lc];W[kc];B[ik];W[kj];B[kk];W[lj];B[lk];W[jk];B[im];W[il];B[hm];W[hl];B[gm];W[gl];B[fm];W[fl];B[em];W[el];B[dm];W[dl];B[cm];W[bl];B[cl];W[cj];B[dk];W[cg];B[ci];W[di];B[eg];W[dh];B[dg];W[ch];B[ed];W[df];B[fc];W[ce];B[cd];W[bd];B[resign]'
+  player_black: Leoni
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[ll];B[swap];W[gh];B[ge];W[df];B[ef];W[ie];B[hj];W[ci];B[dg];W[he];B[hf];W[fg];B[hc];W[je];B[ek];W[ki];B[ij];W[jk];B[jh];W[dh];B[gf];W[ig];B[hh];W[hg];B[fi];W[gi];B[fk];W[dk];B[resign]'
+  player_black: Frode Lillevold
+  player_white: David J Bush
+  winner: B
+- moves: 'W[ac];B[fg];W[hg];B[gj];W[fj];B[id];W[jd];B[gi];W[ih];B[ig];W[fh];B[ie];W[eh];B[df];W[je];B[kf];W[if];B[kb];W[ld];B[lb];W[jc];B[resign]'
+  player_black: David J Bush
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[ll];B[swap];W[hg];B[hf];W[ff];B[fh];W[gg];B[fg];W[gf];B[he];W[dg];B[fi];W[gi];B[hh];W[gh];B[gd];W[ed];B[fd];W[df];B[resign]'
+  player_black: Frode Lillevold
+  player_white: Leoni
+  winner: B
+- moves: 'W[ll];B[hg];W[gg];B[ge];W[he];B[fi];W[gh];B[ic];W[kc];B[gi];W[hh];B[hi];W[dk];B[gf];W[hf];B[gd];W[jh];B[ih];W[kd];B[jg];W[lf];B[eh];W[ke];B[kg];W[ij];B[lg];W[ei];B[fh];W[resign]'
+  player_black: Marius Halsor
+  player_white: Frode Lillevold
+  winner: W
+- moves: 'W[ac];B[fg];W[hg];B[gj];W[ej];B[hf];W[je];B[ji];W[eh];B[dg];W[eg];B[ef];W[gg];B[ge];W[ke];B[jd];W[lc];B[ld];W[ie];B[id];W[kd];B[fi];W[ci];B[ck];W[gi];B[fj];W[ei];B[hk];W[jh];B[dl];W[gk];B[hj];W[ek];B[el];W[fk];B[fm];W[gl];B[gm];W[hl];B[hm];W[jk];B[jl];W[lk];B[kk];W[resign]'
+  player_black: David J Bush
+  player_white: Frode Lillevold
+  winner: W
+- moves: 'W[ll];B[gg];W[eh];B[fe];W[ge];B[ff];W[gf];B[fg];W[if];B[ji];W[hh];B[ig];W[hg];B[gj];W[fi];B[ek];W[fk];B[fj];W[ii];B[hk];W[gk];B[hj];W[ij];B[ik];W[jj];B[jk];W[lj];B[kj];W[mh];B[li];W[mi];B[lh];W[mg];B[lg];W[mf];B[le];W[lf];B[kf];W[kg];B[ih];W[jf];B[jg];W[dk];B[ej];W[di];B[dj];W[bk];B[cj];W[bj];B[ci];W[bi];B[ch];W[ah];B[bh];W[ai];B[bf];W[bg];B[cf];W[resign]'
+  player_black: Marius Halsor
+  player_white: Frode Lillevold
+  winner: W
+- moves: 'W[ll];B[swap];W[gg];B[ge];W[df];B[ei];W[hi];B[hf];W[ee];B[fd];W[ed];B[fc];W[ec];B[gh];W[hg];B[hh];W[ih];B[ig];W[if];B[dk];W[kf];B[jg];W[kg];B[jh];W[kh];B[jj];W[fi];B[fh];W[ji];B[ij];W[resign]'
+  player_black: Frode Lillevold
+  player_white: David J Bush
+  winner: W
+- moves: 'W[ml];B[gg];W[eh];B[gd];W[ee];B[ji];W[ei];B[ef];W[cg];B[dh];W[eg];B[dg];W[ci];B[ch];W[ai];B[ff];W[cc];B[fi];W[cj];B[bh];W[ah];B[bg];W[ag];B[be];W[bf];B[dd];W[ce];B[cd];W[de];B[fc];W[ec];B[ed];W[gc];B[fd];W[hd];B[if];W[ke];B[ih];W[jh];B[ii];W[mh];B[ki];W[resign]'
+  player_black: Marius Halsor
+  player_white: Frode Lillevold
+  winner: W
+- moves: 'W[ll];B[swap];W[gg];B[ge];W[fg];B[gd];W[gc];B[je];W[ck];B[gj];W[ie];B[hf];W[if];B[hg];W[ij];B[gi];W[cg];B[ef];W[bh];B[cf];W[resign]'
+  player_black: Frode Lillevold
+  player_white: David J Bush
+  winner: W
+- moves: 'W[ll];B[swap];W[gg];B[ge];W[fg];B[cj];W[ij];B[hd];W[jd];B[ie];W[je];B[if];W[id];B[fj];W[jf];B[ih];W[hh];B[gh];W[ig];B[hi];W[gi];B[resign]'
+  player_black: Frode Lillevold
+  player_white: David J Bush
+  winner: B
+- moves: 'W[ac];B[gg];W[ig];B[gh];W[jg];B[gf];W[ke];B[kd];W[ld];B[jb];W[ic];B[lc];W[ie];B[ib];W[jc];B[kb];W[hc];B[kf];W[jf];B[ik];W[hj];B[gk];W[gj];B[fk];W[hk];B[gm];W[jl];B[hl];W[ji];B[kj];W[gl];B[fm];W[fl];B[em];W[el];B[dm];W[dl];B[cm];W[bl];B[cl];W[cj];B[dk];W[dh];B[eg];W[dg];B[ed];W[ef];B[resign]'
+  player_black: David J Bush
+  player_white: Frode Lillevold
+  winner: B
+- moves: 'W[ll];B[swap];W[gg];B[fi];W[hj];B[hh];W[ei];B[ff];W[eh];B[gd];W[jd];B[ie];W[je];B[if];W[kg];B[ic];W[ld];B[hk];W[ij];B[ii];W[he];B[id];W[hc];B[hd];W[ce];B[ek];W[ci];B[dl];W[bl];B[ch];W[ah];B[bi];W[eg];B[df];W[resign]'
+  player_black: Frode Lillevold
+  player_white: David J Bush
+  winner: W
+- moves: 'W[bb];B[ef];W[gf];B[ij];W[kj];B[gg];W[ei];B[fg];W[hg];B[hf];W[je];B[if];W[jf];B[kc];W[ld];B[kb];W[id];B[ic];W[de];B[ki];W[bg];B[dh];W[ci];B[di];W[bj];B[ck];W[al];B[cl];W[bl];B[bh];W[dg];B[ch];W[eg];B[eh];W[ig];B[gk];W[ek];B[gh];W[gi];B[hh];W[ii];B[ih];W[jh];B[jg];W[lf];B[fd];W[gd];B[fc];W[hb];B[hd];W[he];B[resign]'
+  player_black: Art Duval
+  player_white: Adam
+  winner: B
+- moves: 'W[ac];B[ef];W[gg];B[he];W[dh];B[hd];W[ge];B[gd];W[if];B[ic];W[jd];B[kb];W[jb];B[jc];W[fe];B[ed];W[fd];B[gb];W[fc];B[fb];W[ec];B[eb];W[bd];B[dc];W[ce];B[dd];W[df];B[dg];W[ch];B[cg];W[ee];B[resign]'
+  player_black: Adam
+  player_white: wojtex
+  winner: B
+- moves: 'W[ac];B[gg];W[ji];B[jf];W[eg];B[df];W[ce];B[ed];W[ch];B[ec];W[bd];B[bg];W[fe];B[gd];W[fd];B[gb];W[gc];B[hb];W[hc];B[ib];W[jc];B[lb];W[ka];B[fi];W[ie];B[ff];W[bj];B[dj];W[ck];B[ef];W[hg];B[gk];W[gh];B[dl];W[cj];B[fh];W[gi];B[fj];W[ij];B[resign]'
+  player_black: Adam
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[mi];B[swap];W[ei];B[ed];W[cd];B[cb];W[db];B[fg];W[dh];B[dg];W[eg];B[fe];W[ef];B[ce];W[fd];B[ee];W[hf];B[ge];W[if];B[gh];W[jh];B[ig];W[hh];B[hi];W[hg];B[gj];W[ij];B[hk];W[jk];B[kl];W[il];B[hm];W[hl];B[gm];W[gl];B[fm];W[fl];B[em];W[dl];B[el];W[fj];B[gi];W[fk];B[ek];W[dj];B[ih];W[kf];B[id];W[jd];B[kc];W[ld];B[resign]'
+  player_black: Adam
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[me];B[swap];W[kj];B[jj];W[ki];B[jk];W[ji];B[kk];W[lj];B[kl];W[hj];B[hf];W[ee];B[dc];W[dd];B[cd];W[jf];B[je];W[if];B[ie];W[fg];B[ge];W[dg];B[fh];W[gg];B[fd];W[fe];B[gd];W[ec];B[gb];W[bc];B[hh];W[gh];B[fj];W[gi];B[gj];W[dj];B[dk];W[bl];B[ck];W[bk];B[cj];W[bj];B[ci];W[bi];B[ch];W[bh];B[cg];W[bg];B[ce];W[resign]'
+  player_black: pOmek:B
+  player_white: Adam
+  winner: W
+- moves: 'W[ad];B[dg];W[cf];B[eh];W[ji];B[jk];W[lk];B[lj];W[ik];B[ie];W[eg];B[ei];W[hf];B[hg];W[if];B[fd];W[je];B[jd];W[he];B[ic];W[gd];B[hb];W[gc];B[gb];W[fc];B[fb];W[ec];B[eb];W[be];B[dc];W[cd];B[resign]'
+  player_black: Adam
+  player_white: Art Duval
+  winner: B
+- moves: 'W[ac];B[de];W[cd];B[bf];W[gg];B[fj];W[ji];B[jk];W[lk];B[jj];W[lh];B[jf];W[ih];B[hd];W[if];B[jc];W[kc];B[ig];W[kd];B[le];W[fi];B[jb];W[la];B[je];W[id];B[hc];W[jd];B[hf];W[hg];B[ie];W[gf];B[he];W[ee];B[fd];W[ed];B[ff];W[dg];B[df];W[ef];B[dh];W[eg];B[fh];W[fg];B[hh];W[gh];B[hj];W[gi];B[gk];W[hi];B[kl];W[fk];B[gj];W[hl];B[resign]'
+  player_black: Adam
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[ij];W[kj];B[lb];W[fh];B[fg];W[ef];B[dh];W[eh];B[eg];W[hf];B[he];W[gf];B[ge];W[ff];B[ee];W[fe];B[gc];W[gd];B[ib];W[hc];B[hb];W[fd];B[fc];W[dd];B[ed];W[cf];B[df];W[cg];B[dg];W[kb];B[jc];W[ic];B[jb];W[kc];B[jd];W[kd];B[je];W[ke];B[jg];W[jf];B[hg];W[ig];B[hi];W[hh];B[fi];W[dj];B[di];W[cj];B[bi];W[gi];B[resign]'
+  player_black: Adam
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[mb];B[swap];W[ji];B[jk];W[lh];B[ie];W[ef];B[ed];W[ff];B[fh];W[dj];B[fg];W[hf];B[he];W[df];B[ej];W[jf];B[kd];W[gf];B[hg];W[if];B[jg];W[ig];B[ih];W[bk];B[ei];W[ci];B[dg];W[le];B[kf];W[ke];B[kc];W[mf];B[resign]'
+  player_black: David J Bush
+  player_white: Adam
+  winner: B
+- moves: 'W[ac];B[ii];W[jj];B[ie];W[fh];B[fg];W[ef];B[dh];W[eh];B[eg];W[hf];B[ge];W[jd];B[id];W[je];B[ig];W[if];B[gg];W[hg];B[gh];W[kh];B[jg];W[resign]'
+  player_black: Adam
+  player_white: wojtex
+  winner: W
+- moves: 'W[kb];B[ij];W[kj];B[kl];W[jl];B[ki];W[fh];B[fg];W[gg];B[gf];W[cd];B[cb];W[hf];B[ei];W[eh];B[fj];W[cj];B[di];W[ci];B[dh];W[ch];B[df];W[dg];B[ef];W[eg];B[ic];W[he];B[resign]'
+  player_black: psychoanal
+  player_white: Adam
+  winner: B
+- moves: 'W[ac];B[ij];W[kj];B[lb];W[dg];B[di];W[fh];B[df];W[gf];B[fi];W[ei];B[dk];W[ej];B[ek];W[gj];B[gg];W[fg];B[id];W[he];B[hd];W[fe];B[resign]'
+  player_black: Adam
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[md];B[swap];W[ji];B[if];W[de];B[fg];W[gg];B[he];W[gf];B[ge];W[ff];B[ee];W[fe];B[gc];W[fd];B[fb];W[fc];B[gb];W[cd];B[ec];W[be];B[fh];W[eg];B[ed];W[df];B[dg];W[ef];B[gi];W[hh];B[ii];W[hi];B[gk];W[hj];B[hl];W[hk];B[gl];W[kj];B[il];W[lj];B[jj];W[ki];B[ij];W[jh];B[ih];W[jg];B[ig];W[ke];B[ic];W[jd];B[la];W[jb];B[jc];W[lb];B[kd];W[mc];B[resign]'
+  player_black: Adam
+  player_white: wojtex
+  winner: B
+- moves: 'W[ac];B[ij];W[ii];B[ie];W[fh];B[eg];W[gf];B[ej];W[di];B[ck];W[dk];B[dj];W[gi];B[fk];W[ek];B[fe];W[hd];B[el];W[bl];B[fj];W[gk];B[hl];W[gl];B[gj];W[ji];B[hi];W[ig];B[if];W[jf];B[resign]'
+  player_black: Adam
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[de];W[ii];B[hf];W[eg];B[ff];W[ef];B[fd];W[gd];B[fe];W[gf];B[gc];W[hc];B[he];W[ge];B[jj];W[fh];B[fj];W[ej];B[fi];W[ei];B[dl];W[ek];B[resign]'
+  player_black: wojtex
+  player_white: Adam
+  winner: B
+- moves: 'W[ac];B[de];W[cd];B[cg];W[gg];B[gi];W[jj];B[gh];W[jg];B[jh];W[ih];B[ii];W[kg];B[ki];W[hi];B[hg];W[if];B[gk];W[hj];B[hk];W[ij];B[jk];W[ik];B[hm];W[lg];B[jl];W[hl];B[gm];W[gl];B[fm];W[fl];B[em];W[dl];B[he];W[jd];B[jf];W[kd];B[resign]'
+  player_black: Adam
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[de];W[cd];B[fh];W[ji];B[jf];W[if];B[ie];W[je];B[jd];W[kd];B[kc];W[lc];B[lb];W[hf];B[he];W[ff];B[ee];W[gd];B[gh];W[fg];B[ig];W[di];B[eh];W[dg];B[dh];W[bi];B[dj];W[cj];B[ck];W[ei];B[bj];W[ci];B[ej];W[fi];B[gj];W[fj];B[el];W[fk];B[fl];W[gk];B[gl];W[ik];B[hk];W[ii];B[ch];W[bh];B[cg];W[bg];B[fc];W[ce];B[hj];W[hh];B[dc];W[hg];B[resign]'
+  player_black: Adam
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[df];W[ji];B[jk];W[gg];B[gh];W[ig];B[ih];W[hh];B[gj];W[hj];B[hg];W[hi];B[if];W[ke];B[jd];W[lc];B[jc];W[lb];B[ld];W[kd];B[gl];W[gk];B[fl];W[fk];B[el];W[dk];B[bl];W[cm];B[ek];W[ei];B[fj];W[fg];B[ge];W[resign]'
+  player_black: Adam
+  player_white: Marius Halsor
+  winner: W
+- moves: 'W[ac];B[ef];W[dh];B[ij];W[kj];B[kl];W[jl];B[hi];W[ie];B[gg];W[ff];B[fe];W[hf];B[dj];W[ei];B[ej];W[gi];B[hj];W[fk];B[gh];W[fi];B[eh];W[di];B[ge];W[cg];B[cf];W[je];B[hc];W[hh];B[jd];W[hd];B[ib];W[gd];B[fb];W[fc];B[fd];W[gc];B[ha];W[ec];B[eb];W[bd];B[resign]'
+  player_black: HappyHippo
+  player_white: Art Duval
+  winner: B
+- moves: 'W[kb];B[ij];W[kj];B[kl];W[jl];B[hi];W[fh];B[fi];W[ei];B[dk];W[cj];B[bl];W[ej];B[ek];W[fj];B[fk];W[gj];B[gk];W[hj];B[hk];W[ji];B[ii];W[kg];B[jh];W[kh];B[jf];W[resign]'
+  player_black: pOmek:B
+  player_white: Art Duval
+  winner: W
+- moves: 'W[ll];B[swap];W[hi];B[ie];W[de];B[fh];W[di];B[eg];W[ch];B[df];W[bg];B[bh];W[cg];B[ci];W[dh];B[fi];W[ej];B[cf];W[bf];B[ce];W[be];B[cd];W[bd];B[cb];W[ef];B[ee];W[cc];B[db];W[dc];B[eb];W[ec];B[fb];W[fc];B[gb];W[gc];B[ia];W[hb];B[ha];W[ac];B[ba];W[ab];B[aa];W[jb];B[ib];W[ic];B[hc];W[he];B[gd];W[fe];B[ge];W[gg];B[resign]'
+  player_black: Marius Halsor
+  player_white: Art Duval
+  winner: B
+- moves: 'W[ll];B[ed];W[cd];B[cb];W[ie];B[jh];W[gg];B[gh];W[fh];B[fi];W[ei];B[dk];W[ej];B[ek];W[fj];B[fk];W[hj];B[ik];W[ji];B[kj];W[di];B[bl];W[jk];B[jj];W[gl];B[hi];W[gj];B[hd];W[ge];B[jb];W[jc];B[kb];W[ic];B[ib];W[gc];B[resign]'
+  player_black: Marius Halsor
+  player_white: Art Duval
+  winner: B
+- moves: 'W[mk];B[hf];W[de];B[ei];W[bj];B[cj];W[al];B[bk];W[ak];B[bl];W[am];B[ci];W[bi];B[cg];W[bf];B[bh];W[eg];B[dg];W[fh];B[fi];W[gh];B[gi];W[ih];B[jf];W[hj];B[hh];W[ig];B[ge];W[hg];B[ef];W[if];B[jc];W[jd];B[ib];W[hd];B[ie];W[je];B[lb];W[resign]'
+  player_black: Alexandre
+  player_white: Art Duval
+  winner: W
+- moves: 'W[aj];B[swap];W[hf];B[ee];W[ec];B[ih];W[ij];B[hg];W[gg];B[ei]'
+  player_black: wojtex
+  player_white: Art Duval
+  winner: W
+- moves: 'W[ll];B[ih];W[ie];B[ed];W[cd];B[cb];W[ec];B[dd];W[fh];B[fi];W[ei];B[dk];W[ej];B[ek];W[fj];B[fk];W[gj];B[gk];W[hj];B[hk];W[ij];B[ik];W[jj];B[jk];W[kj];B[kk];W[mj];B[lj];W[mi];B[li];W[mh];B[lh];W[mg];B[kg];W[lf];B[ke];W[kf];B[if];W[je];B[jf];W[di];B[hg];W[jg];B[jh];W[hh];B[ig];W[lg];B[kh];W[ck];B[bl];W[cl];B[cj];W[dj];B[gf];W[ff];B[ge];W[fe];B[gc];W[gd];B[ib];W[hc];B[hb];W[kc];B[id];W[lc];B[resign]'
+  player_black: Marius Halsor
+  player_white: Art Duval
+  winner: B
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[jk];W[fi];B[de];W[ld];B[kb];W[gd];B[gg];W[jf];B[hh];W[hi];B[ih];W[kf];B[he];W[jh];B[ii];W[jj];B[ik];W[kk];B[ji];W[lh];B[kg];W[mf];B[le];W[hg];B[jd];W[eg];B[ef];W[dg];B[ge];W[bf];B[cf];W[resign]'
+  player_black: Art Duval
+  player_white: wojtex
+  winner: W
+- moves: 'W[md];B[swap];W[kj];B[hf];W[cd];B[kl];W[dj];B[df];W[gf];B[gg];W[fg];B[fh];W[lc];B[hh];W[lg];B[ke];W[kf];B[lf];W[kg];B[ih];W[eh];B[ei];W[di];B[cl];W[ci];B[bk];W[dl];B[dk];W[ej];B[ek];W[fj];B[fk];W[gj];B[gk];W[hj];B[hk];W[jj];B[ij];W[ii];B[ji];W[lh];B[jh];W[mc];B[le];W[resign]'
+  player_black: 'Shumacher;]'
+  player_white: Art Duval
+  winner: W
+- moves: 'W[ll];B[ed];W[gg];B[ie];W[cd];B[cb];W[db];B[fe];W[he];B[id];W[hd];B[gh];W[hg];B[hh];W[fh];B[ej];W[fi];B[fj];W[gi];B[gj];W[jh];B[ii];W[kh];B[ki];W[ji];B[ik];W[jj];B[jk];W[kj];B[kk];W[mj];B[lj];W[mi];B[li];W[mh];B[lh];W[mg];B[lg];W[mf];B[lf];W[me];B[le];W[md];B[ld];W[hj];B[dk];W[gl];B[hi];W[mc];B[lb];W[resign]'
+  player_black: Marius Halsor
+  player_white: Art Duval
+  winner: W
+- moves: 'W[ac];B[hf];W[ii];B[ih];W[gf];B[fh];W[eh];B[fg];W[eg];B[ei];W[hg];B[gg];W[cj];B[di];W[ci];B[dh];W[ch];B[df];W[cf];B[cg];W[ah];B[bh];W[ai];B[bi];W[aj];B[bj];W[ak];B[bl];W[dk];B[bk];W[dg];B[fe];W[ff];B[hd];W[ie];B[he];W[jf];B[if];W[kg];B[kd];W[resign]'
+  player_black: Art Duval
+  player_white: wojtex
+  winner: W
+- moves: 'W[ac];B[ij];W[fj];B[fh];W[df];B[ce];W[eh];B[ei];W[cj];B[dk];W[hf];B[hg];W[bl];B[di];W[gg];B[gh];W[ci];B[dg];W[bf];B[cg];W[if];B[je];W[kf];B[le];W[jh];B[hi];W[id];B[fg];W[jj];B[kg];W[resign]'
+  player_black: Art Duval
+  player_white: pOmek:B
+  winner: W
+- moves: 'W[mk];B[if];W[ji];B[hh];W[ff];B[eh];W[fh];B[ei];W[gh];B[hi];W[fj];B[gf];W[fg];B[fe];W[ge];B[hc];W[dg];B[fd];W[gc];B[gd];W[cf];B[df];W[cg];B[ce];W[resign]'
+  player_black: Alexandre
+  player_white: Art Duval
+  winner: W
+- moves: 'W[mk];B[ig];W[de];B[fh];W[di];B[eg];W[ch];B[df];W[bg];B[bh];W[ef];B[hg];W[dg];B[ci];W[dh];B[dj];W[ei];B[ej];W[fi];B[fj];W[gi];B[gj];W[jh];B[hi];W[kf];B[ke];W[jf];B[ie];W[resign]'
+  player_black: Alexandre
+  player_white: Art Duval
+  winner: W
+- moves: 'W[ll];B[ih];W[de];B[fh];W[eh];B[ei];W[cj];B[di];W[hh];B[hi];W[ci];B[dg];W[cg];B[ch];W[ej];B[df];W[gh];B[hf];W[fg];B[ge];W[ef];B[fd];W[ee];B[dd];W[ed];B[fb];W[bi];B[fi];W[cf];B[dl];W[ck];B[resign]'
+  player_black: Marius Halsor
+  player_white: Art Duval
+  winner: B
+- moves: 'W[ac];B[ef];W[ce];B[hf];W[ji];B[fg];W[je];B[ig];W[kf];B[jh];W[ih];B[ii];W[bh];B[ei];W[dk];B[bl];W[cj];B[ci];W[lg];B[kh];W[lh];B[ki];W[resign]'
+  player_black: 'Shumacher;]'
+  player_white: Art Duval
+  winner: W
+- moves: 'W[me];B[jj];W[lj];B[kk];W[lk];B[kl];W[ll];B[ki];W[lg];B[mh];W[dj];B[ee];W[hf];B[gg];W[hg];B[gi];W[gh];B[dk];W[ej];B[bl];W[ck];B[fg];W[ig];B[ih];W[eh];B[di];W[fi];B[he];W[jd];B[jc];W[kc];B[la];W[kb];B[ka];W[jb];B[ja];W[hb];B[ib];W[gd];B[hd];W[ff];B[resign]'
+  player_black: 'Shumacher;]'
+  player_white: Art Duval
+  winner: B
+- moves: 'W[ac];B[ce];W[ih];B[fh];W[ff];B[jd];W[gg];B[hi];W[hh];B[ij];W[gi];B[fk];W[hj];B[ii];W[gj];B[gl];W[fl];B[gk];W[jh];B[ik];W[ek];B[fj];W[ei];B[fg];W[gf];B[fi];W[ki];B[kh];W[ji];B[kj];W[li];B[hg];W[gh];B[fe];W[ef];B[gc];W[hd];B[resign]'
+  player_black: Art Duval
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[ij];W[kj];B[kl];W[jl];B[ki];W[gi];B[gg];W[ch];B[dh];W[ff];B[eg];W[bj];B[dj];W[df];B[dl];W[cj];B[bl];W[cl];B[ck];W[fh];B[fg];W[di];B[resign]'
+  player_black: Art Duval
+  player_white: pOmek:B
+  winner: B
+- moves: 'W[ac];B[ce];W[fe];B[ij];W[kj];B[kl];W[jl];B[gg];W[gi];B[gh];W[di];B[eg];W[df];B[ei];W[dj];B[ch];W[jf];B[jd];W[ie];B[if];W[je];B[id];W[gf];B[ih];W[kg];B[kh];W[jh];B[jk];W[ii];B[hj];W[hi];B[fj];W[fk];B[el];W[dl];B[resign]'
+  player_black: Art Duval
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[bb];B[ef];W[gg];B[ij];W[kj];B[kl];W[ih];B[he];W[ff];B[gd];W[ie];B[hf];W[hd];B[ge];W[de];B[gc];W[ee];B[fe];W[dg];B[df];W[bg];B[cg];W[bh];B[cf];W[bf];B[ch];W[bi];B[cj];W[bl];B[ak];W[jd];B[if];W[jf];B[je];W[ld];B[ke];W[le];B[kf];W[ji];B[ii];W[jh];B[jj];W[ki];B[lf];W[ci];B[di];W[dh];B[fh];W[eg];B[gi];W[hg];B[ig];W[hh];B[jk];W[jl];B[kk];W[hi];B[gk];W[gj];B[fk];W[fj];B[ek];W[dj];B[resign]'
+  player_black: Art Duval
+  player_white: pOmek:B
+  winner: B
+- moves: 'W[bb];B[ef];W[ii];B[hf];W[de];B[fg];W[if];B[ie];W[kd];B[je];W[gg];B[id];W[gf];B[ge];W[ff];B[fe];W[cg];B[dh];W[ci];B[ch];W[ai];B[bh];W[ah];B[bg];W[ag];B[bf];W[af];B[bd];W[be];B[cd];W[ce];B[jb];W[ec];B[bi];W[aj];B[bj];W[ak];B[bl];W[eg];B[dg];W[bk];B[dk];W[di];B[ei];W[eh];B[hh];W[fi];B[fj];W[ek];B[cl];W[dj];B[ej];W[ji];B[gj];W[kf];B[jg];W[resign]'
+  player_black: Art Duval
+  player_white: Marius Halsor
+  winner: W
+- moves: 'W[ac];B[swap];W[fe];B[ij];W[kj];B[ki];W[fh];B[eg];W[gf];B[ek];W[di];B[dj];W[gj];B[gg];W[hh];B[gi];W[hi];B[id];W[if];B[hf];W[jd];B[kb];W[jc];B[ja];W[jb];B[ka];W[ib];B[ia];W[gb];B[hb];W[gc];B[resign]'
+  player_black: psychoanal
+  player_white: Art Duval
+  winner: B
+- moves: 'W[ah];B[ed];W[cd];B[cb];W[db];B[ce];W[ji];B[jk];W[lk];B[lj];W[hf];B[hh];W[ii];B[hl];W[hg];B[jb];W[id];B[hc];W[fd];B[ge];W[ef];B[ee];W[fe];B[dl];W[gj];B[fg]'
+  player_black: HappyHippo
+  player_white: pOmek:B
+  winner: W
+- moves: 'W[ac];B[ij];W[kj];B[hl];W[li];B[gg];W[fh];B[fg];W[if];B[he];W[jf];B[jd];W[kd];B[kc];W[mb];B[kb];W[lb];B[hh];W[lf];B[lg];W[kg];B[ki];W[kh];B[il];W[jk];B[lh];W[ji];B[jj];W[hi];B[gj];W[hj];B[gl];W[gk];B[em];W[fl];B[fm];W[dl];B[el];W[ek];B[resign]'
+  player_black: HappyHippo
+  player_white: David J Bush
+  winner: B
+- moves: 'W[me];B[swap];W[kj];B[kl];W[fh];B[ei];W[ch];B[ee];W[dd];B[ef];W[kf];B[jd];W[ld];B[ij];W[jl];B[hl];W[fi];B[dl];W[ji];B[jh];W[ii];B[ki];W[hj];B[ig];W[gf];B[hh];W[bl];B[gj];W[ek];B[ge];W[he];B[ic];W[hd];B[hc];W[gd];B[gc];W[fd];B[fc];W[ed];B[dc];W[ec];B[fa];W[cb];B[eb];W[bd];B[cd];W[be];B[ce];W[bf];B[cg];W[dg];B[cf];W[ah];B[bh];W[ai];B[bi];W[aj];B[bk];W[kd];B[if];W[fb];B[ga];W[gb];B[ha];W[bj];B[ck];W[ci];B[fl];W[resign]'
+  player_black: pOmek:B
+  player_white: HappyHippo
+  winner: W
+- moves: 'W[mj];B[swap];W[de];B[dc];W[bc];B[bd];W[fi];B[fh];W[ig];B[fe];W[jf];B[jd];W[he];B[fk];W[fj];B[dl];W[ij];B[if];W[hg];B[hf];W[je];B[ie];W[fg];B[gf];W[ee];B[gc];W[dg];B[fb];W[resign]'
+  player_black: HappyHippo
+  player_white: pOmek:B
+  winner: W
+- moves: 'W[ad];B[swap];W[ie];B[kc];W[ji];B[if];W[hf];B[gi];W[fi];B[gh];W[fh];B[gg];W[ff];B[fg];W[dh];B[eg];W[hh];B[hg];W[ke]'
+  player_black: HappyHippo
+  player_white: wojtex
+  winner: B
+- moves: 'W[me];B[ij];W[kj];B[kl];W[fh];B[ed];W[cd];B[cb];W[db];B[ce];W[ld];B[fi];W[ei];B[ej];W[jl];B[dk];W[cj];B[bl];W[cl];B[ck];W[lh];B[ki];W[li];B[lg];W[hh];B[gk];W[gj];B[fk];W[hj];B[hk];W[ji];B[kh];W[jj];B[jf];W[jg];B[ig];W[ih];B[he];W[kf];B[ke];W[le];B[lc];W[kd];B[kc];W[id];B[resign]'
+  player_black: pOmek:B
+  player_white: HappyHippo
+  winner: B
+- moves: 'W[kb];B[swap];W[di];B[fh];W[gg];B[hi];W[gi];B[gh];W[hh];B[hg];W[jf];B[ig];W[kg];B[jd];W[ie];B[je];W[if];B[id];W[he];B[hd];W[gd];B[ge];W[ef];B[fg];W[eg];B[dj];W[ei];B[ej];W[fi];B[fk];W[ih];B[jk];W[gk];B[gj];W[ii];B[fd];W[fe];B[hj];W[ij];B[resign]'
+  player_black: wojtex
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[mh];B[gg];W[de];B[dj];W[gi];B[gf];W[ig];B[ie];W[je];B[hh];W[ih];B[hj];W[ij];B[ii];W[kh];B[jh];W[kg];B[jd];W[lc];B[kb];W[lb];B[ke];W[lf];B[le];W[kd];B[jg];W[gh];B[hg];W[fh];B[hi];W[eg];B[eh];W[fg];B[ef];W[ff];B[fe];W[cf];B[ed];W[ge];B[hc];W[gd];B[gb];W[gc];B[hb];W[fc];B[fa];W[fb];B[ga];W[db];B[eb];W[dd];B[fj];W[gj];B[fl];W[ek];B[resign]'
+  player_black: wojtex
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[md];B[swap];W[ki];B[ed];W[cd];B[cb];W[ab];B[bc];W[ef];B[fh];W[de];B[ee];W[df];B[fg];W[ei];B[ge];W[ld];B[hc];W[if];B[jk];W[hi];B[kd];W[ke];B[lb];W[dh];B[dd];W[ce];B[dc];W[db];B[cc];W[kc];B[id];W[fe];B[gd];W[gb];B[fd];W[kb];B[je];W[lc];B[jg];W[lf];B[kh];W[jh];B[kg];W[mg];B[lh];W[ie];B[hh];W[gh];B[hg];W[mh];B[li];W[gf];B[fi];W[gi];B[ek];W[ih];B[gl];W[fl];B[gj];W[lk];B[lj];W[hj];B[resign]'
+  player_black: 'Shumacher;]'
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ll];B[swap];W[hi];B[cd];W[ed];B[gg];W[je];B[hh];W[jg];B[ih];W[jh];B[ii];W[ji];B[ik];W[ki];B[il];W[ij];B[gk];W[hk];B[gm];W[gl];B[fm];W[fl];B[em];W[dl];B[el];W[fj];B[ek];W[dj];B[gi];W[fk];B[he];W[kd];B[id];W[gf];B[di];W[lb];B[jf];W[le];B[ej];W[ei];B[fi];W[fg];B[resign]'
+  player_black: Marius Halsor
+  player_white: wojtex
+  winner: B
+- moves: 'W[md];B[gg];W[jj];B[ed];W[cd];B[cb];W[ab];B[ke];W[de];B[eh];W[fh];B[gf];W[lf];B[kh];W[jg];B[lc];W[kd];B[ld];W[ch];B[ei];W[if];B[ii];W[fg];B[fi];W[li];B[lh];W[hi];B[ig];W[gh];B[gi];W[hh];B[fb];W[jf];B[ie];W[je];B[kc];W[ef];B[gj];W[hj];B[ff];W[eg];B[ee];W[fe];B[hc];W[ic];B[ja];W[hb];B[gc];W[ib];B[resign]'
+  player_black: 'Shumacher;]'
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[md];B[gg];W[ki];B[kg];W[cd];B[gh];W[ci];B[df];W[bh];B[de];W[ig];B[hi];W[gi];B[hh];W[lf];B[lc];W[bf];B[be];W[ce];B[bg];W[cg];B[cf];W[kf];B[lg];W[ih];B[he];W[jd];B[ic];W[kb];B[ij];W[hj];B[ii];W[ef];B[fd];W[gf];B[ei];W[di];B[eg];W[dg];B[ge];W[hf];B[ff];W[resign]'
+  player_black: 'Shumacher;]'
+  player_white: Marius Halsor
+  winner: W
+- moves: 'W[ac];B[ce];W[bd];B[ij];W[kj];B[kl];W[jl];B[hg];W[bg];B[dh];W[eh];B[ei];W[gh];B[fj];W[hi];B[gk];W[ji];B[ki];W[jj];B[ii];W[kg];B[jh];W[kh];B[jf];W[le];B[kd];W[je];B[ke];W[cj];B[eg];W[bi];B[bh];W[ch];B[df];W[fg];B[di];W[cg];B[be];W[de];B[cf];W[ef];B[dg];W[lb];B[lc];W[jg];B[hh];W[ig];B[if];W[mb];B[mc];W[resign]'
+  player_black: 'Shumacher;]'
+  player_white: Marius Halsor
+  winner: W
+- moves: 'W[ll];B[jf];W[de];B[dg];W[gg];B[gh];W[fh];B[ek];W[ej];B[dl];W[ck];B[bm];W[bk];B[bl];W[fj];B[fk];W[hj];B[gj];W[hi];B[gi];W[ig];B[if];W[hg];B[gf];W[hf];B[he];W[ie];B[id];W[jd];B[jc];W[kc];B[la];W[kb];B[ka];W[jb];B[ja];W[ib];B[ia];W[gc];B[hb];W[hc];B[gb];W[ec];B[fc];W[ef];B[ed];W[dd];B[ee];W[df];B[resign]'
+  player_black: Marius Halsor
+  player_white: wojtex
+  winner: B
+- moves: 'W[ac];B[ce];W[ff];B[gg];W[ji];B[jk];W[lk];B[gh];W[eh];B[ei];W[fi];B[fh];W[di];B[dj];W[jf];B[jg];W[kf];B[jd];W[ie];B[lj];W[ig];B[hd];W[gf];B[hj];W[hi];B[hc];W[gd];B[resign]'
+  player_black: 'Shumacher;]'
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ll];B[swap];W[hi];B[ed];W[gd];B[hf];W[if];B[ie];W[kd];B[jc];W[lb];B[ij];W[jh];B[je];W[ke];B[jg];W[gf];B[gg];W[hh];B[jf];W[kh];B[lf];W[eh];B[fg];W[eg];B[ff];W[ee];B[resign]'
+  player_black: Marius Halsor
+  player_white: David J Bush
+  winner: B
+- moves: 'W[ll];B[ih];W[de];B[ei];W[fi];B[fh];W[gh];B[gg];W[hg];B[hf];W[je];B[if];W[jg];B[jf];W[le];B[ld];W[ke];B[jd];W[ie];B[hd];W[id];B[jb];W[ic];B[ia];W[ib];B[ja];W[gc];B[gb];W[hb];B[ha];W[kb];B[jc];W[kd];B[kc];W[lc];B[lb];W[mb];B[ma];W[ed];B[fc];W[bf];B[fd];W[cj];B[ec];W[cd];B[cc];W[dc];B[ea];W[db];B[da];W[bb];B[cb];W[eb];B[fa];W[ad];B[be];W[bd];B[ce];W[dd];B[ef];W[cg];B[ch];W[eh];B[dh];W[resign]'
+  player_black: Marius Halsor
+  player_white: wojtex
+  winner: W
+- moves: 'W[cl];B[ij];W[kj];B[jh];W[gg];B[dc];W[gd];B[fi];W[hh];B[hi];W[gi];B[fk];W[fj];B[ek];W[dj];B[eh];W[ih];B[ge];W[he];B[hd];W[kc];B[jd];W[id];B[jb];W[lc];B[jc];W[ke];B[jf];W[je];B[hg];W[if];B[ig];W[gh];B[hf];W[gf];B[ld];W[kd];B[ie];W[kf];B[ii];W[ej];B[jg];W[ki];B[lg];W[kh];B[kg];W[ic];B[ia];W[ib];B[ja];W[gb];B[hb];W[fe];B[resign]'
+  player_black: psychoanal
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[mc];B[lb];W[ef];B[ed];W[cd];B[ee];W[cg];B[ce];W[fe];B[gc];W[hd];B[ib];W[jb];B[ic];W[jc];B[id];W[kd];B[jd];W[kc];B[je];W[ke];B[jf];W[kf];B[jg];W[kg];B[ji];W[jh];B[ii];W[ih];B[hi];W[hh];B[gi];W[fh];B[gh];W[hg];B[gg];W[hf];B[fg];W[bg];B[ei];W[cj];B[dk];W[bl];B[bk];W[ck];B[ci];W[resign]'
+  player_black: pOmek:B
+  player_white: Marius Halsor
+  winner: W
+- moves: 'W[ll];B[ih];W[de];B[dc];W[fe];B[fh];W[ci];B[dg];W[cf];B[ck];W[gh];B[gg];W[hg];B[hf];W[je];B[id];W[jd];B[if];W[jf];B[hi];W[ig];B[fj];W[ej];B[fi];W[di];B[ef];W[bh];B[bg];W[cg];B[ed];W[dd];B[bi];W[ch];B[fk];W[dl];B[ec];W[ff];B[eh];W[ee];B[gd];W[he];B[jb];W[ie];B[jc];W[lb];B[kc];W[lc];B[kd];W[ld];B[ke];W[le];B[kf];W[mf];B[lf];W[me];B[lh];W[lg];B[jh];W[kh];B[jj];W[resign]'
+  player_black: Marius Halsor
+  player_white: psychoanal
+  winner: W
+- moves: 'W[ll];B[swap];W[gg];B[gd];W[cd];B[fh];W[hi];B[ge];W[he];B[ic];W[hc];B[hd];W[jc];B[id];W[jd];B[ie];W[je];B[ig];W[if];B[gh];W[eh];B[ei];W[cj];B[dk];W[cl];B[ck];W[al];B[di];W[ci];B[bh];W[resign]'
+  player_black: Marius Halsor
+  player_white: David J Bush
+  winner: W
+- moves: 'W[mc];B[gg];W[eg];B[fe];W[jf];B[ij];W[hi];B[gj];W[hj];B[gl];W[jh];B[hh];W[ch];B[eh];W[bj];B[gf];W[ee];B[dg];W[dh];B[ef];W[cg];B[df];W[cf];B[dd];W[kf];B[lb];W[jk];B[ki];W[ek];B[fl];W[hk];B[hl];W[ik];B[jd];W[gd];B[hd];W[hc];B[ib];W[ic];B[bl];W[dj];B[resign]'
+  player_black: David J Bush
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ll];B[swap];W[gg];B[ge];W[fe];B[ei];W[hi];B[gd];W[ee];B[fg];W[gf];B[gc];W[de];B[ff];W[id];B[he];W[if];B[ie];W[kd];B[je];W[ke];B[jf];W[kf];B[jg];W[kg];B[jh];W[kh];B[ji];W[ki];B[jj];W[kj];B[jl];W[lj];B[kl];W[jk];B[il];W[ik];B[hl];W[hk];B[fm];W[gl];B[gm];W[fk];B[resign]'
+  player_black: Marius Halsor
+  player_white: David J Bush
+  winner: B
+- moves: 'W[ll];B[swap];W[gg];B[ge];W[ef];B[ed];W[cd];B[fi];W[gi];B[gh];W[ig];B[dc];W[dd];B[ec];W[fd];B[ee];W[fe];B[hc];W[hd];B[fj];W[ih];B[gd];W[jc];B[if];W[hg];B[he];W[ie];B[hf];W[ke];B[jf];W[kf];B[jg];W[kg];B[jh];W[kh];B[jj];W[ji];B[ij];W[ii];B[gk];W[dj];B[eh];W[dh];B[di];W[bj];B[ci];W[resign]'
+  player_black: Marius Halsor
+  player_white: Leoni
+  winner: W
+- moves: 'W[mc];B[swap];W[ji];B[gg];W[if];B[ie];W[ff];B[gh];W[jf];B[id];W[ef];B[hd];W[di];B[ei];W[ck];B[eg];W[ch];B[dg];W[bg];B[dk];W[bl];B[cf];W[bf];B[ce];W[be];B[cd];W[bd];B[cb];W[cc];B[db];W[dc];B[eb];W[ec];B[fb];W[fc];B[gb];W[hc];B[resign]'
+  player_black: David J Bush
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[df];W[gg];B[fj];W[ii];B[hh];W[eh];B[ei];W[jg];B[if];W[ke];B[kd];W[je];B[jd];W[ie];B[ic];W[id];B[jc];W[gd];B[hd];W[gf];B[hf];W[he];B[resign]'
+  player_black: David J Bush
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[df];W[gf];B[gh];W[ih];B[ij];W[hh];B[ie];W[ff];B[eh];W[fh];B[ej];W[hj];B[gg];W[jf];B[if];W[kd];B[resign]'
+  player_black: David J Bush
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[df];W[gf];B[gg];W[ig];B[ii];W[jh];B[ij];W[kh];B[ik];W[gh];B[fi];W[ei];B[ej];W[dj];B[dk];W[ck];B[fh];W[eh];B[fg];W[lh];B[if];W[ch];B[ef];W[hg];B[ih];W[resign]'
+  player_black: David J Bush
+  player_white: Marius Halsor
+  winner: W
+- moves: 'W[ll];B[swap];W[gg];B[ge];W[ee];B[fh];W[gh];B[fd];W[ie];B[hf];W[if];B[hg];W[he];B[gf];W[ig];B[hh];W[ih];B[hj];W[de];B[gb];W[ce];B[gi];W[ij];B[ii];W[kh];B[jk];W[ki];B[hl];W[li];B[kl];W[dh];B[di];W[hk];B[gl];W[ci];B[bl];W[gk];B[fl];W[dk];B[dj];W[bj];B[ck];W[resign]'
+  player_black: Marius Halsor
+  player_white: David J Bush
+  winner: W
+- moves: 'W[ll];B[swap];W[gg];B[ge];W[ee];B[fh];W[eh];B[ei];W[cj];B[dk];W[bl];B[di];W[ci];B[dg];W[cg];B[ch];W[bh];B[df];W[fg];B[dh];W[gh];B[gi];W[fi];B[hf];W[ig];B[fd];W[je];B[jd];W[he];B[ic];W[gd];B[fe];W[de];B[fc];W[hb];B[hd];W[cf];B[resign]'
+  player_black: Marius Halsor
+  player_white: David J Bush
+  winner: B
+- moves: 'W[ad];B[gg];W[ig];B[ii];W[eh];B[ei];W[gi];B[gh];W[fi];B[fh];W[kf];B[hh];W[ih];B[hi];W[ji];B[jh];W[lg];B[lf];W[kg];B[dk];W[di];B[bl];W[ld];B[kh];W[lh];B[kj];W[resign]'
+  player_black: David J Bush
+  player_white: Marius Halsor
+  winner: W
+- moves: 'W[ac];B[dh];W[fh];B[fj];W[ej];B[dl];W[cl];B[dk];W[ck];B[dj];W[ek];B[fi];W[ei];B[el];W[cj];B[di];W[fk];B[fl];W[hk];B[gk];W[hj];B[gj];W[hi];B[hh];W[jg];B[ih];W[kh];B[jf];W[ig];B[hf];W[if];B[jd];W[ie];B[id];W[he];B[hd];W[ge];B[gd];W[fe];B[fd];W[de];B[ee];W[cg];B[bi];W[dg];B[dd];W[bd];B[resign]'
+  player_black: Leoni
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[dh];W[hg];B[hi];W[kg];B[id];W[jf];B[ie];W[ff];B[gh];W[gg];B[jg];W[fh];B[fe];W[ge];B[ej];W[gi];B[hh];W[kf];B[hc];W[de];B[fd];W[ef];B[df];W[ee];B[dd];W[ed];B[be];W[fb];B[ji];W[fi];B[gj];W[fj];B[el];W[fk];B[fm];W[fl];B[em];W[gl];B[gm];W[ik];B[hl];W[hk];B[resign]'
+  player_black: David J Bush
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ll];B[swap];W[gg];B[ge];W[ee];B[fh];W[gh];B[fi];W[gi];B[gf];W[fg];B[ef];W[dh];B[gd];W[ie];B[hf];W[if];B[hg];W[ig];B[fk];W[hi];B[fl];W[jd];B[ej];W[gk];B[resign]'
+  player_black: Marius Halsor
+  player_white: David J Bush
+  winner: B
+- moves: 'W[ac];B[dg];W[gg];B[gi];W[ii];B[id];W[jd];B[gj];W[jh];B[ki];W[lg];B[kg];W[kh];B[gh];W[if];B[ij];W[hj];B[gl];W[hk];B[hl];W[ik];B[il];W[jk];B[jl];W[lk];B[kk];W[lj];B[je];W[ie];B[ig];W[kf];B[resign]'
+  player_black: Leoni
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[fh];W[ih];B[if];W[gg];B[gf];W[hf];B[id];W[fg];B[hh];W[gh];B[fj];W[gi];B[gk];W[gj];B[fk];W[hj];B[hk];W[jj];B[ij];W[kh];B[jh];W[kg];B[jg];W[kf];B[hl];W[il];B[kd];W[je];B[ic];W[ie];B[ff];W[dg];B[ee];W[he];B[gc];W[gd];B[hb];W[fd];B[resign]'
+  player_black: David J Bush
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[fg];W[hg];B[gi];W[ih];B[ii];W[hi];B[gk];W[gg];B[fj];W[jj];B[hk];W[kh];B[jh];W[kg];B[ki];W[ji];B[jk];W[ik];B[hm];W[lf];B[jl];W[hl];B[gm];W[gl];B[fm];W[fl];B[em];W[el];B[dm];W[dl];B[cm];W[bl];B[cl];W[cj];B[dj];W[di];B[fh];W[eg];B[dh];W[eh];B[fe];W[df];B[dg];W[cg];B[bi];W[ef];B[de];W[ee];B[fc];W[cd];B[dc];W[dd];B[db];W[bc];B[resign]'
+  player_black: David J Bush
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ll];B[swap];W[gg];B[ge];W[ee];B[ec];W[de];B[ef];W[dg];B[di];W[eh];B[hf];W[fe];B[dh];W[eg];B[ei];W[gh];B[cd];W[hh];B[fk];W[gj];B[gk];W[ij];B[hi];W[fj];B[ek];W[ji];B[resign]'
+  player_black: Marius Halsor
+  player_white: Leoni
+  winner: B
+- moves: 'W[cb];B[swap];W[fe];B[gg];W[ig];B[if];W[hg];B[hf];W[ke];B[jf];W[kf];B[jg];W[kg];B[ji];W[eh];B[ei];W[fh];B[fi];W[gh];B[ii];W[gj];B[ff];W[dg];B[ef];W[df];B[ee];W[ki];B[kh];W[mg];B[lg];W[jd];B[de];W[mf];B[lf];W[me];B[le];W[md];B[ld];W[mc];B[lb];W[lc];B[kc];W[kd];B[jc];W[id];B[ic];W[hd];B[hc];W[fd];B[fc];W[gc];B[ha];W[gb];B[ga];W[fb];B[fa];W[db];B[lh];W[mh];B[li];W[mi];B[lj];W[mj];B[ll];W[lk];B[kl];W[kk];B[jl];W[jk];B[il];W[ik];B[hl];W[hk];B[dh];W[ch];B[resign]'
+  player_black: Leoni
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ll];B[swap];W[gg];B[ge];W[he];B[ic];W[hd];B[fh];W[gh];B[fi];W[jk];B[hc];W[gd];B[gc];W[ed];B[fd];W[ee];B[fe];W[ef];B[fg];W[gf];B[ff];W[bj];B[dj];W[cj];B[ci];W[bi];B[ch];W[bh];B[cg];W[bg];B[cf];W[bf];B[ce];W[be];B[cc];W[fb];B[cd];W[kd];B[hh];W[ih];B[jd];W[jc];B[id];W[ld];B[jf];W[kf];B[jg];W[kg];B[ji];W[resign]'
+  player_black: Marius Halsor
+  player_white: David J Bush
+  winner: W
+- moves: 'W[ac];B[eg];W[ii];B[hd];W[jd];B[if];W[ke];B[kd];W[ld];B[kf];W[jf];B[ih];W[kg];B[jg];W[me];B[lf];W[mf];B[lg];W[mg];B[lh];W[mh];B[li];W[mi];B[lj];W[mj];B[lk];W[mk];B[lm];W[ll];B[km];W[kl];B[jm];W[jl];B[im];W[il];B[hm];W[hl];B[gm];W[gl];B[fm];W[fl];B[em];W[dl];B[el];W[ek];B[fk];W[fj];B[hj];W[gj];B[gk];W[hi];B[ij];W[hg];B[lc];W[je];B[ig];W[hf];B[ic];W[kb];B[ie];W[he];B[id];W[fe];B[ge];W[ff];B[fi];W[fh];B[fd];W[gd];B[hb];W[ec];B[gb];W[de];B[ee];W[df];B[ef];W[ch];B[dj];W[bk];B[ci];W[aj];B[bi];W[ai];B[bh];W[ah];B[bg];W[ag];B[bf];W[af];B[bd];W[be];B[dd];W[resign]'
+  player_black: Leoni
+  player_white: Marius Halsor
+  winner: W
+- moves: 'W[ll];B[swap];W[gg];B[ge];W[fg];B[ef];W[he];B[ic];W[jc];B[jb];W[kb];B[id];W[jd];B[ie];W[je];B[if];W[jf];B[ig];W[jg];B[ih];W[jh];B[ij];W[jk];B[ki];W[ii];B[hj];W[hi];B[gj];W[gi];B[ek];W[fj];B[fk];W[ej];B[cl];W[dk];B[dl];W[bl];B[ck];W[bk];B[cj];W[bj];B[dh];W[ci];B[di];W[ch];B[de];W[dg];B[eg];W[df];B[ee];W[resign]'
+  player_black: Marius Halsor
+  player_white: David J Bush
+  winner: W
+- moves: 'W[ll];B[swap];W[gg];B[fi];W[gi];B[gh];W[ig];B[hj];W[ih];B[fk];W[gk];B[gj];W[ij];B[ii];W[kh];B[jk];W[ki];B[hl];W[il];B[ik];W[li];B[kd];W[je];B[kk];W[hk];B[fm];W[fl];B[em];W[el];B[dm];W[dl];B[cm];W[bl];B[jd];W[gf];B[dg];W[he];B[ic];W[gd];B[gc];W[hc];B[ia];W[hb];B[ha];W[gb];B[ga];W[eb];B[fb];W[ec];B[fc];W[ed];B[fd];W[ee];B[eh];W[eg];B[cl];W[cj];B[di];W[dj];B[jh];W[kg];B[jg];W[kf];B[jf];W[ke];B[if];W[ie];B[dk];W[fj];B[ej];W[ci];B[dh];W[resign]'
+  player_black: Marius Halsor
+  player_white: Leoni
+  winner: W
+- moves: 'W[ac];B[gg];W[ig];B[if];W[ke];B[jf];W[fh];B[ej];W[di];B[cj];W[gi];B[gj];W[fj];B[el];W[ih];B[kj];W[fg];B[dk];W[hk];B[ge];W[fe];B[ff];W[dg];B[ef];W[df];B[ed];W[ce];B[cd];W[dd];B[eb];W[gc];B[resign]'
+  player_black: David J Bush
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ac];B[gg];W[ig];B[if];W[ke];B[jf];W[hg];B[hf];W[kf];B[jg];W[fh];B[ej];W[di];B[eg];W[fg];B[ff];W[gf];B[hd];W[ge];B[gd];W[fe];B[fd];W[de];B[dd];W[ed];B[fb];W[ec];B[eb];W[bd];B[bc];W[ad];B[ee];W[df];B[ef];W[ch];B[ci];W[dh];B[cg];W[dg];B[dl];W[fj];B[gh];W[fi];B[fk];W[cl];B[ba];W[db];B[resign]'
+  player_black: David J Bush
+  player_white: Marius Halsor
+  winner: B
+- moves: 'W[ll];B[swap];W[gg];B[ge];W[fg];B[gd];W[jd];B[ie];W[he];B[hf];W[gf];B[ic];W[hc];B[hd];W[id];B[kb];W[jb];B[jc];W[df];B[ef];W[dg];B[ed];W[dd];B[de];W[bf];B[cf];W[bg];B[cg];W[bh];B[ch];W[bi];B[cj];W[ci];B[ei];W[dj];B[di];W[dh];B[gh];W[fi];B[fh];W[ig];B[jf];W[je];B[hi];W[gi];B[hh];W[ii];B[resign]'
+  player_black: Marius Halsor
+  player_white: David J Bush
+  winner: B
+- moves: 'W[mk];B[ed];W[cd];B[fh];W[dg];B[fk];W[ii];B[fe];W[jf];B[je];W[hg];B[jd];W[ge];B[hf];W[fg];B[gi];W[cj];B[ff];W[eg];B[fb];W[be];B[fl];W[dj];B[bl];W[ej];B[ch];W[gd];B[di];W[ke];B[jc];W[ld];B[jb];W[gg];B[ce];W[fd];B[ih];W[hi];B[resign]'
+  player_black: Alexandre
+  player_white: David J Bush
+  winner: B
+- moves: 'W[md];B[swap];W[jj];B[ih];W[cd];B[ef];W[ci];B[ee];W[ig];B[ii];W[fh];B[ed];W[jg];B[ie];W[ge];B[kh];W[gi];B[gj];W[fj];B[gf];W[ff];B[fg];W[eg];B[eh];W[bi];B[dj];W[ck];B[cj];W[ak];B[bl];W[bk];B[cl];W[mf];B[fl];W[lh];B[lg];W[mg];B[lf];W[me];B[le];W[md];B[lc];W[ld];B[kd];W[ke];B[dk];W[mb];B[mc];W[je];B[jd];W[hf];B[he];W[ei];B[di];W[am];B[al]'
+  player_black: 'Shumacher;]'
+  player_white: David J Bush
+  winner: W
+- moves: 'W[ac];B[ij];W[fj];B[fh];W[gh];B[hf];W[gg];B[fi];W[ih];B[gf];W[fg];B[ff];W[dg];B[ee];W[cf];B[ce];W[de];B[ec];W[dd];B[dc];W[bd];B[cd];W[af];B[bf];W[ag];B[bg];W[ah];B[bh];W[ai];B[bj];W[bi];B[dh];W[ei];B[ej];W[dj];B[cj];W[eg];B[ch];W[ed];B[fc];W[fd];B[gc];W[id];B[hd];W[je];B[ig];W[jg];B[jf];W[le];B[kf];W[lf];B[kg];W[lg];B[kh];W[lh];B[kj];W[ki];B[ik];W[ji];B[hi];W[hh];B[ek];W[dl];B[eh];W[resign]'
+  player_black: wojtex
+  player_white: David J Bush
+  winner: W
+- moves: 'W[mb];B[swap];W[ji];B[jk];W[lh];B[je];W[de];B[dc];W[gf];B[gg];W[eh];B[fi];W[dj];B[ek];W[cl];B[cm];W[bl];B[di];W[ei];B[am];W[dl];B[dm];W[el];B[em];W[gk];B[gl];W[ik];B[hk];W[ii];B[jj];W[ij];B[hj];W[gi];B[jl];W[hm];B[hi];W[ig];B[hh];W[hf];B[ih];W[jg];B[jh];W[lg];B[kg];W[me];B[lf];W[mf];B[le];W[md];B[ld];W[mc];B[lb];W[lc];B[jc];W[resign]'
+  player_black: David J Bush
+  player_white: psychoanal
+  winner: W
+- moves: 'W[ad];B[swap];W[ji];B[hf];W[ff];B[fe];W[ie];B[if];W[je];B[jg];W[ef];B[ge];W[ee];B[fh];W[di];B[ej];W[ck];B[fd];W[ed];B[eb];W[ec];B[eg];W[dc];B[ch];W[fg];B[eh];W[gg];B[gh];W[ig];B[jf];W[hg];B[ih];W[resign]'
+  player_black: David J Bush
+  player_white: Leoni
+  winner: W
+- moves: 'W[ac];B[swap];W[ji];B[hf];W[ff];B[gc];W[je];B[jd];W[kd];B[kc];W[hc];B[he];W[dg];B[gd];W[dd];B[fg];W[eg];B[de];W[resign]'
+  player_black: David J Bush
+  player_white: Leoni
+  winner: W
+- moves: 'W[ac];B[swap];W[ih];B[ie];W[gf];B[gi];W[ei];B[hj];W[fi];B[hd];W[fe];B[gc];W[fc];B[fd];W[de];B[eb];W[dd];B[dl];W[hg];B[dk];W[ek];B[el];W[fk];B[ee];W[df];B[ef];W[dg];B[eg];W[ci];B[resign]'
+  player_black: Leoni
+  player_white: David J Bush
+  winner: B
+- moves: 'W[ac];B[swap];W[ji];B[ih];W[gg];B[he];W[if];B[fi];W[eh];B[ic];W[ge];B[dj];W[jf];B[jj];W[kg];B[gk];W[hj];B[fd];W[ef];B[resign]'
+  player_black: David J Bush
+  player_white: Leoni
+  winner: B
+- moves: 'W[ac];B[swap];W[gf];B[gi];W[ih];B[ig];W[hh];B[gg];W[eh];B[ei];W[fi];B[fh];W[hg];B[ie];W[hd];B[jc];W[ib];B[dk];W[hf];B[ii];W[gh];B[fj];W[ej];B[ek];W[ck];B[dj];W[cj];B[di];W[ci];B[dh];W[ch];B[ee];W[dg];B[ff];W[de];B[df];W[bg];B[cf];W[bf];B[ce];W[be];B[db];W[resign]'
+  player_black: Leoni
+  player_white: David J Bush
+  winner: W
+- moves: 'W[ac];B[swap];W[ji];B[jf];W[hf];B[gg];W[ig];B[he];W[ie];B[hg];W[if];B[id];W[jd];B[jc];W[kc];B[la];W[lc];B[lb];W[kb];B[ka];W[jb];B[ja];W[hc];B[hb];W[gc];B[gb];W[ec];B[hi];W[gi];B[hh];W[kh];B[jg];W[ih];B[ii];W[jh];B[ij];W[kj];B[fc];W[de];B[ee];W[df];B[ef];W[ch];B[dg];W[cg];B[ed];W[dd];B[ci];W[dh];B[ei];W[resign]'
+  player_black: David J Bush
+  player_white: Leoni
+  winner: W
+- moves: 'W[ac];B[swap];W[ih];B[ie];W[ge];B[gf];W[eg];B[ff];W[he];B[hf];W[ef];B[fe];W[ee];B[fc];W[de];B[dd];W[fd];B[gc];W[gd];B[ib];W[hc];B[hb];W[jc];B[ei];W[fh];B[fi];W[hg];B[hj];W[ji];B[jj];W[ij];B[hl];W[kd];B[jf];W[le];B[lf];W[kh];B[jh];W[ii];B[resign]'
+  player_black: David J Bush
+  player_white: Leoni
+  winner: B
+- moves: 'W[ac];B[ef];W[ei];B[jk];W[lk];B[kl];W[ll];B[ij];W[gf];B[fh];W[cg];B[de];W[eg];B[ff];W[fg]'
+  player_black: Alexandre
+  player_white: wojtex
+  winner: B
+- moves: 'W[ka];B[ed];W[cd];B[cb];W[bc];B[bb];W[cc];B[ei];W[ck];B[hf];W[gg];B[ij];W[kj];B[kl];W[ik];B[fe];W[ef];B[ff];W[bg];B[dh];W[bi];B[ce];W[de];B[dd];W[af];B[fc];W[db];B[eh];W[bj];B[bh];W[dg];B[ch];W[jg];B[je];W[gf];B[hd];W[ah];B[ai];W[lb];B[jd];W[resign]'
+  player_black: wojtex
+  player_white: pOmek:B
+  winner: W
+- moves: 'W[af];B[ij];W[jj];B[ed];W[hf];B[jb];W[fd];B[fk];W[hj];B[hh];W[fh];B[ej];W[dj];B[ei];W[eh];B[fl];W[ii];B[gh];W[jg];B[if];W[ke];B[kf];W[jf];B[jh];W[ih];B[kc];W[jd];B[kd];W[je];B[hc];W[jc];B[kb];W[ic];B[ib];W[gb];B[hd];W[he];B[fe];W[ge];B[gd];W[df];B[ff];W[cg];B[gg];W[di];B[cl];W[bl];B[fc];W[ce];B[bf];W[be];B[resign]'
+  player_black: wojtex
+  player_white: pOmek:B
+  winner: B
+- moves: 'W[ac];B[ii];W[fh];B[ff];W[gf];B[fg];W[gg];B[hd];W[ge];B[gd];W[fe];B[fd];W[de];B[dj];W[hg];B[ek];W[ej];B[dk];W[fk];B[fj];W[hi];B[gk];W[gj];B[bd];W[di];B[resign]'
+  player_black: wojtex
+  player_white: psychoanal
+  winner: B
