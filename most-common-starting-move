@@ -1,27 +1,16 @@
 #! /usr/bin/env perl -w
 use 5.010;
 use strict;
-use YAML qw<LoadFile>;
+use GameAPI;
 
 my %first_moves;
-
-for my $game (@{LoadFile("games")}) {
-    my $moves = $game->{moves};
-    $moves =~ s/;.*//;
-
-    my $col = substr($moves, 2, 1);
-    my $row = ord(substr($moves, 3)) - ord("a") + 1;
-
-    if ($row > 7) {
-        $row = 14 - $row;
-        $col = chr(ord("n") - (ord($col) - ord("a") + 1))
-    }
-
-    $first_moves{$col.$row}++
+for my $game (GameAPI->load_games_from_file('games')) {
+    my $first_move = @{$game->moves}[0];
+    $first_moves{ $first_move->normalize_upper_left->as_game_coords }++;
 }
 
 for my $key ( sort {$first_moves{$b} <=> $first_moves{$a}}
               keys %first_moves ) {
 
-    say $key, ": ", $first_moves{$key}
+    say sprintf("%3s", $key), ": ", $first_moves{$key}
 }
